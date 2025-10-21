@@ -1,7 +1,7 @@
 # --- Config ---
 BASE_URL = "https://mw2.wiki"
 LIMIT = 1000  # items per request
-MAX_PAGES = 20  # how many pages to scrape
+MAX_PAGES = 999  # how many pages to scrape
 SERVER_ID = 10  # 1=eternal, 2=interlude, 10=lu4black, 11=lu4pink
 OUTPUT_FILE = "items_list.tsv"
 WAIT_TIME = 2  # wait time (seconds) between pages
@@ -117,9 +117,24 @@ for page in range(1, MAX_PAGES + 1):
         item_id_match = re.search(r"/item/(\d+)-", relative_link)
         item_id = item_id_match.group(1) if item_id_match else ""
 
-        # Extract name
+        # Extract name (without grade)
         name_tag = a_tag.select_one(".item-name__content")
-        item_name = name_tag.get_text(strip=True) if name_tag else ""
+        grade_tag = a_tag.select_one(".item-grade")
+
+        # Temporarily remove grade text from name
+        if name_tag:
+            item_name = name_tag.get_text(strip=True)
+            if grade_tag:
+                grade_text = grade_tag.get_text(strip=True)
+                # Remove grade text from the end of the name if present
+                if item_name.endswith(grade_text):
+                    item_name = item_name[: -len(grade_text)].strip()
+        else:
+            item_name = ""
+
+        # Extract grade
+        item_grade = grade_tag.get_text(strip=True) if grade_tag else ""
+
 
         # Extract icon filename only
         icon_tag = a_tag.select_one("img")
