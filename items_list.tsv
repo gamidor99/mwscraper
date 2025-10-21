@@ -1,0 +1,401 @@
+id	name	icon	grade	link	chronicle
+1	Short SwordNone	weapon_small_sword_i00	None	https://mw2.wiki/item/1-short-sword/lu4	lu4
+2	Long SwordNone	weapon_long_sword_i00	None	https://mw2.wiki/item/2-long-sword/lu4	lu4
+3	BroadswordNone	weapon_broad_sword_i00	None	https://mw2.wiki/item/3-broadsword/lu4	lu4
+4	ClubNone	weapon_club_i00	None	https://mw2.wiki/item/4-club/lu4	lu4
+5	MaceNone	weapon_mace_i00	None	https://mw2.wiki/item/5-mace/lu4	lu4
+6	Apprentice's WandNone	weapon_apprentices_wand_i00	None	https://mw2.wiki/item/6-apprentices-wand/lu4	lu4
+7	Apprentice's RodNone	weapon_apprentices_rod_i00	None	https://mw2.wiki/item/7-apprentices-rod/lu4	lu4
+8	Willow StaffNone	weapon_willow_staff_i00	None	https://mw2.wiki/item/8-willow-staff/lu4	lu4
+9	Cedar StaffNone	weapon_cedar_staff_i00	None	https://mw2.wiki/item/9-cedar-staff/lu4	lu4
+10	DaggerNone	weapon_dagger_i00	None	https://mw2.wiki/item/10-dagger/lu4	lu4
+11	Bone DaggerNone	weapon_bone_dagger_i00	None	https://mw2.wiki/item/11-bone-dagger/lu4	lu4
+12	KnifeNone	weapon_knife_i00	None	https://mw2.wiki/item/12-knife/lu4	lu4
+13	Short BowNone	weapon_short_bow_i00	None	https://mw2.wiki/item/13-short-bow/lu4	lu4
+14	BowNone	weapon_bow_i00	None	https://mw2.wiki/item/14-bow/lu4	lu4
+15	Short SpearNone	weapon_short_spear_i00	None	https://mw2.wiki/item/15-short-spear/lu4	lu4
+16	Great SpearNone	weapon_long_spear_i00	None	https://mw2.wiki/item/16-great-spear/lu4	lu4
+17	Wooden ArrowNone	etc_wooden_quiver_i00	None	https://mw2.wiki/item/17-wooden-arrow/lu4	lu4
+18	Leather ShieldNone	shield_leather_shield_i00	None	https://mw2.wiki/item/18-leather-shield/lu4	lu4
+19	Small ShieldNone	shield_small_shield_i00	None	https://mw2.wiki/item/19-small-shield/lu4	lu4
+20	BucklerNone	shield_buckler_i00	None	https://mw2.wiki/item/20-buckler/lu4	lu4
+21	ShirtNone	armor_t02_u_i00	None	https://mw2.wiki/item/21-shirt/lu4	lu4
+22	Leather ShirtNone	armor_t04_u_i00	None	https://mw2.wiki/item/22-leather-shirt/lu4	lu4
+23	Wooden BreastplateNone	armor_t06_u_i00	None	https://mw2.wiki/item/23-wooden-breastplate/lu4	lu4
+24	Bone BreastplateNone	armor_t32_u_i00	None	https://mw2.wiki/item/24-bone-breastplate/lu4	lu4
+25	Piece Bone BreastplateNone	armor_t33_u_i00	None	https://mw2.wiki/item/25-piece-bone-breastplate/lu4	lu4
+26	Bronze BreastplateNone	armor_t34_u_i00	None	https://mw2.wiki/item/26-bronze-breastplate/lu4	lu4
+27	Hard Leather ShirtNone	armor_t30_u_i00	None	https://mw2.wiki/item/27-hard-leather-shirt/lu4	lu4
+28	PantsNone	armor_t02_l_i00	None	https://mw2.wiki/item/28-pants/lu4	lu4
+29	Leather PantsNone	armor_t04_l_i00	None	https://mw2.wiki/item/29-leather-pants/lu4	lu4
+30	Hard Leather PantsNone	armor_t06_l_i00	None	https://mw2.wiki/item/30-hard-leather-pants/lu4	lu4
+31	Bone GaitersNone	armor_t32_l_i00	None	https://mw2.wiki/item/31-bone-gaiters/lu4	lu4
+32	Piece Bone GaitersNone	armor_t33_l_i00	None	https://mw2.wiki/item/32-piece-bone-gaiters/lu4	lu4
+33	Hard Leather GaitersNone	armor_t30_l_i00	None	https://mw2.wiki/item/33-hard-leather-gaiters/lu4	lu4
+34	Bronze GaitersNone	armor_t34_l_i00	None	https://mw2.wiki/item/34-bronze-gaiters/lu4	lu4
+35	Cloth ShoesNone	armor_t02_b_i00	None	https://mw2.wiki/item/35-cloth-shoes/lu4	lu4
+36	Leather SandalsNone	armor_t03_b_i00	None	https://mw2.wiki/item/36-leather-sandals/lu4	lu4
+37	Leather ShoesNone	armor_t05_b_i00	None	https://mw2.wiki/item/37-leather-shoes/lu4	lu4
+38	Low BootsNone	armor_t32_b_i00	None	https://mw2.wiki/item/38-low-boots/lu4	lu4
+39	BootsNone	armor_t30_b_i00	None	https://mw2.wiki/item/39-boots/lu4	lu4
+40	Leather BootsD	armor_t09_b_i00	D	https://mw2.wiki/item/40-leather-boots/lu4	lu4
+41	Cloth CapNone	armor_cloth_helmet_i00	None	https://mw2.wiki/item/41-cloth-cap/lu4	lu4
+42	Leather CapNone	armor_leather_helmet_i00	None	https://mw2.wiki/item/42-leather-cap/lu4	lu4
+43	Wooden HelmetNone	armor_leather_helmet_i00	None	https://mw2.wiki/item/43-wooden-helmet/lu4	lu4
+44	Leather HelmetNone	armor_leather_helmet_i00	None	https://mw2.wiki/item/44-leather-helmet/lu4	lu4
+45	Bone HelmetD	armor_leather_helmet_i00	D	https://mw2.wiki/item/45-bone-helmet/lu4	lu4
+46	Bronze HelmetD	armor_helmet_i00	D	https://mw2.wiki/item/46-bronze-helmet/lu4	lu4
+47	Mithril HelmetD	armor_helmet_i00	D	https://mw2.wiki/item/47-mithril-helmet/lu4	lu4
+48	Short GlovesNone	armor_t02_g_i00	None	https://mw2.wiki/item/48-short-gloves/lu4	lu4
+49	GlovesNone	armor_t06_g_i00	None	https://mw2.wiki/item/49-gloves/lu4	lu4
+50	Leather GlovesNone	armor_t32_g_i00	None	https://mw2.wiki/item/50-leather-gloves/lu4	lu4
+51	BracerNone	armor_t30_g_i00	None	https://mw2.wiki/item/51-bracer/lu4	lu4
+53	(Not In Use)None	etc_pi_gift_box_i00	None	https://mw2.wiki/item/53-not-in-use/lu4	lu4
+54	(Not In Use)None	etc_pi_gift_box_i00	None	https://mw2.wiki/item/54-not-in-use/lu4	lu4
+55	Shiny Agathion 7-Day PackNone	etc_pi_gift_box_i02	None	https://mw2.wiki/item/55-shiny-agathion-7-day-pack/lu4	lu4
+56	Sobbing Agathion 7-Day PackNone	etc_pi_gift_box_i02	None	https://mw2.wiki/item/56-sobbing-agathion-7-day-pack/lu4	lu4
+57	AdenaNone	etc_adena_i00	None	https://mw2.wiki/item/57-adena/lu4	lu4
+58	Mithril BreastplateD	armor_t19_u_i00	D	https://mw2.wiki/item/58-mithril-breastplate/lu4	lu4
+59	Mithril GaitersD	armor_t19_l_i00	D	https://mw2.wiki/item/59-mithril-gaiters/lu4	lu4
+60	Composite ArmorC	armor_t61_ul_i00	C	https://mw2.wiki/item/60-composite-armor/lu4	lu4
+61	Mithril Plate GlovesD	armor_t46_g_i00	D	https://mw2.wiki/item/61-mithril-plate-gloves/lu4	lu4
+62	Reinforced Mithril BootsC	armor_t42_b_i00	C	https://mw2.wiki/item/62-reinforced-mithril-boots/lu4	lu4
+63	GauntletsD	armor_t10_g_i00	D	https://mw2.wiki/item/63-gauntlets/lu4	lu4
+64	Composite BootsC	armor_t61_b_i00	C	https://mw2.wiki/item/64-composite-boots/lu4	lu4
+65	Red PotionNone	etc_potion_red_i00	None	https://mw2.wiki/item/65-red-potion/lu4	lu4
+66	GladiusNone	weapon_gladius_i00	None	https://mw2.wiki/item/66-gladius/lu4	lu4
+67	Orcish SwordNone	weapon_orcish_sword_i00	None	https://mw2.wiki/item/67-orcish-sword/lu4	lu4
+68	FalchionNone	weapon_falchion_i00	None	https://mw2.wiki/item/68-falchion/lu4	lu4
+69	Bastard SwordD	weapon_bastard_sword_i00	D	https://mw2.wiki/item/69-bastard-sword/lu4	lu4
+70	ClaymoreD	weapon_claymore_i00	D	https://mw2.wiki/item/70-claymore/lu4	lu4
+71	FlambergeC	weapon_flamberge_i00	C	https://mw2.wiki/item/71-flamberge/lu4	lu4
+72	StormbringerC	weapon_stormbringer_i00	C	https://mw2.wiki/item/72-stormbringer/lu4	lu4
+73	ShamshirC	weapon_shamshir_i00	C	https://mw2.wiki/item/73-shamshir/lu4	lu4
+74	KatanaC	weapon_katana_i00	C	https://mw2.wiki/item/74-katana/lu4	lu4
+75	CalibursC	weapon_caliburs_i00	C	https://mw2.wiki/item/75-caliburs/lu4	lu4
+76	Sword of DelusionC	weapon_sword_of_delusion_i00	C	https://mw2.wiki/item/76-sword-of-delusion/lu4	lu4
+77	TsurugiC	weapon_tsurugi_i00	C	https://mw2.wiki/item/77-tsurugi/lu4	lu4
+78	Great SwordB	weapon_great_sword_i00	B	https://mw2.wiki/item/78-great-sword/lu4	lu4
+79	Sword of DamascusB	weapon_sword_of_damascus_i00	B	https://mw2.wiki/item/79-sword-of-damascus/lu4	lu4
+80	Tallum BladeA	weapon_tallum_blade_i00	A	https://mw2.wiki/item/80-tallum-blade/lu4	lu4
+81	Dragon SlayerA	weapon_dragon_slayer_i00	A	https://mw2.wiki/item/81-dragon-slayer/lu4	lu4
+82	Gaz BladeS	weapon_forgotten_blade_i00	S	https://mw2.wiki/item/82-gaz-blade/lu4	lu4
+83	Sword of MagicD	weapon_sword_of_magic_i00	D	https://mw2.wiki/item/83-sword-of-magic/lu4	lu4
+84	Homunkulus's SwordC	weapon_homunkuluss_sword_i00	C	https://mw2.wiki/item/84-homunkuluss-sword/lu4	lu4
+85	Phantom SwordA	weapon_phantom_sword_i00	A	https://mw2.wiki/item/85-phantom-sword/lu4	lu4
+86	TomahawkD	weapon_tomahawk_i00	D	https://mw2.wiki/item/86-tomahawk/lu4	lu4
+87	Iron HammerNone	weapon_iron_hammer_i00	None	https://mw2.wiki/item/87-iron-hammer/lu4	lu4
+88	Morning StarD	weapon_morning_star_i00	D	https://mw2.wiki/item/88-morning-star/lu4	lu4
+89	Big HammerC	weapon_big_hammer_i00	C	https://mw2.wiki/item/89-big-hammer/lu4	lu4
+90	Goat Head StaffD	weapon_goathead_staff_i00	D	https://mw2.wiki/item/90-goat-head-staff/lu4	lu4
+91	Heavy War AxeB	weapon_heavy_war_axe_i00	B	https://mw2.wiki/item/91-heavy-war-axe/lu4	lu4
+92	Sprite's StaffB	weapon_sprites_staff_i00	B	https://mw2.wiki/item/92-sprites-staff/lu4	lu4
+93	Winged SpearD	weapon_winged_spear_i00	D	https://mw2.wiki/item/93-winged-spear/lu4	lu4
+94	Bec de CorbinC	weapon_bech_de_corbin_i00	C	https://mw2.wiki/item/94-bec-de-corbin/lu4	lu4
+95	PoleaxeC	weapon_poleaxe_i00	C	https://mw2.wiki/item/95-poleaxe/lu4	lu4
+96	ScytheC	weapon_scythe_i00	C	https://mw2.wiki/item/96-scythe/lu4	lu4
+97	LanceB	weapon_lancia_i00	B	https://mw2.wiki/item/97-lance/lu4	lu4
+98	HalberdA	weapon_halbard_i00	A	https://mw2.wiki/item/98-halberd/lu4	lu4
+99	Apprentice's SpellbookNone	weapon_apprentices_spellbook_i00	None	https://mw2.wiki/item/99-apprentices-spellbook/lu4	lu4
+100	Voodoo DollNone	weapon_voodoo_doll_i00	None	https://mw2.wiki/item/100-voodoo-doll/lu4	lu4
+101	Scroll of WisdomD	weapon_scroll_of_wisdom_i00	D	https://mw2.wiki/item/101-scroll-of-wisdom/lu4	lu4
+102	Round ShieldNone	shield_round_shield_i00	None	https://mw2.wiki/item/102-round-shield/lu4	lu4
+103	Tower ShieldC	shield_tower_shield_i00	C	https://mw2.wiki/item/103-tower-shield/lu4	lu4
+104	Shield of VictoryB	shield_small_shield_i00	B	https://mw2.wiki/item/104-shield-of-victory/lu4	lu4
+105	Implosion ShieldB	shield_doom_shield_i00	B	https://mw2.wiki/item/105-implosion-shield/lu4	lu4
+106	Dark Dragon ShieldDFoundation	shield_dark_dragon_shield_i00	D	https://mw2.wiki/item/106-dark-dragon-shield/lu4	lu4
+107	Composite ShieldC	shield_composite_shield_i00	C	https://mw2.wiki/item/107-composite-shield/lu4	lu4
+108	Masterpiece ShieldDFoundation	shield_masterpiece_shield_i00	D	https://mw2.wiki/item/108-masterpiece-shield/lu4	lu4
+109	Shield of Solar EclipseDFoundation	shield_shield_of_sola_eclipse_i00	D	https://mw2.wiki/item/109-shield-of-solar-eclipse/lu4	lu4
+110	Doom ShieldB	shield_doom_shield_i00	B	https://mw2.wiki/item/110-doom-shield/lu4	lu4
+111	Shield of PledgeB	shield_shield_of_pledge_i00	B	https://mw2.wiki/item/111-shield-of-pledge/lu4	lu4
+112	Apprentice's EarringNone	accessary_apprentices_earing_i00	None	https://mw2.wiki/item/112-apprentices-earring/lu4	lu4
+113	Mystic's EarringNone	accessary_mage_earing_i00	None	https://mw2.wiki/item/113-mystics-earring/lu4	lu4
+114	Earring of StrengthNone	accessary_earing_of_strength_i00	None	https://mw2.wiki/item/114-earring-of-strength/lu4	lu4
+115	Earring of WisdomNone	accessary_earing_of_wisdom_i00	None	https://mw2.wiki/item/115-earring-of-wisdom/lu4	lu4
+116	Magic RingNone	accessary_magic_ring_i00	None	https://mw2.wiki/item/116-magic-ring/lu4	lu4
+117	Ring of ManaB	accessary_ring_of_mana_i00	B	https://mw2.wiki/item/117-ring-of-mana/lu4	lu4
+118	Necklace of MagicNone	accessary_necklace_of_magic_i00	None	https://mw2.wiki/item/118-necklace-of-magic/lu4	lu4
+119	Necklace of SealC	accessary_necklace_of_binding_i00	C	https://mw2.wiki/item/119-necklace-of-seal/lu4	lu4
+120	Sword of ReflectionNone	weapon_sword_of_watershadow_i00	None	https://mw2.wiki/item/120-sword-of-reflection/lu4	lu4
+121	Sword of WatershadowNone	weapon_sword_of_watershadow_i00	None	https://mw2.wiki/item/121-sword-of-watershadow/lu4	lu4
+122	Handmade SwordNone	weapon_handmade_sword_i00	None	https://mw2.wiki/item/122-handmade-sword/lu4	lu4
+123	SaberD	weapon_saber_i00	D	https://mw2.wiki/item/123-saber/lu4	lu4
+124	Two-Handed SwordD	weapon_two_handed_sword_i00	D	https://mw2.wiki/item/124-two-handed-sword/lu4	lu4
+125	Spinebone SwordD	weapon_spinebone_sword_i00	D	https://mw2.wiki/item/125-spinebone-sword/lu4	lu4
+126	Artisan's SwordD	weapon_artisans_sword_i00	D	https://mw2.wiki/item/126-artisans-sword/lu4	lu4
+127	Crimson SwordD	weapon_crimson_sword_i00	D	https://mw2.wiki/item/127-crimson-sword/lu4	lu4
+128	Knight's SwordD	weapon_knights_sword_i00	D	https://mw2.wiki/item/128-knights-sword/lu4	lu4
+129	Sword of RevolutionD	weapon_sword_of_revolution_i00	D	https://mw2.wiki/item/129-sword-of-revolution/lu4	lu4
+130	Elven SwordD	weapon_elven_sword_i00	D	https://mw2.wiki/item/130-elven-sword/lu4	lu4
+131	Spirit SwordC	weapon_spirits_sword_i00	C	https://mw2.wiki/item/131-spirit-sword/lu4	lu4
+132	Sword of LimitC	weapon_sword_of_limit_i00	C	https://mw2.wiki/item/132-sword-of-limit/lu4	lu4
+133	Raid SwordC	weapon_raid_sword_i00	C	https://mw2.wiki/item/133-raid-sword/lu4	lu4
+134	Sword of NightmareC	weapon_sword_of_nightmare_i00	C	https://mw2.wiki/item/134-sword-of-nightmare/lu4	lu4
+135	Samurai LongswordC	weapon_samurai_longsword_i00	C	https://mw2.wiki/item/135-samurai-longsword/lu4	lu4
+136	(Not In Use)None	etc_pi_gift_box_i00	None	https://mw2.wiki/item/136-not-in-use/lu4	lu4
+137	(Not In Use)None	etc_pi_gift_box_i00	None	https://mw2.wiki/item/137-not-in-use/lu4	lu4
+138	(Not In Use)None	etc_pi_gift_box_i00	None	https://mw2.wiki/item/138-not-in-use/lu4	lu4
+139	Sudden Agathion 7-Day PackNone	etc_pi_gift_box_i02	None	https://mw2.wiki/item/139-sudden-agathion-7-day-pack/lu4	lu4
+140	Shiny Agathion 7-Day PackNone	etc_pi_gift_box_i02	None	https://mw2.wiki/item/140-shiny-agathion-7-day-pack/lu4	lu4
+141	Sobbing Agathion 7-Day PackNone	etc_pi_gift_box_i02	None	https://mw2.wiki/item/141-sobbing-agathion-7-day-pack/lu4	lu4
+142	KeshanberkB	weapon_kshanberk_i00	B	https://mw2.wiki/item/142-keshanberk/lu4	lu4
+143	Sword of MysticD	weapon_sword_of_mystic_i00	D	https://mw2.wiki/item/143-sword-of-mystic/lu4	lu4
+144	Sword of OccultD	weapon_sword_of_occult_i00	D	https://mw2.wiki/item/144-sword-of-occult/lu4	lu4
+145	Sword of Whispering DeathC	weapon_deathbreath_sword_i00	C	https://mw2.wiki/item/145-sword-of-whispering-death/lu4	lu4
+146	GhoulbaneB	weapon_falchion_i00	B	https://mw2.wiki/item/146-ghoulbane/lu4	lu4
+147	Tear of DarknessA	weapon_shamshir_i00	A	https://mw2.wiki/item/147-tear-of-darkness/lu4	lu4
+148	Sword of ValhallaB	weapon_sword_of_valhalla_i00	B	https://mw2.wiki/item/148-sword-of-valhalla/lu4	lu4
+149	Sword of LifeA	weapon_needle_wolverine_i00	A	https://mw2.wiki/item/149-sword-of-life/lu4	lu4
+150	Elemental SwordA	weapon_elemental_sword_i00	A	https://mw2.wiki/item/150-elemental-sword/lu4	lu4
+151	Sword of MiraclesA	weapon_sword_of_miracle_i00	A	https://mw2.wiki/item/151-sword-of-miracles/lu4	lu4
+152	Heavy ChiselNone	weapon_heavy_chisel_i00	None	https://mw2.wiki/item/152-heavy-chisel/lu4	lu4
+153	SigilNone	weapon_sickle_i00	None	https://mw2.wiki/item/153-sigil/lu4	lu4
+154	Dwarven MaceNone	weapon_dwarven_mace_i00	None	https://mw2.wiki/item/154-dwarven-mace/lu4	lu4
+155	Flanged MaceNone	weapon_buzdygan_i00	None	https://mw2.wiki/item/155-flanged-mace/lu4	lu4
+156	Hand AxeD	weapon_hand_axe_i00	D	https://mw2.wiki/item/156-hand-axe/lu4	lu4
+157	Spiked ClubD	weapon_spike_club_i00	D	https://mw2.wiki/item/157-spiked-club/lu4	lu4
+158	TarbarD	weapon_tarbar_i00	D	https://mw2.wiki/item/158-tarbar/lu4	lu4
+159	BonebreakerD	weapon_bonebreaker_i00	D	https://mw2.wiki/item/159-bonebreaker/lu4	lu4
+160	Battle AxeC	weapon_battle_axe_i00	C	https://mw2.wiki/item/160-battle-axe/lu4	lu4
+161	Silver AxeC	weapon_war_pick_i00	C	https://mw2.wiki/item/161-silver-axe/lu4	lu4
+162	War AxeC	weapon_war_axe_i00	C	https://mw2.wiki/item/162-war-axe/lu4	lu4
+163	(Not In Use)None	etc_pi_gift_box_i00	None	https://mw2.wiki/item/163-not-in-use/lu4	lu4
+164	ElysianA	weapon_elysian_i00	A	https://mw2.wiki/item/164-elysian/lu4	lu4
+165	Yablonski's HammerS	weapon_basalt_battlehammer_i00	S	https://mw2.wiki/item/165-yablonskis-hammer/lu4	lu4
+166	Heavy MaceD	weapon_heavy_mace_i00	D	https://mw2.wiki/item/166-heavy-mace/lu4	lu4
+167	ScalpelD	weapon_scalpel_i00	D	https://mw2.wiki/item/167-scalpel/lu4	lu4
+168	Work HammerD	weapon_work_hammer_i00	D	https://mw2.wiki/item/168-work-hammer/lu4	lu4
+169	Skull BreakerD	weapon_skull_breaker_i00	D	https://mw2.wiki/item/169-skull-breaker/lu4	lu4
+170	Sudden Agathion 7-Day PackNone	etc_pi_gift_box_i02	None	https://mw2.wiki/item/170-sudden-agathion-7-day-pack/lu4	lu4
+171	Deadman's GloryB	weapon_deadmans_glory_i00	B	https://mw2.wiki/item/171-deadmans-glory/lu4	lu4
+172	Heavy Bone ClubD	weapon_heavy_bone_club_i00	D	https://mw2.wiki/item/172-heavy-bone-club/lu4	lu4
+173	Skull GraverC	weapon_skull_graver_i00	C	https://mw2.wiki/item/173-skull-graver/lu4	lu4
+174	Nirvana AxeC	weapon_nirvana_axe_i00	C	https://mw2.wiki/item/174-nirvana-axe/lu4	lu4
+175	Art of Battle AxeB	weapon_art_of_battle_axe_i00	B	https://mw2.wiki/item/175-art-of-battle-axe/lu4	lu4
+176	Apprentice's StaffNone	weapon_apprentices_staff_i00	None	https://mw2.wiki/item/176-apprentices-staff/lu4	lu4
+177	Mage StaffNone	weapon_apprentices_staff_i00	None	https://mw2.wiki/item/177-mage-staff/lu4	lu4
+178	Bone StaffD	weapon_apprentices_staff_i00	D	https://mw2.wiki/item/178-bone-staff/lu4	lu4
+179	Mace of PrayerD	weapon_mace_of_prayer_i00	D	https://mw2.wiki/item/179-mace-of-prayer/lu4	lu4
+180	Mace of JudgmentD	weapon_mace_of_judgment_i00	D	https://mw2.wiki/item/180-mace-of-judgment/lu4	lu4
+181	Mace of MiracleD	weapon_mace_of_miracle_i00	D	https://mw2.wiki/item/181-mace-of-miracle/lu4	lu4
+182	Doom HammerD	weapon_doom_hammer_i00	D	https://mw2.wiki/item/182-doom-hammer/lu4	lu4
+183	Mystic StaffD	weapon_mystic_staff_i00	D	https://mw2.wiki/item/183-mystic-staff/lu4	lu4
+184	Conjuror's StaffD	weapon_conjure_staff_i00	D	https://mw2.wiki/item/184-conjurors-staff/lu4	lu4
+185	Staff of ManaD	weapon_staff_of_mana_i00	D	https://mw2.wiki/item/185-staff-of-mana/lu4	lu4
+186	Staff of MagicD	weapon_staff_of_magicpower_i00	D	https://mw2.wiki/item/186-staff-of-magic/lu4	lu4
+187	Atuba HammerD	weapon_atuba_hammer_i00	D	https://mw2.wiki/item/187-atuba-hammer/lu4	lu4
+188	Ghost StaffD	weapon_ghost_staff_i00	D	https://mw2.wiki/item/188-ghost-staff/lu4	lu4
+189	Staff of LifeD	weapon_life_stick_i00	D	https://mw2.wiki/item/189-staff-of-life/lu4	lu4
+190	Atuba MaceD	weapon_atuba_mace_i00	D	https://mw2.wiki/item/190-atuba-mace/lu4	lu4
+191	Heavy Doom HammerC	weapon_heavy_doom_hammer_i00	C	https://mw2.wiki/item/191-heavy-doom-hammer/lu4	lu4
+192	Crystal StaffC	weapon_crystal_staff_i00	C	https://mw2.wiki/item/192-crystal-staff/lu4	lu4
+193	Stick of FaithC	weapon_stick_of_faith_i00	C	https://mw2.wiki/item/193-stick-of-faith/lu4	lu4
+194	Heavy Doom AxeC	weapon_heavy_doom_axe_i00	C	https://mw2.wiki/item/194-heavy-doom-axe/lu4	lu4
+195	Cursed StaffC	weapon_cursed_staff_i00	C	https://mw2.wiki/item/195-cursed-staff/lu4	lu4
+196	Stick of EternityC	weapon_stick_of_eternity_i00	C	https://mw2.wiki/item/196-stick-of-eternity/lu4	lu4
+197	Paradia StaffC	weapon_paradia_staff_i00	C	https://mw2.wiki/item/197-paradia-staff/lu4	lu4
+198	Inferno StaffC	weapon_inferno_staff_i00	C	https://mw2.wiki/item/198-inferno-staff/lu4	lu4
+199	Pa'agrian HammerC	weapon_paagrio_hammer_i00	C	https://mw2.wiki/item/199-paagrian-hammer/lu4	lu4
+200	Sage's StaffC	weapon_sages_staff_i00	C	https://mw2.wiki/item/200-sages-staff/lu4	lu4
+201	Club of NatureC	weapon_club_of_nature_i00	C	https://mw2.wiki/item/201-club-of-nature/lu4	lu4
+202	Mace of UnderworldC	weapon_mace_of_underworld_i00	C	https://mw2.wiki/item/202-mace-of-underworld/lu4	lu4
+203	Pa'agrian AxeC	weapon_paagrio_axe_i00	C	https://mw2.wiki/item/203-paagrian-axe/lu4	lu4
+204	Deadman's StaffC	weapon_deadmans_staff_i00	C	https://mw2.wiki/item/204-deadmans-staff/lu4	lu4
+205	Ghoul's StaffC	weapon_ghouls_staff_i00	C	https://mw2.wiki/item/205-ghouls-staff/lu4	lu4
+206	Demon's StaffC	weapon_demons_staff_i00	C	https://mw2.wiki/item/206-demons-staff/lu4	lu4
+207	Staff of PhantomB	weapon_apprentices_staff_i00	B	https://mw2.wiki/item/207-staff-of-phantom/lu4	lu4
+208	Staff of SealB	weapon_apprentices_staff_i00	B	https://mw2.wiki/item/208-staff-of-seal/lu4	lu4
+209	Divine StaffB	weapon_apprentices_staff_i00	B	https://mw2.wiki/item/209-divine-staff/lu4	lu4
+210	Staff of Evil SpiritsB	weapon_staff_of_evil_sprit_i00	B	https://mw2.wiki/item/210-staff-of-evil-spirits/lu4	lu4
+211	Staff of NobilityB	weapon_apprentices_staff_i00	B	https://mw2.wiki/item/211-staff-of-nobility/lu4	lu4
+212	Dasparion's StaffA	weapon_dasparions_staff_i00	A	https://mw2.wiki/item/212-dasparions-staff/lu4	lu4
+213	Branch of the Mother TreeA	weapon_worldtrees_branch_i00	A	https://mw2.wiki/item/213-branch-of-the-mother-tree/lu4	lu4
+214	The StaffS	weapon_imperial_staff_i00	S	https://mw2.wiki/item/214-the-staff/lu4	lu4
+215	Doom DaggerNone	weapon_doomed_dagger_i00	None	https://mw2.wiki/item/215-doom-dagger/lu4	lu4
+216	DirkNone	weapon_dirk_i00	None	https://mw2.wiki/item/216-dirk/lu4	lu4
+217	Shining KnifeNone	weapon_shining_knife_i00	None	https://mw2.wiki/item/217-shining-knife/lu4	lu4
+218	Throwing KnifeNone	weapon_throw_knife_i00	None	https://mw2.wiki/item/218-throwing-knife/lu4	lu4
+219	Sword BreakerNone	weapon_sword_breaker_i00	None	https://mw2.wiki/item/219-sword-breaker/lu4	lu4
+220	Crafted DaggerD	weapon_handiwork_dagger_i00	D	https://mw2.wiki/item/220-crafted-dagger/lu4	lu4
+221	Assassin KnifeD	weapon_assassin_knife_i00	D	https://mw2.wiki/item/221-assassin-knife/lu4	lu4
+222	Poniard DaggerD	weapon_dirk_i00	D	https://mw2.wiki/item/222-poniard-dagger/lu4	lu4
+223	KukuriD	weapon_kukuri_i00	D	https://mw2.wiki/item/223-kukuri/lu4	lu4
+224	MaingaucheD	weapon_maingauche_i00	D	https://mw2.wiki/item/224-maingauche/lu4	lu4
+225	Mithril DaggerD	weapon_mithril_dagger_i00	D	https://mw2.wiki/item/225-mithril-dagger/lu4	lu4
+226	Cursed DaggerC	weapon_cursed_dagger_i00	C	https://mw2.wiki/item/226-cursed-dagger/lu4	lu4
+227	StilettoC	weapon_stiletto_i00	C	https://mw2.wiki/item/227-stiletto/lu4	lu4
+228	Crystal DaggerC	weapon_crystal_dagger_i00	C	https://mw2.wiki/item/228-crystal-dagger/lu4	lu4
+229	KrisB	weapon_kris_i00	B	https://mw2.wiki/item/229-kris/lu4	lu4
+230	Wolverine NeedleC	weapon_needle_wolverine_i00	C	https://mw2.wiki/item/230-wolverine-needle/lu4	lu4
+231	Grace DaggerC	weapon_grace_dagger_i00	C	https://mw2.wiki/item/231-grace-dagger/lu4	lu4
+232	Dark Elven DaggerC	weapon_darkelven_dagger_i00	C	https://mw2.wiki/item/232-dark-elven-dagger/lu4	lu4
+233	Dark ScreamerC	weapon_dark_screamer_i00	C	https://mw2.wiki/item/233-dark-screamer/lu4	lu4
+234	Demon's DaggerB	weapon_demons_sword_i00	B	https://mw2.wiki/item/234-demons-dagger/lu4	lu4
+235	Bloody OrchidA	weapon_bloody_orchid_i00	A	https://mw2.wiki/item/235-bloody-orchid/lu4	lu4
+236	Soul SeparatorA	weapon_soul_separator_i00	A	https://mw2.wiki/item/236-soul-separator/lu4	lu4
+237	Dragon's ToothS	weapon_angel_slayer_i00	S	https://mw2.wiki/item/237-dragons-tooth/lu4	lu4
+238	Dagger of ManaD	weapon_dagger_of_mana_i00	D	https://mw2.wiki/item/238-dagger-of-mana/lu4	lu4
+239	Mystic KnifeD	weapon_mystic_knife_i00	D	https://mw2.wiki/item/239-mystic-knife/lu4	lu4
+240	Conjurer's KnifeD	weapon_conjure_knife_i00	D	https://mw2.wiki/item/240-conjurers-knife/lu4	lu4
+241	Shilen KnifeD	weapon_knife_o__silenus_i00	D	https://mw2.wiki/item/241-shilen-knife/lu4	lu4
+242	Soulfire DirkC	weapon_dagger_of_magicflame_i00	C	https://mw2.wiki/item/242-soulfire-dirk/lu4	lu4
+243	Hell KnifeB	weapon_hell_knife_i00	B	https://mw2.wiki/item/243-hell-knife/lu4	lu4
+244	Elven Fighter FistNone		None	https://mw2.wiki/item/244-elven-fighter-fist/lu4	lu4
+245	Dark Fighter FistNone		None	https://mw2.wiki/item/245-dark-fighter-fist/lu4	lu4
+246	Human Fighter FistNone		None	https://mw2.wiki/item/246-human-fighter-fist/lu4	lu4
+247	Dwarven Fighter FistNone		None	https://mw2.wiki/item/247-dwarven-fighter-fist/lu4	lu4
+248	Orc Fighter FistNone		None	https://mw2.wiki/item/248-orc-fighter-fist/lu4	lu4
+249	Elven Mystic FistNone		None	https://mw2.wiki/item/249-elven-mystic-fist/lu4	lu4
+250	Dark Mystic FistNone		None	https://mw2.wiki/item/250-dark-mystic-fist/lu4	lu4
+251	Human Mystic FistNone		None	https://mw2.wiki/item/251-human-mystic-fist/lu4	lu4
+252	Orc Shaman FistNone		None	https://mw2.wiki/item/252-orc-shaman-fist/lu4	lu4
+253	Spiked GlovesNone	weapon_spike_glove_i00	None	https://mw2.wiki/item/253-spiked-gloves/lu4	lu4
+254	Iron GlovesNone	weapon_iron_glove_i00	None	https://mw2.wiki/item/254-iron-gloves/lu4	lu4
+255	Fox Claw GlovesNone	weapon_foxs_nail_i00	None	https://mw2.wiki/item/255-fox-claw-gloves/lu4	lu4
+256	CestusNone	weapon_vipers_canine_i00	None	https://mw2.wiki/item/256-cestus/lu4	lu4
+257	Viper FangNone	weapon_vipers_canine_i00	None	https://mw2.wiki/item/257-viper-fang/lu4	lu4
+258	Bagh-NakhD	weapon_baghnakh_i00	D	https://mw2.wiki/item/258-bagh-nakh/lu4	lu4
+259	Single-Edged JamadhrD	weapon_single-edged_jamadhr_i00	D	https://mw2.wiki/item/259-single-edged-jamadhr/lu4	lu4
+260	Triple-Edged JamadhrD	weapon_triple-edged_jamadhr_i00	D	https://mw2.wiki/item/260-triple-edged-jamadhr/lu4	lu4
+261	Bich'HwaD	weapon_bichhwa_i00	D	https://mw2.wiki/item/261-bichhwa/lu4	lu4
+262	Scallop JamadhrD	weapon_scallop_jamadhr_i00	D	https://mw2.wiki/item/262-scallop-jamadhr/lu4	lu4
+263	ChakramC	weapon_chakram_i00	C	https://mw2.wiki/item/263-chakram/lu4	lu4
+264	PataB	weapon_chakram_i00	B	https://mw2.wiki/item/264-pata/lu4	lu4
+265	Fisted BladeC	weapon_fist_blade_i00	C	https://mw2.wiki/item/265-fisted-blade/lu4	lu4
+266	Great PataC	weapon_great_pata_i00	C	https://mw2.wiki/item/266-great-pata/lu4	lu4
+267	Arthro NailB	weapon_arthro_nail_i00	B	https://mw2.wiki/item/267-arthro-nail/lu4	lu4
+268	Bellion CestusB	weapon_bellion_cestus_i00	B	https://mw2.wiki/item/268-bellion-cestus/lu4	lu4
+269	Blood TornadoA	weapon_blood_tornado_i00	A	https://mw2.wiki/item/269-blood-tornado/lu4	lu4
+270	Dragon GrinderA	weapon_dragon_grinder_i00	A	https://mw2.wiki/item/270-dragon-grinder/lu4	lu4
+271	Hunting BowNone	weapon_hunting_bow_i00	None	https://mw2.wiki/item/271-hunting-bow/lu4	lu4
+272	Forest BowNone	weapon_short_bow_i00	None	https://mw2.wiki/item/272-forest-bow/lu4	lu4
+273	Composite BowNone	weapon_composition_bow_i00	None	https://mw2.wiki/item/273-composite-bow/lu4	lu4
+274	Reinforced BowD	weapon_strengthening_bow_i00	D	https://mw2.wiki/item/274-reinforced-bow/lu4	lu4
+275	Long BowD	weapon_long_bow_i00	D	https://mw2.wiki/item/275-long-bow/lu4	lu4
+276	Elven BowD	weapon_elven_bow_i00	D	https://mw2.wiki/item/276-elven-bow/lu4	lu4
+277	Dark Elven BowD	weapon_dark_elven_bow_i00	D	https://mw2.wiki/item/277-dark-elven-bow/lu4	lu4
+278	GastraphetesD	weapon_gastraphetes_i00	D	https://mw2.wiki/item/278-gastraphetes/lu4	lu4
+279	Reinforced Long BowD	weapon_strengthening_long_bow_i00	D	https://mw2.wiki/item/279-reinforced-long-bow/lu4	lu4
+280	Light CrossbowD	weapon_cyclone_bow_i00	D	https://mw2.wiki/item/280-light-crossbow/lu4	lu4
+281	Crystallized Ice BowC	weapon_crystallized_ice_bow_i00	C	https://mw2.wiki/item/281-crystallized-ice-bow/lu4	lu4
+282	Elemental BowC	weapon_elemental_bow_i00	C	https://mw2.wiki/item/282-elemental-bow/lu4	lu4
+283	Akat Long BowC	weapon_akat_long_bow_i00	C	https://mw2.wiki/item/283-akat-long-bow/lu4	lu4
+284	Dark Elven Long BowB	weapon_dark_elven_long_bow_i00	B	https://mw2.wiki/item/284-dark-elven-long-bow/lu4	lu4
+285	Noble Elven BowC	weapon_noble_elven_bow_i00	C	https://mw2.wiki/item/285-noble-elven-bow/lu4	lu4
+286	Eminence BowC	weapon_eminence_bow_i00	C	https://mw2.wiki/item/286-eminence-bow/lu4	lu4
+287	Bow of PerilB	weapon_hazard_bow_i00	B	https://mw2.wiki/item/287-bow-of-peril/lu4	lu4
+288	Carnage BowA	weapon_carnium_bow_i00	A	https://mw2.wiki/item/288-carnage-bow/lu4	lu4
+289	Soul BowA	weapon_soul_bow_i00	A	https://mw2.wiki/item/289-soul-bow/lu4	lu4
+290	The BowS	weapon_shining_bow_i00	S	https://mw2.wiki/item/290-the-bow/lu4	lu4
+291	TridentD	weapon_trident_i00	D	https://mw2.wiki/item/291-trident/lu4	lu4
+292	PikeD	weapon_pike_i00	D	https://mw2.wiki/item/292-pike/lu4	lu4
+293	War HammerD	weapon_war_hammer_i00	D	https://mw2.wiki/item/293-war-hammer/lu4	lu4
+294	War PickD	weapon_hammer_in_flames_i00	D	https://mw2.wiki/item/294-war-pick/lu4	lu4
+295	Dwarven TridentD	weapon_dwarven_trident_i00	D	https://mw2.wiki/item/295-dwarven-trident/lu4	lu4
+296	Dwarven PikeD	weapon_dwarven_pike_i00	D	https://mw2.wiki/item/296-dwarven-pike/lu4	lu4
+297	GlaiveD	weapon_glaive_i00	D	https://mw2.wiki/item/297-glaive/lu4	lu4
+298	Orcish GlaiveC	weapon_orcish_glaive_i00	C	https://mw2.wiki/item/298-orcish-glaive/lu4	lu4
+299	Orcish PoleaxeC	weapon_orcish_poleaxe_i00	C	https://mw2.wiki/item/299-orcish-poleaxe/lu4	lu4
+300	Great AxeB	weapon_great_axe_i00	B	https://mw2.wiki/item/300-great-axe/lu4	lu4
+301	ScorpionC	weapon_scorpion_i00	C	https://mw2.wiki/item/301-scorpion/lu4	lu4
+302	Body SlasherC	weapon_body_slasher_i00	C	https://mw2.wiki/item/302-body-slasher/lu4	lu4
+303	Widow MakerC	weapon_widow_maker_i00	C	https://mw2.wiki/item/303-widow-maker/lu4	lu4
+304	Orcish HalberdA	weapon_orcish_halbard_i00	A	https://mw2.wiki/item/304-orcish-halberd/lu4	lu4
+305	Tallum GlaiveA	weapon_tallum_glaive_i00	A	https://mw2.wiki/item/305-tallum-glaive/lu4	lu4
+306	Dragon Claw AxeS	weapon_dragon_hunter_axe_i00	S	https://mw2.wiki/item/306-dragon-claw-axe/lu4	lu4
+307	Aurakyria LanceS	weapon_saint_spear_i00	S	https://mw2.wiki/item/307-aurakyria-lance/lu4	lu4
+308	Buffalo's HornNone	weapon_buffalo_horn_i00	None	https://mw2.wiki/item/308-buffalos-horn/lu4	lu4
+309	Tears of EvaNone	weapon_tears_of_eva_i00	None	https://mw2.wiki/item/309-tears-of-eva/lu4	lu4
+310	Relic of the SaintsNone	weapon_apprentices_spellbook_i00	None	https://mw2.wiki/item/310-relic-of-the-saints/lu4	lu4
+311	Crucifix of BlessingNone	weapon_crucifix_of_blessing_i00	None	https://mw2.wiki/item/311-crucifix-of-blessing/lu4	lu4
+312	Branch of LifeD	weapon_branch_of_life_i00	D	https://mw2.wiki/item/312-branch-of-life/lu4	lu4
+313	Temptation of AbyssD	weapon_temptation_of_abyss_i00	D	https://mw2.wiki/item/313-temptation-of-abyss/lu4	lu4
+314	Proof of RevengeD	weapon_proof_of_revenge_i00	D	https://mw2.wiki/item/314-proof-of-revenge/lu4	lu4
+315	Divine TomeD	weapon_divine_tome_i00	D	https://mw2.wiki/item/315-divine-tome/lu4	lu4
+316	Sage's BloodD	weapon_blood_of_saints_i00	D	https://mw2.wiki/item/316-sages-blood/lu4	lu4
+317	Tome of BloodD	weapon_tome_of_blood_i00	D	https://mw2.wiki/item/317-tome-of-blood/lu4	lu4
+318	Crucifix of BloodD	weapon_crucifix_of_blood_i00	D	https://mw2.wiki/item/318-crucifix-of-blood/lu4	lu4
+319	Eye of InfinityD	weapon_apprentices_spellbook_i00	D	https://mw2.wiki/item/319-eye-of-infinity/lu4	lu4
+320	Blue Crystal SkullD	weapon_apprentices_spellbook_i00	D	https://mw2.wiki/item/320-blue-crystal-skull/lu4	lu4
+321	Demon FangsD	weapon_demon_fangs_i00	D	https://mw2.wiki/item/321-demon-fangs/lu4	lu4
+322	Vajra WandsD	weapon_apprentices_spellbook_i00	D	https://mw2.wiki/item/322-vajra-wands/lu4	lu4
+323	Ancient ReagentD	weapon_apprentices_spellbook_i00	D	https://mw2.wiki/item/323-ancient-reagent/lu4	lu4
+324	Tears of FairyC	weapon_apprentices_spellbook_i00	C	https://mw2.wiki/item/324-tears-of-fairy/lu4	lu4
+325	Horn of GloryC	weapon_horn_of_glory_i00	C	https://mw2.wiki/item/325-horn-of-glory/lu4	lu4
+326	Heathen's BookC	weapon_heathens_book_i00	C	https://mw2.wiki/item/326-heathens-book/lu4	lu4
+327	Hex DollC	weapon_apprentices_spellbook_i00	C	https://mw2.wiki/item/327-hex-doll/lu4	lu4
+328	Candle of WisdomC	weapon_apprentices_spellbook_i00	C	https://mw2.wiki/item/328-candle-of-wisdom/lu4	lu4
+329	Blessed BranchC	weapon_apprentices_spellbook_i00	C	https://mw2.wiki/item/329-blessed-branch/lu4	lu4
+330	Phoenix FeatherC	weapon_apprentices_spellbook_i00	C	https://mw2.wiki/item/330-phoenix-feather/lu4	lu4
+331	Cerberus EyeC	weapon_apprentices_spellbook_i00	C	https://mw2.wiki/item/331-cerberus-eye/lu4	lu4
+332	Scroll of DestructionC	weapon_apprentices_spellbook_i00	C	https://mw2.wiki/item/332-scroll-of-destruction/lu4	lu4
+333	Claws of Black DragonC	weapon_apprentices_spellbook_i00	C	https://mw2.wiki/item/333-claws-of-black-dragon/lu4	lu4
+334	Three Eyed Crow's FeatherC	weapon_apprentices_spellbook_i00	C	https://mw2.wiki/item/334-three-eyed-crows-feather/lu4	lu4
+335	Soul CrystalB	weapon_apprentices_spellbook_i00	B	https://mw2.wiki/item/335-soul-crystal/lu4	lu4
+336	Scroll of ManaB	weapon_apprentices_spellbook_i00	B	https://mw2.wiki/item/336-scroll-of-mana/lu4	lu4
+337	Scroll of MassacreB	weapon_apprentices_spellbook_i00	B	https://mw2.wiki/item/337-scroll-of-massacre/lu4	lu4
+338	Wyvern's SkullB	weapon_apprentices_spellbook_i00	B	https://mw2.wiki/item/338-wyverns-skull/lu4	lu4
+339	Blood CrystalB	weapon_apprentices_spellbook_i00	B	https://mw2.wiki/item/339-blood-crystal/lu4	lu4
+340	Unicorn's HornB	weapon_apprentices_spellbook_i00	B	https://mw2.wiki/item/340-unicorns-horn/lu4	lu4
+341	Forgotten TomeA	weapon_apprentices_spellbook_i00	A	https://mw2.wiki/item/341-forgotten-tome/lu4	lu4
+342	Enchanted FluteA	weapon_apprentices_spellbook_i00	A	https://mw2.wiki/item/342-enchanted-flute/lu4	lu4
+343	Headless ArrowA	weapon_apprentices_spellbook_i00	A	https://mw2.wiki/item/343-headless-arrow/lu4	lu4
+344	Proof of OverlordA	weapon_apprentices_spellbook_i00	A	https://mw2.wiki/item/344-proof-of-overlord/lu4	lu4
+345	Deathbringer SwordA	weapon_apprentices_spellbook_i00	A	https://mw2.wiki/item/345-deathbringer-sword/lu4	lu4
+346	Tears of Fallen AngelS	weapon_apprentices_spellbook_i00	S	https://mw2.wiki/item/346-tears-of-fallen-angel/lu4	lu4
+347	Ring Mail BreastplateD	armor_t12_u_i00	D	https://mw2.wiki/item/347-ring-mail-breastplate/lu4	lu4
+348	Scale MailD	armor_t08_u_i00	D	https://mw2.wiki/item/348-scale-mail/lu4	lu4
+349	Compound Scale MailD	armor_t20_u_i00	D	https://mw2.wiki/item/349-compound-scale-mail/lu4	lu4
+350	Dwarven Scale MailD	armor_t15_u_i00	D	https://mw2.wiki/item/350-dwarven-scale-mail/lu4	lu4
+351	Blast PlateD	armor_t40_u_i00	D	https://mw2.wiki/item/351-blast-plate/lu4	lu4
+352	Brigandine BreastplateD	armor_t43_u_i00	D	https://mw2.wiki/item/352-brigandine-breastplate/lu4	lu4
+353	Half Plate ArmorD	armor_t46_u_i00	D	https://mw2.wiki/item/353-half-plate-armor/lu4	lu4
+354	Chain Mail ShirtC	armor_t48_u_i00	C	https://mw2.wiki/item/354-chain-mail-shirt/lu4	lu4
+355	Dwarven Chain Mail ShirtC	armor_t60_u_i00	C	https://mw2.wiki/item/355-dwarven-chain-mail-shirt/lu4	lu4
+356	Full Plate ArmorC	armor_t62_ul_i00	C	https://mw2.wiki/item/356-full-plate-armor/lu4	lu4
+357	Zubei's BreastplateB	armor_t64_u_i00	B	https://mw2.wiki/item/357-zubeis-breastplate/lu4	lu4
+358	Blue Wolf BreastplateB	armor_t68_u_i00	B	https://mw2.wiki/item/358-blue-wolf-breastplate/lu4	lu4
+359	Shining Dragon ArmorB	armor_composite_armor_i02	B	https://mw2.wiki/item/359-shining-dragon-armor/lu4	lu4
+360	Armor of VictoryB	armor_dwarven_scale_mail_i00	B	https://mw2.wiki/item/360-armor-of-victory/lu4	lu4
+361	Breastplate of ValorB	armor_dwarven_scale_mail_i00	B	https://mw2.wiki/item/361-breastplate-of-valor/lu4	lu4
+362	Glorious ArmorB	armor_composite_armor_i02	B	https://mw2.wiki/item/362-glorious-armor/lu4	lu4
+363	Red Flame ArmorB	armor_composite_armor_i02	B	https://mw2.wiki/item/363-red-flame-armor/lu4	lu4
+364	Elven Crystal BreastplateB	armor_dwarven_scale_mail_i00	B	https://mw2.wiki/item/364-elven-crystal-breastplate/lu4	lu4
+365	Dark Crystal BreastplateA	armor_t74_u_i00	A	https://mw2.wiki/item/365-dark-crystal-breastplate/lu4	lu4
+366	Implosion ArmorB	armor_composite_armor_i02	B	https://mw2.wiki/item/366-implosion-armor/lu4	lu4
+367	Dark Dragon ArmorB	armor_composite_armor_i02	B	https://mw2.wiki/item/367-dark-dragon-armor/lu4	lu4
+368	Elven Vagian ArmorB	armor_composite_armor_i02	B	https://mw2.wiki/item/368-elven-vagian-armor/lu4	lu4
+369	Dark Vagian ArmorB	armor_composite_armor_i02	B	https://mw2.wiki/item/369-dark-vagian-armor/lu4	lu4
+370	Complete Set of Plate ArmorB	armor_composite_armor_i02	B	https://mw2.wiki/item/370-complete-set-of-plate-armor/lu4	lu4
+371	Hell PlateB	armor_composite_armor_i02	B	https://mw2.wiki/item/371-hell-plate/lu4	lu4
+372	Art of PlateB	armor_composite_armor_i02	B	https://mw2.wiki/item/372-art-of-plate/lu4	lu4
+373	Masterpiece ArmorB	armor_composite_armor_i02	B	https://mw2.wiki/item/373-masterpiece-armor/lu4	lu4
+374	Armor of NightmareA	armor_t80_ul_i00	A	https://mw2.wiki/item/374-armor-of-nightmare/lu4	lu4
+375	Dragon Scale MailS	armor_t15_u_i00	S	https://mw2.wiki/item/375-dragon-scale-mail/lu4	lu4
+376	Iron Plate GaitersD	armor_t12_l_i00	D	https://mw2.wiki/item/376-iron-plate-gaiters/lu4	lu4
+377	Scale GaitersD	armor_t08_l_i00	D	https://mw2.wiki/item/377-scale-gaiters/lu4	lu4
+378	Compound Scale GaitersD	armor_t20_l_i00	D	https://mw2.wiki/item/378-compound-scale-gaiters/lu4	lu4
+379	Dwarven Scale GaitersD	armor_t15_l_i00	D	https://mw2.wiki/item/379-dwarven-scale-gaiters/lu4	lu4
+380	Plate GaitersD	armor_t46_l_i00	D	https://mw2.wiki/item/380-plate-gaiters/lu4	lu4
+381	Chain GaitersC	armor_t48_l_i00	C	https://mw2.wiki/item/381-chain-gaiters/lu4	lu4
+382	Dwarven Chain GaitersC	armor_t60_l_i00	C	https://mw2.wiki/item/382-dwarven-chain-gaiters/lu4	lu4
+383	Zubei's GaitersB	armor_t64_l_i00	B	https://mw2.wiki/item/383-zubeis-gaiters/lu4	lu4
+384	Wolf GaitersB	armor_plate_gaiters_i00	B	https://mw2.wiki/item/384-wolf-gaiters/lu4	lu4
+385	Gaiters of VictoryB	armor_plate_gaiters_i00	B	https://mw2.wiki/item/385-gaiters-of-victory/lu4	lu4
+386	Gaiters of ValorB	armor_plate_gaiters_i00	B	https://mw2.wiki/item/386-gaiters-of-valor/lu4	lu4
+387	Elven Crystal GaitersB	armor_plate_gaiters_i00	B	https://mw2.wiki/item/387-elven-crystal-gaiters/lu4	lu4
+388	Dark Crystal GaitersA	armor_t74_l_i00	A	https://mw2.wiki/item/388-dark-crystal-gaiters/lu4	lu4
+389	Dragon Scale GaitersS	armor_t15_l_i00	S	https://mw2.wiki/item/389-dragon-scale-gaiters/lu4	lu4
+390	Cotton ShirtNone	armor_t07_u_i00	None	https://mw2.wiki/item/390-cotton-shirt/lu4	lu4
+391	Puma Skin ShirtD	armor_t09_u_i00	D	https://mw2.wiki/item/391-puma-skin-shirt/lu4	lu4
+392	Lion Skin ShirtD	armor_t18_u_i00	D	https://mw2.wiki/item/392-lion-skin-shirt/lu4	lu4
+393	Mithril Banded MailD	armor_t10_u_i00	D	https://mw2.wiki/item/393-mithril-banded-mail/lu4	lu4
+394	Reinforced Leather ShirtD	armor_t13_u_i00	D	https://mw2.wiki/item/394-reinforced-leather-shirt/lu4	lu4
+395	Manticore Skin ShirtD	armor_t42_u_i00	D	https://mw2.wiki/item/395-manticore-skin-shirt/lu4	lu4
+396	Salamander Skin MailD	armor_t45_ul_i00	D	https://mw2.wiki/item/396-salamander-skin-mail/lu4	lu4
+397	Reinforced Mithril ShirtC	armor_t47_u_i00	C	https://mw2.wiki/item/397-reinforced-mithril-shirt/lu4	lu4
+398	Plated Leather ShirtC	armor_t47_u_i00	C	https://mw2.wiki/item/398-plated-leather-shirt/lu4	lu4
+399	Rind Leather ArmorC	armor_t49_u_i00	C	https://mw2.wiki/item/399-rind-leather-armor/lu4	lu4
+400	Theca Leather ArmorC	armor_t63_u_i00	C	https://mw2.wiki/item/400-theca-leather-armor/lu4	lu4
+401	Drake Leather ArmorC	armor_t21_ul_i00	C	https://mw2.wiki/item/401-drake-leather-armor/lu4	lu4

@@ -1,0 +1,865 @@
+icon	name	id	grade	link
+etc_recipe_white_i00	Recipe: Wooden Arrow	1666	None	https://wiki.mw2.wiki/item/1666-recipe-wooden-arrow/lu4
+etc_recipe_white_i00	Recipe: Broad Sword	1786	None	https://wiki.mw2.wiki/item/1786-recipe-broad-sword/lu4
+etc_recipe_white_i00	Recipe: Willow Staff	1787	None	https://wiki.mw2.wiki/item/1787-recipe-willow-staff/lu4
+etc_recipe_white_i00	Recipe: Bow	1788	None	https://wiki.mw2.wiki/item/1788-recipe-bow/lu4
+etc_recipe_white_i00	Recipe: Cedar Staff	1789	None	https://wiki.mw2.wiki/item/1789-recipe-cedar-staff/lu4
+etc_recipe_white_i00	Recipe: Dirk	1790	None	https://wiki.mw2.wiki/item/1790-recipe-dirk/lu4
+etc_recipe_white_i00	Recipe: Brandish	1791	None	https://wiki.mw2.wiki/item/1791-recipe-brandish/lu4
+etc_recipe_white_i00	Recipe: Short Spear	1792	None	https://wiki.mw2.wiki/item/1792-recipe-short-spear/lu4
+etc_recipe_white_i00	Recipe: Sword of Reflection	1793	None	https://wiki.mw2.wiki/item/1793-recipe-sword-of-reflection/lu4
+etc_recipe_white_i00	Recipe: Forest Bow	1794	None	https://wiki.mw2.wiki/item/1794-recipe-forest-bow/lu4
+etc_recipe_white_i00	Recipe: Leather Shoes	1795	None	https://wiki.mw2.wiki/item/1795-recipe-leather-shoes/lu4
+etc_recipe_white_i00	Recipe: Leather Tunic	1796	None	https://wiki.mw2.wiki/item/1796-recipe-leather-tunic/lu4
+etc_recipe_white_i00	Recipe: Leather Stockings	1797	None	https://wiki.mw2.wiki/item/1797-recipe-leather-stockings/lu4
+etc_recipe_white_i00	Recipe: Leather Helmet	1798	None	https://wiki.mw2.wiki/item/1798-recipe-leather-helmet/lu4
+etc_recipe_white_i00	Recipe: Leather Gloves	1799	None	https://wiki.mw2.wiki/item/1799-recipe-leather-gloves/lu4
+etc_recipe_white_i00	Recipe: Piece Bone Breastplate	1800	None	https://wiki.mw2.wiki/item/1800-recipe-piece-bone-breastplate/lu4
+etc_recipe_white_i00	Recipe: Piece Bone Gaiters	1801	None	https://wiki.mw2.wiki/item/1801-recipe-piece-bone-gaiters/lu4
+etc_recipe_white_i00	Recipe: Necklace of Anguish	1802	None	https://wiki.mw2.wiki/item/1802-recipe-necklace-of-anguish/lu4
+etc_recipe_white_i00	Recipe: Necklace of Wisdom	1803	None	https://wiki.mw2.wiki/item/1803-recipe-necklace-of-wisdom/lu4
+etc_recipe_blue_i00	Recipe: Soulshot (D-Grade)	1804	None	https://wiki.mw2.wiki/item/1804-recipe-soulshot-d-grade/lu4
+etc_recipe_yellow_i00	Recipe: Soulshot (C-Grade)	1805	None	https://wiki.mw2.wiki/item/1805-recipe-soulshot-c-grade/lu4
+etc_recipe_red_i00	Recipe: Soulshot (B-Grade)	1806	None	https://wiki.mw2.wiki/item/1806-recipe-soulshot-b-grade/lu4
+etc_recipe_violet_i00	Recipe: Soulshot (A-Grade)	1807	None	https://wiki.mw2.wiki/item/1807-recipe-soulshot-a-grade/lu4
+etc_recipe_black_i00	Recipe: Soulshot (S-Grade)	1808	None	https://wiki.mw2.wiki/item/1808-recipe-soulshot-s-grade/lu4
+etc_recipe_white_i00	Recipe: Leather	1814	None	https://wiki.mw2.wiki/item/1814-recipe-leather/lu4
+etc_recipe_white_i00	Recipe: Cord	1817	None	https://wiki.mw2.wiki/item/1817-recipe-cord/lu4
+etc_recipe_blue_i00	Recipe: Oriharukon	1825	None	https://wiki.mw2.wiki/item/1825-recipe-oriharukon/lu4
+etc_recipe_white_i00	Recipe: Braided Hemp	2135	None	https://wiki.mw2.wiki/item/2135-recipe-braided-hemp/lu4
+etc_recipe_white_i00	Recipe: Cokes	2136	None	https://wiki.mw2.wiki/item/2136-recipe-cokes/lu4
+etc_recipe_white_i00	Recipe: Steel	2137	None	https://wiki.mw2.wiki/item/2137-recipe-steel/lu4
+etc_recipe_white_i00	Recipe: Coarse Bone Powder (100%)	2138	None	https://wiki.mw2.wiki/item/2138-recipe-coarse-bone-powder-100/lu4
+etc_recipe_white_i00	Recipe: Steel Mold	2139	None	https://wiki.mw2.wiki/item/2139-recipe-steel-mold/lu4
+etc_recipe_white_i00	Recipe: High-Grade Suede	2140	None	https://wiki.mw2.wiki/item/2140-recipe-high-grade-suede/lu4
+etc_recipe_white_i00	Recipe: Silver Mold	2141	None	https://wiki.mw2.wiki/item/2141-recipe-silver-mold/lu4
+etc_recipe_white_i00	Recipe: Varnish of Purity	2142	None	https://wiki.mw2.wiki/item/2142-recipe-varnish-of-purity/lu4
+etc_recipe_white_i00	Recipe: Synthetic Cokes	2143	None	https://wiki.mw2.wiki/item/2143-recipe-synthetic-cokes/lu4
+etc_recipe_white_i00	Recipe: Compound Braid	2144	None	https://wiki.mw2.wiki/item/2144-recipe-compound-braid/lu4
+etc_recipe_blue_i00	Recipe: Mithril Alloy	2145	None	https://wiki.mw2.wiki/item/2145-recipe-mithril-alloy/lu4
+etc_recipe_blue_i00	Recipe: Artisan's frame	2146	None	https://wiki.mw2.wiki/item/2146-recipe-artisans-frame/lu4
+etc_recipe_blue_i00	Recipe: Blacksmith's frame	2147	None	https://wiki.mw2.wiki/item/2147-recipe-blacksmiths-frame/lu4
+etc_recipe_blue_i00	Recipe: Crafted Leather	2148	None	https://wiki.mw2.wiki/item/2148-recipe-crafted-leather/lu4
+etc_recipe_blue_i00	Recipe: Metallic Fiber	2149	None	https://wiki.mw2.wiki/item/2149-recipe-metallic-fiber/lu4
+etc_recipe_white_i00	Recipe: Blue Diamond Necklace	2150	None	https://wiki.mw2.wiki/item/2150-recipe-blue-diamond-necklace/lu4
+etc_recipe_blue_i00	Recipe: Necklace of Devotion	2151	None	https://wiki.mw2.wiki/item/2151-recipe-necklace-of-devotion/lu4
+etc_recipe_blue_i00	Recipe: Enchanted Necklace	2152	None	https://wiki.mw2.wiki/item/2152-recipe-enchanted-necklace/lu4
+etc_recipe_blue_i00	Recipe: Tiger's Eye Earring	2153	None	https://wiki.mw2.wiki/item/2153-recipe-tigers-eye-earring/lu4
+etc_recipe_blue_i00	Recipe: Elven Earring	2154	None	https://wiki.mw2.wiki/item/2154-recipe-elven-earring/lu4
+etc_recipe_blue_i00	Recipe: Elven Ring	2155	None	https://wiki.mw2.wiki/item/2155-recipe-elven-ring/lu4
+etc_recipe_blue_i00	Recipe: Elven Necklace	2156	None	https://wiki.mw2.wiki/item/2156-recipe-elven-necklace/lu4
+etc_recipe_blue_i00	Recipe: Omen Beast's Eye Earring	2157	None	https://wiki.mw2.wiki/item/2157-recipe-omen-beasts-eye-earring/lu4
+etc_recipe_blue_i00	Recipe: Mithril Ring	2158	None	https://wiki.mw2.wiki/item/2158-recipe-mithril-ring/lu4
+etc_recipe_blue_i00	Recipe: Necklace of Darkness	2159	None	https://wiki.mw2.wiki/item/2159-recipe-necklace-of-darkness/lu4
+etc_recipe_yellow_i00	Recipe: Moonstone Earring	2160	None	https://wiki.mw2.wiki/item/2160-recipe-moonstone-earring/lu4
+etc_recipe_yellow_i00	Recipe: Aquastone Ring	2161	None	https://wiki.mw2.wiki/item/2161-recipe-aquastone-ring/lu4
+etc_recipe_yellow_i00	Recipe: Aquastone Necklace	2162	None	https://wiki.mw2.wiki/item/2162-recipe-aquastone-necklace/lu4
+etc_recipe_yellow_i00	Recipe: Earring of Protection	2163	None	https://wiki.mw2.wiki/item/2163-recipe-earring-of-protection/lu4
+etc_recipe_yellow_i00	Recipe: Ring of Protection	2164	None	https://wiki.mw2.wiki/item/2164-recipe-ring-of-protection/lu4
+etc_recipe_yellow_i00	Recipe: Necklace of Protection	2165	None	https://wiki.mw2.wiki/item/2165-recipe-necklace-of-protection/lu4
+etc_recipe_yellow_i00	Recipe: Earring of Seal (100%)	2166	None	https://wiki.mw2.wiki/item/2166-recipe-earring-of-seal-100/lu4
+etc_recipe_yellow_i00	Recipe: Ring of Ages	2167	None	https://wiki.mw2.wiki/item/2167-recipe-ring-of-ages/lu4
+etc_recipe_yellow_i00	Recipe: Necklace of Mermaid	2168	None	https://wiki.mw2.wiki/item/2168-recipe-necklace-of-mermaid/lu4
+etc_recipe_yellow_i00	Recipe: Necklace of Seal	2169	None	https://wiki.mw2.wiki/item/2169-recipe-necklace-of-seal/lu4
+etc_recipe_yellow_i00	Recipe: Nassen's Earring	2170	None	https://wiki.mw2.wiki/item/2170-recipe-nassens-earring/lu4
+etc_recipe_red_i00	Recipe: Sage's Ring	2171	None	https://wiki.mw2.wiki/item/2171-recipe-sages-ring/lu4
+etc_recipe_red_i00	Recipe: Sage's Necklace	2172	None	https://wiki.mw2.wiki/item/2172-recipe-sages-necklace/lu4
+etc_recipe_white_i00	Recipe: Hard Leather Shirt	2173	None	https://wiki.mw2.wiki/item/2173-recipe-hard-leather-shirt/lu4
+etc_recipe_white_i00	Recipe: Hard Leather Gaiters	2174	None	https://wiki.mw2.wiki/item/2174-recipe-hard-leather-gaiters/lu4
+etc_recipe_white_i00	Recipe: Boots	2175	None	https://wiki.mw2.wiki/item/2175-recipe-boots/lu4
+etc_recipe_blue_i00	Recipe: Leather Boots	2176	None	https://wiki.mw2.wiki/item/2176-recipe-leather-boots/lu4
+etc_recipe_blue_i00	Recipe: Bone Helmet	2177	None	https://wiki.mw2.wiki/item/2177-recipe-bone-helmet/lu4
+etc_recipe_blue_i00	Recipe: Dark Stockings	2178	None	https://wiki.mw2.wiki/item/2178-recipe-dark-stockings/lu4
+etc_recipe_blue_i00	Recipe: Crafted Leather Gloves	2179	None	https://wiki.mw2.wiki/item/2179-recipe-crafted-leather-gloves/lu4
+etc_recipe_blue_i00	Recipe: Scale Mail	2180	None	https://wiki.mw2.wiki/item/2180-recipe-scale-mail/lu4
+etc_recipe_blue_i00	Recipe: White Tunic	2181	None	https://wiki.mw2.wiki/item/2181-recipe-white-tunic/lu4
+etc_recipe_blue_i00	Recipe: Scale Gaiters	2182	None	https://wiki.mw2.wiki/item/2182-recipe-scale-gaiters/lu4
+etc_recipe_blue_i00	Recipe: Mithril Banded Mail	2183	None	https://wiki.mw2.wiki/item/2183-recipe-mithril-banded-mail/lu4
+etc_recipe_blue_i00	Recipe: Mithril Banded Gaiters	2184	None	https://wiki.mw2.wiki/item/2184-recipe-mithril-banded-gaiters/lu4
+etc_recipe_blue_i00	Recipe: Iron Boots	2185	None	https://wiki.mw2.wiki/item/2185-recipe-iron-boots/lu4
+etc_recipe_blue_i00	Recipe: Brigandine Breastplate	2186	None	https://wiki.mw2.wiki/item/2186-recipe-brigandine-breastplate/lu4
+etc_recipe_blue_i00	Recipe: Manticore Skin Shirt	2187	None	https://wiki.mw2.wiki/item/2187-recipe-manticore-skin-shirt/lu4
+etc_recipe_blue_i00	Recipe: Manticore Skin Gaiters	2188	None	https://wiki.mw2.wiki/item/2188-recipe-manticore-skin-gaiters/lu4
+etc_recipe_blue_i00	Recipe: Mithril Tunic	2189	None	https://wiki.mw2.wiki/item/2189-recipe-mithril-tunic/lu4
+etc_recipe_blue_i00	Recipe: Mithril Stockings	2190	None	https://wiki.mw2.wiki/item/2190-recipe-mithril-stockings/lu4
+etc_recipe_blue_i00	Recipe: RIP Gauntlets	2191	None	https://wiki.mw2.wiki/item/2191-recipe-rip-gauntlets/lu4
+etc_recipe_blue_i00	Recipe: Kite Shield	2192	None	https://wiki.mw2.wiki/item/2192-recipe-kite-shield/lu4
+etc_recipe_blue_i00	Recipe: Boots of Power	2193	None	https://wiki.mw2.wiki/item/2193-recipe-boots-of-power/lu4
+etc_recipe_blue_i00	Recipe: Mithril Gloves	2194	None	https://wiki.mw2.wiki/item/2194-recipe-mithril-gloves/lu4
+etc_recipe_blue_i00	Recipe: Half Plate Armor	2195	None	https://wiki.mw2.wiki/item/2195-recipe-half-plate-armor/lu4
+etc_recipe_blue_i00	Recipe: Plate Gaiters	2196	None	https://wiki.mw2.wiki/item/2196-recipe-plate-gaiters/lu4
+etc_recipe_blue_i00	Recipe: Salamander Skin Mail	2197	None	https://wiki.mw2.wiki/item/2197-recipe-salamander-skin-mail/lu4
+etc_recipe_blue_i00	Recipe: Sage's Rag	2198	None	https://wiki.mw2.wiki/item/2198-recipe-sages-rag/lu4
+etc_recipe_yellow_i00	Recipe: Karmian Stockings	2199	None	https://wiki.mw2.wiki/item/2199-recipe-karmian-stockings/lu4
+etc_recipe_blue_i00	Recipe: Chain Helmet	2200	None	https://wiki.mw2.wiki/item/2200-recipe-chain-helmet/lu4
+etc_recipe_blue_i00	Recipe: Square Shield	2201	None	https://wiki.mw2.wiki/item/2201-recipe-square-shield/lu4
+etc_recipe_blue_i00	Recipe: Assault Boots	2202	None	https://wiki.mw2.wiki/item/2202-recipe-assault-boots/lu4
+etc_recipe_yellow_i00	Recipe: Reinforced Mithril Boots	2203	None	https://wiki.mw2.wiki/item/2203-recipe-reinforced-mithril-boots/lu4
+etc_recipe_yellow_i00	Recipe: Chain Mail Shirt	2204	None	https://wiki.mw2.wiki/item/2204-recipe-chain-mail-shirt/lu4
+etc_recipe_yellow_i00	Recipe: Chain Gaiters	2205	None	https://wiki.mw2.wiki/item/2205-recipe-chain-gaiters/lu4
+etc_recipe_yellow_i00	Recipe: Reinforced Mithril Shirt	2206	None	https://wiki.mw2.wiki/item/2206-recipe-reinforced-mithril-shirt/lu4
+etc_recipe_yellow_i00	Recipe: Karmian Tunic	2207	None	https://wiki.mw2.wiki/item/2207-recipe-karmian-tunic/lu4
+etc_recipe_blue_i00	Recipe: Ogre Power Gauntlets	2208	None	https://wiki.mw2.wiki/item/2208-recipe-ogre-power-gauntlets/lu4
+etc_recipe_yellow_i00	Recipe: Eldarake	2209	None	https://wiki.mw2.wiki/item/2209-recipe-eldarake/lu4
+etc_recipe_yellow_i00	Recipe: Steel Plate Helmet	2210	None	https://wiki.mw2.wiki/item/2210-recipe-steel-plate-helmet/lu4
+etc_recipe_yellow_i00	Recipe: Plated Leather Shirt	2211	None	https://wiki.mw2.wiki/item/2211-recipe-plated-leather-shirt/lu4
+etc_recipe_yellow_i00	Recipe: Plated Leather Gaiters	2212	None	https://wiki.mw2.wiki/item/2212-recipe-plated-leather-gaiters/lu4
+etc_recipe_yellow_i00	Recipe: Dwarven Chain Mail Shirt	2213	None	https://wiki.mw2.wiki/item/2213-recipe-dwarven-chain-mail-shirt/lu4
+etc_recipe_yellow_i00	Recipe: Dwarven Chain Gaiters	2214	None	https://wiki.mw2.wiki/item/2214-recipe-dwarven-chain-gaiters/lu4
+etc_recipe_yellow_i00	Recipe: Robe of Seal	2215	None	https://wiki.mw2.wiki/item/2215-recipe-robe-of-seal/lu4
+etc_recipe_yellow_i00	Recipe: Great Helmet	2216	None	https://wiki.mw2.wiki/item/2216-recipe-great-helmet/lu4
+etc_recipe_yellow_i00	Recipe: Knight's Shield	2217	None	https://wiki.mw2.wiki/item/2217-recipe-knights-shield/lu4
+etc_recipe_yellow_i00	Recipe: Pa'agrian Hand	2218	None	https://wiki.mw2.wiki/item/2218-recipe-paagrian-hand/lu4
+etc_recipe_yellow_i00	Recipe: Crimson Boots	2219	None	https://wiki.mw2.wiki/item/2219-recipe-crimson-boots/lu4
+etc_recipe_yellow_i00	Recipe: Rind Leather Armor	2220	None	https://wiki.mw2.wiki/item/2220-recipe-rind-leather-armor/lu4
+etc_recipe_yellow_i00	Recipe: Rind Leather Gaiters	2221	None	https://wiki.mw2.wiki/item/2221-recipe-rind-leather-gaiters/lu4
+etc_recipe_yellow_i00	Recipe: Composite Armor	2222	None	https://wiki.mw2.wiki/item/2222-recipe-composite-armor/lu4
+etc_recipe_yellow_i00	Recipe: Tower Shield	2223	None	https://wiki.mw2.wiki/item/2223-recipe-tower-shield/lu4
+etc_recipe_yellow_i00	Recipe: Demon's Tunic	2224	None	https://wiki.mw2.wiki/item/2224-recipe-demons-tunic/lu4
+etc_recipe_yellow_i00	Recipe: Demon's Stockings	2225	None	https://wiki.mw2.wiki/item/2225-recipe-demons-stockings/lu4
+etc_recipe_yellow_i00	Recipe: Composite Gauntlets	2226	None	https://wiki.mw2.wiki/item/2226-recipe-composite-gauntlets/lu4
+etc_recipe_yellow_i00	Recipe: Forgotten Boots	2227	None	https://wiki.mw2.wiki/item/2227-recipe-forgotten-boots/lu4
+etc_recipe_yellow_i00	Recipe: Shining Circlet	2228	None	https://wiki.mw2.wiki/item/2228-recipe-shining-circlet/lu4
+etc_recipe_yellow_i00	Recipe: Theca Leather Armor	2229	None	https://wiki.mw2.wiki/item/2229-recipe-theca-leather-armor/lu4
+etc_recipe_yellow_i00	Recipe: Theca Leather Gaiters	2230	None	https://wiki.mw2.wiki/item/2230-recipe-theca-leather-gaiters/lu4
+etc_recipe_yellow_i00	Recipe: Full Plate Armor	2231	None	https://wiki.mw2.wiki/item/2231-recipe-full-plate-armor/lu4
+etc_recipe_yellow_i00	Recipe: Drake Leather Armor	2232	None	https://wiki.mw2.wiki/item/2232-recipe-drake-leather-armor/lu4
+etc_recipe_yellow_i00	Recipe: Divine Tunic	2233	None	https://wiki.mw2.wiki/item/2233-recipe-divine-tunic/lu4
+etc_recipe_yellow_i00	Recipe: Divine Stockings	2234	None	https://wiki.mw2.wiki/item/2234-recipe-divine-stockings/lu4
+etc_recipe_yellow_i00	Recipe: Helmet (not for use)	2235	None	https://wiki.mw2.wiki/item/2235-recipe-helmet-not-for-use/lu4
+etc_recipe_yellow_i00	Recipe: Cap of Mana	2236	None	https://wiki.mw2.wiki/item/2236-recipe-cap-of-mana/lu4
+etc_recipe_yellow_i00	Recipe: Paradia Hood	2237	None	https://wiki.mw2.wiki/item/2237-recipe-paradia-hood/lu4
+etc_recipe_yellow_i00	Recipe: Hood of Solar Eclipse	2238	None	https://wiki.mw2.wiki/item/2238-recipe-hood-of-solar-eclipse/lu4
+etc_recipe_yellow_i00	Recipe: Hood of Summoning	2239	None	https://wiki.mw2.wiki/item/2239-recipe-hood-of-summoning/lu4
+etc_recipe_yellow_i00	Recipe: Elemental Hood	2240	None	https://wiki.mw2.wiki/item/2240-recipe-elemental-hood/lu4
+etc_recipe_yellow_i00	Recipe: Hood of Grace	2241	None	https://wiki.mw2.wiki/item/2241-recipe-hood-of-grace/lu4
+etc_recipe_yellow_i00	Recipe: Phoenix Hood	2242	None	https://wiki.mw2.wiki/item/2242-recipe-phoenix-hood/lu4
+etc_recipe_yellow_i00	Recipe: Hood of Aid	2243	None	https://wiki.mw2.wiki/item/2243-recipe-hood-of-aid/lu4
+etc_recipe_yellow_i00	Recipe: Flame Helm	2244	None	https://wiki.mw2.wiki/item/2244-recipe-flame-helm/lu4
+etc_recipe_yellow_i00	Recipe: Helm of Avadon	2246	None	https://wiki.mw2.wiki/item/2246-recipe-helm-of-avadon/lu4
+etc_recipe_yellow_i00	Recipe: Helmet of Pledge	2247	None	https://wiki.mw2.wiki/item/2247-recipe-helmet-of-pledge/lu4
+etc_recipe_yellow_i00	Recipe: Gauntlets of Ghost	2248	None	https://wiki.mw2.wiki/item/2248-recipe-gauntlets-of-ghost/lu4
+etc_recipe_yellow_i00	Recipe: Adamantite Boots	2249	None	https://wiki.mw2.wiki/item/2249-recipe-adamantite-boots/lu4
+etc_recipe_blue_i00	Recipe: Bone Arrow	2250	None	https://wiki.mw2.wiki/item/2250-recipe-bone-arrow/lu4
+etc_recipe_yellow_i00	Recipe: Steel Arrow	2251	None	https://wiki.mw2.wiki/item/2251-recipe-steel-arrow/lu4
+etc_recipe_white_i00	Recipe: Iron Hammer	2252	None	https://wiki.mw2.wiki/item/2252-recipe-iron-hammer/lu4
+etc_recipe_white_i00	Recipe: Sword Breaker	2253	None	https://wiki.mw2.wiki/item/2253-recipe-sword-breaker/lu4
+etc_recipe_white_i00	Recipe: Composite Bow	2254	None	https://wiki.mw2.wiki/item/2254-recipe-composite-bow/lu4
+etc_recipe_blue_i00	Recipe: Saber	2255	None	https://wiki.mw2.wiki/item/2255-recipe-saber/lu4
+etc_recipe_blue_i00	Recipe: Assassin Knife	2256	None	https://wiki.mw2.wiki/item/2256-recipe-assassin-knife/lu4
+etc_recipe_blue_i00	Recipe: Trident	2257	None	https://wiki.mw2.wiki/item/2257-recipe-trident/lu4
+etc_recipe_blue_i00	Recipe: Temptation of Abyss	2258	None	https://wiki.mw2.wiki/item/2258-recipe-temptation-of-abyss/lu4
+etc_recipe_blue_i00	Recipe: Spinebone Sword	2259	None	https://wiki.mw2.wiki/item/2259-recipe-spinebone-sword/lu4
+etc_recipe_blue_i00	Recipe: Mace of Judgment	2260	None	https://wiki.mw2.wiki/item/2260-recipe-mace-of-judgment/lu4
+etc_recipe_blue_i00	Recipe: Conjuror's Staff	2261	None	https://wiki.mw2.wiki/item/2261-recipe-conjurors-staff/lu4
+etc_recipe_blue_i00	Recipe: Elven Bow	2262	None	https://wiki.mw2.wiki/item/2262-recipe-elven-bow/lu4
+etc_recipe_blue_i00	Recipe: Dwarven Trident	2263	None	https://wiki.mw2.wiki/item/2263-recipe-dwarven-trident/lu4
+etc_recipe_blue_i00	Recipe: Two-handed Sword	2264	None	https://wiki.mw2.wiki/item/2264-recipe-two-handed-sword/lu4
+etc_recipe_blue_i00	Recipe: Spiked Club	2265	None	https://wiki.mw2.wiki/item/2265-recipe-spiked-club/lu4
+etc_recipe_blue_i00	Recipe: Shilen Knife	2266	None	https://wiki.mw2.wiki/item/2266-recipe-shilen-knife/lu4
+etc_recipe_blue_i00	Recipe: Gastraphetes	2267	None	https://wiki.mw2.wiki/item/2267-recipe-gastraphetes/lu4
+etc_recipe_blue_i00	Recipe: Tome of Blood	2268	None	https://wiki.mw2.wiki/item/2268-recipe-tome-of-blood/lu4
+etc_recipe_blue_i00	Recipe: Morning Star	2269	None	https://wiki.mw2.wiki/item/2269-recipe-morning-star/lu4
+etc_recipe_blue_i00	Recipe: Goat Head Staff	2270	None	https://wiki.mw2.wiki/item/2270-recipe-goat-head-staff/lu4
+etc_recipe_blue_i00	Recipe: Winged Spear	2271	None	https://wiki.mw2.wiki/item/2271-recipe-winged-spear/lu4
+etc_recipe_blue_i00	Recipe: Sword of Revolution	2272	None	https://wiki.mw2.wiki/item/2272-recipe-sword-of-revolution/lu4
+etc_recipe_blue_i00	Recipe: Tarbar	2273	None	https://wiki.mw2.wiki/item/2273-recipe-tarbar/lu4
+etc_recipe_blue_i00	Recipe: Skull Breaker	2274	None	https://wiki.mw2.wiki/item/2274-recipe-skull-breaker/lu4
+etc_recipe_blue_i00	Recipe: Heavy Bone Club	2275	None	https://wiki.mw2.wiki/item/2275-recipe-heavy-bone-club/lu4
+etc_recipe_blue_i00	Recipe: Maingauche	2276	None	https://wiki.mw2.wiki/item/2276-recipe-maingauche/lu4
+etc_recipe_blue_i00	Recipe: Bich'hwa	2277	None	https://wiki.mw2.wiki/item/2277-recipe-bichhwa/lu4
+etc_recipe_blue_i00	Recipe: Reinforced Long Bow	2278	None	https://wiki.mw2.wiki/item/2278-recipe-reinforced-long-bow/lu4
+etc_recipe_blue_i00	Recipe: War Pick	2279	None	https://wiki.mw2.wiki/item/2279-recipe-war-pick/lu4
+etc_recipe_blue_i00	Recipe: Crucifix of Blood	2280	None	https://wiki.mw2.wiki/item/2280-recipe-crucifix-of-blood/lu4
+etc_recipe_blue_i00	Recipe: Eye of Infinity	2281	None	https://wiki.mw2.wiki/item/2281-recipe-eye-of-infinity/lu4
+etc_recipe_blue_i00	Recipe: Cursed Maingauche	2282	None	https://wiki.mw2.wiki/item/2282-recipe-cursed-maingauche/lu4
+etc_recipe_blue_i00	Recipe: Blue Crystal Skull	2283	None	https://wiki.mw2.wiki/item/2283-recipe-blue-crystal-skull/lu4
+etc_recipe_blue_i00	Recipe: Demon Fangs	2284	None	https://wiki.mw2.wiki/item/2284-recipe-demon-fangs/lu4
+etc_recipe_blue_i00	Recipe: Claymore	2285	None	https://wiki.mw2.wiki/item/2285-recipe-claymore/lu4
+etc_recipe_blue_i00	Recipe: Bonebreaker	2286	None	https://wiki.mw2.wiki/item/2286-recipe-bonebreaker/lu4
+etc_recipe_blue_i00	Recipe: Atuba Hammer	2287	None	https://wiki.mw2.wiki/item/2287-recipe-atuba-hammer/lu4
+etc_recipe_blue_i00	Recipe: Ghost Staff	2288	None	https://wiki.mw2.wiki/item/2288-recipe-ghost-staff/lu4
+etc_recipe_blue_i00	Recipe: Staff of Life	2289	None	https://wiki.mw2.wiki/item/2289-recipe-staff-of-life/lu4
+etc_recipe_blue_i00	Recipe: Mithril Dagger	2290	None	https://wiki.mw2.wiki/item/2290-recipe-mithril-dagger/lu4
+etc_recipe_blue_i00	Recipe: Scallop Jamadhr	2291	None	https://wiki.mw2.wiki/item/2291-recipe-scallop-jamadhr/lu4
+etc_recipe_blue_i00	Recipe: Light Crossbow	2292	None	https://wiki.mw2.wiki/item/2292-recipe-light-crossbow/lu4
+etc_recipe_blue_i00	Recipe: Glaive	2293	None	https://wiki.mw2.wiki/item/2293-recipe-glaive/lu4
+etc_recipe_blue_i00	Recipe: Vajra Wands	2294	None	https://wiki.mw2.wiki/item/2294-recipe-vajra-wands/lu4
+etc_recipe_blue_i00	Recipe: Ancient Reagent	2295	None	https://wiki.mw2.wiki/item/2295-recipe-ancient-reagent/lu4
+etc_recipe_blue_i00	Recipe: Atuba Mace	2296	None	https://wiki.mw2.wiki/item/2296-recipe-atuba-mace/lu4
+etc_recipe_yellow_i00	Recipe: Flamberge	2297	None	https://wiki.mw2.wiki/item/2297-recipe-flamberge/lu4
+etc_recipe_yellow_i00	Recipe: Stormbringer	2298	None	https://wiki.mw2.wiki/item/2298-recipe-stormbringer/lu4
+etc_recipe_yellow_i00	Recipe: Big Hammer	2299	None	https://wiki.mw2.wiki/item/2299-recipe-big-hammer/lu4
+etc_recipe_yellow_i00	Recipe: Scythe	2300	None	https://wiki.mw2.wiki/item/2300-recipe-scythe/lu4
+etc_recipe_yellow_i00	Recipe: Battle Axe	2301	None	https://wiki.mw2.wiki/item/2301-recipe-battle-axe/lu4
+etc_recipe_yellow_i00	Recipe: Silver Axe	2302	None	https://wiki.mw2.wiki/item/2302-recipe-silver-axe/lu4
+etc_recipe_yellow_i00	Recipe: Skull Graver	2303	None	https://wiki.mw2.wiki/item/2303-recipe-skull-graver/lu4
+etc_recipe_yellow_i00	Recipe: Heavy Doom Hammer	2304	None	https://wiki.mw2.wiki/item/2304-recipe-heavy-doom-hammer/lu4
+etc_recipe_yellow_i00	Recipe: Crystal Staff	2305	None	https://wiki.mw2.wiki/item/2305-recipe-crystal-staff/lu4
+etc_recipe_yellow_i00	Recipe: Stick of Faith	2306	None	https://wiki.mw2.wiki/item/2306-recipe-stick-of-faith/lu4
+etc_recipe_yellow_i00	Recipe: Heavy Doom Axe	2307	None	https://wiki.mw2.wiki/item/2307-recipe-heavy-doom-axe/lu4
+etc_recipe_yellow_i00	Recipe: Cursed Dagger	2308	None	https://wiki.mw2.wiki/item/2308-recipe-cursed-dagger/lu4
+etc_recipe_yellow_i00	Recipe: Wolverine Needle	2309	None	https://wiki.mw2.wiki/item/2309-recipe-wolverine-needle/lu4
+etc_recipe_yellow_i00	Recipe: Dark Elven Dagger	2310	None	https://wiki.mw2.wiki/item/2310-recipe-dark-elven-dagger/lu4
+etc_recipe_yellow_i00	Recipe: Chakram	2311	None	https://wiki.mw2.wiki/item/2311-recipe-chakram/lu4
+etc_recipe_yellow_i00	Recipe: Crystallized Ice Bow	2312	None	https://wiki.mw2.wiki/item/2312-recipe-crystallized-ice-bow/lu4
+etc_recipe_yellow_i00	Recipe: Orcish Glaive	2313	None	https://wiki.mw2.wiki/item/2313-recipe-orcish-glaive/lu4
+etc_recipe_yellow_i00	Recipe: Body Slasher	2314	None	https://wiki.mw2.wiki/item/2314-recipe-body-slasher/lu4
+etc_recipe_yellow_i00	Recipe: Shamshir	2315	None	https://wiki.mw2.wiki/item/2315-recipe-shamshir/lu4
+etc_recipe_yellow_i00	Recipe: Katana	2316	None	https://wiki.mw2.wiki/item/2316-recipe-katana/lu4
+etc_recipe_yellow_i00	Recipe: Bec de Corbin	2317	None	https://wiki.mw2.wiki/item/2317-recipe-bec-de-corbin/lu4
+etc_recipe_yellow_i00	Recipe: Spirit Sword	2318	None	https://wiki.mw2.wiki/item/2318-recipe-spirit-sword/lu4
+etc_recipe_yellow_i00	Recipe: Raid Sword	2319	None	https://wiki.mw2.wiki/item/2319-recipe-raid-sword/lu4
+etc_recipe_yellow_i00	Recipe: Cursed Staff	2320	None	https://wiki.mw2.wiki/item/2320-recipe-cursed-staff/lu4
+etc_recipe_yellow_i00	Recipe: Stiletto	2321	None	https://wiki.mw2.wiki/item/2321-recipe-stiletto/lu4
+etc_recipe_yellow_i00	Recipe: Soulfire Dirk	2322	None	https://wiki.mw2.wiki/item/2322-recipe-soulfire-dirk/lu4
+etc_recipe_yellow_i00	Recipe: Elemental Bow	2323	None	https://wiki.mw2.wiki/item/2323-recipe-elemental-bow/lu4
+etc_recipe_yellow_i00	Recipe: Noble Elven Bow	2324	None	https://wiki.mw2.wiki/item/2324-recipe-noble-elven-bow/lu4
+etc_recipe_yellow_i00	Recipe: Tears of Fairy	2325	None	https://wiki.mw2.wiki/item/2325-recipe-tears-of-fairy/lu4
+etc_recipe_yellow_i00	Recipe: Horn of Glory	2326	None	https://wiki.mw2.wiki/item/2326-recipe-horn-of-glory/lu4
+etc_recipe_yellow_i00	Recipe: Caliburs	2327	None	https://wiki.mw2.wiki/item/2327-recipe-caliburs/lu4
+etc_recipe_yellow_i00	Recipe: Sword of Delusion	2328	None	https://wiki.mw2.wiki/item/2328-recipe-sword-of-delusion/lu4
+etc_recipe_yellow_i00	Recipe: Tsurugi	2329	None	https://wiki.mw2.wiki/item/2329-recipe-tsurugi/lu4
+etc_recipe_yellow_i00	Recipe: Homunkulus's Sword	2330	None	https://wiki.mw2.wiki/item/2330-recipe-homunkuluss-sword/lu4
+etc_recipe_yellow_i00	Recipe: Poleaxe	2331	None	https://wiki.mw2.wiki/item/2331-recipe-poleaxe/lu4
+etc_recipe_yellow_i00	Recipe: Sword of Limit	2332	None	https://wiki.mw2.wiki/item/2332-recipe-sword-of-limit/lu4
+etc_recipe_yellow_i00	Recipe: Sword of Nightmare	2333	None	https://wiki.mw2.wiki/item/2333-recipe-sword-of-nightmare/lu4
+etc_recipe_yellow_i00	Recipe: Sword of Whispering Death	2334	None	https://wiki.mw2.wiki/item/2334-recipe-sword-of-whispering-death/lu4
+etc_recipe_yellow_i00	Recipe: War Axe	2335	None	https://wiki.mw2.wiki/item/2335-recipe-war-axe/lu4
+etc_recipe_yellow_i00	Recipe: Nirvana Axe	2336	None	https://wiki.mw2.wiki/item/2336-recipe-nirvana-axe/lu4
+etc_recipe_yellow_i00	Recipe: Stick of Eternity	2337	None	https://wiki.mw2.wiki/item/2337-recipe-stick-of-eternity/lu4
+etc_recipe_yellow_i00	Recipe: Paradia Staff	2338	None	https://wiki.mw2.wiki/item/2338-recipe-paradia-staff/lu4
+etc_recipe_yellow_i00	Recipe: Inferno Staff	2339	None	https://wiki.mw2.wiki/item/2339-recipe-inferno-staff/lu4
+etc_recipe_yellow_i00	Recipe: Pa'agrian Hammer	2340	None	https://wiki.mw2.wiki/item/2340-recipe-paagrian-hammer/lu4
+etc_recipe_yellow_i00	Recipe: Sage's Staff	2341	None	https://wiki.mw2.wiki/item/2341-recipe-sages-staff/lu4
+etc_recipe_yellow_i00	Recipe: Club of Nature	2342	None	https://wiki.mw2.wiki/item/2342-recipe-club-of-nature/lu4
+etc_recipe_yellow_i00	Recipe: Mace of Underworld	2343	None	https://wiki.mw2.wiki/item/2343-recipe-mace-of-underworld/lu4
+etc_recipe_yellow_i00	Recipe: Grace Dagger	2344	None	https://wiki.mw2.wiki/item/2344-recipe-grace-dagger/lu4
+etc_recipe_yellow_i00	Recipe: Dark Screamer	2345	None	https://wiki.mw2.wiki/item/2345-recipe-dark-screamer/lu4
+etc_recipe_yellow_i00	Recipe: Fisted Blade	2346	None	https://wiki.mw2.wiki/item/2346-recipe-fisted-blade/lu4
+etc_recipe_yellow_i00	Recipe: Akat Long Bow	2347	None	https://wiki.mw2.wiki/item/2347-recipe-akat-long-bow/lu4
+etc_recipe_yellow_i00	Recipe: Heathen's Book	2348	None	https://wiki.mw2.wiki/item/2348-recipe-heathens-book/lu4
+etc_recipe_yellow_i00	Recipe: Hex Doll	2349	None	https://wiki.mw2.wiki/item/2349-recipe-hex-doll/lu4
+etc_recipe_yellow_i00	Recipe: Pa'agrian Axe	2350	None	https://wiki.mw2.wiki/item/2350-recipe-paagrian-axe/lu4
+etc_recipe_yellow_i00	Recipe: Scorpion	2351	None	https://wiki.mw2.wiki/item/2351-recipe-scorpion/lu4
+etc_recipe_yellow_i00	Recipe: Widow Maker	2352	None	https://wiki.mw2.wiki/item/2352-recipe-widow-maker/lu4
+etc_recipe_yellow_i00	Recipe: Samurai Longsword	2353	None	https://wiki.mw2.wiki/item/2353-recipe-samurai-longsword/lu4
+etc_recipe_yellow_i00	Recipe: Deadman's Staff	2354	None	https://wiki.mw2.wiki/item/2354-recipe-deadmans-staff/lu4
+etc_recipe_yellow_i00	Recipe: Ghoul's Staff	2355	None	https://wiki.mw2.wiki/item/2355-recipe-ghouls-staff/lu4
+etc_recipe_yellow_i00	Recipe: Demon's Staff	2356	None	https://wiki.mw2.wiki/item/2356-recipe-demons-staff/lu4
+etc_recipe_yellow_i00	Recipe: Crystal Dagger	2357	None	https://wiki.mw2.wiki/item/2357-recipe-crystal-dagger/lu4
+etc_recipe_yellow_i00	Recipe: Great Pata	2358	None	https://wiki.mw2.wiki/item/2358-recipe-great-pata/lu4
+etc_recipe_yellow_i00	Recipe: Eminence Bow	2359	None	https://wiki.mw2.wiki/item/2359-recipe-eminence-bow/lu4
+etc_recipe_yellow_i00	Recipe: Orcish Poleaxe	2360	None	https://wiki.mw2.wiki/item/2360-recipe-orcish-poleaxe/lu4
+etc_recipe_yellow_i00	Recipe: Candle of Wisdom	2361	None	https://wiki.mw2.wiki/item/2361-recipe-candle-of-wisdom/lu4
+etc_recipe_yellow_i00	Recipe: Blessed Branch	2362	None	https://wiki.mw2.wiki/item/2362-recipe-blessed-branch/lu4
+etc_recipe_yellow_i00	Recipe: Phoenix Feather	2363	None	https://wiki.mw2.wiki/item/2363-recipe-phoenix-feather/lu4
+etc_recipe_yellow_i00	Recipe: Cerberus Eye	2364	None	https://wiki.mw2.wiki/item/2364-recipe-cerberus-eye/lu4
+etc_recipe_yellow_i00	Recipe: Scroll of Destruction	2365	None	https://wiki.mw2.wiki/item/2365-recipe-scroll-of-destruction/lu4
+etc_recipe_yellow_i00	Recipe: Claws of Black Dragon	2366	None	https://wiki.mw2.wiki/item/2366-recipe-claws-of-black-dragon/lu4
+etc_recipe_yellow_i00	Recipe: Three Eyed Crow's Feather	2367	None	https://wiki.mw2.wiki/item/2367-recipe-three-eyed-crows-feather/lu4
+etc_recipe_yellow_i00	Recipe: Ring of Seal	2970	None	https://wiki.mw2.wiki/item/2970-recipe-ring-of-seal/lu4
+etc_recipe_blue_i00	Recipe: Mithril Scale Gaiters	2971	None	https://wiki.mw2.wiki/item/2971-recipe-mithril-scale-gaiters/lu4
+etc_recipe_blue_i00	Recipe: Brigandine Gaiters	2972	None	https://wiki.mw2.wiki/item/2972-recipe-brigandine-gaiters/lu4
+etc_recipe_blue_i00	Recipe: Tunic (not for use)	2973	None	https://wiki.mw2.wiki/item/2973-recipe-tunic-not-for-use/lu4
+etc_recipe_blue_i00	Recipe: Stockings (not for use)	2974	None	https://wiki.mw2.wiki/item/2974-recipe-stockings-not-for-use/lu4
+etc_recipe_blue_i00	Recipe: Brigandine Helmet	2975	None	https://wiki.mw2.wiki/item/2975-recipe-brigandine-helmet/lu4
+etc_recipe_blue_i00	Recipe: Manticore Skin Boots	2976	None	https://wiki.mw2.wiki/item/2976-recipe-manticore-skin-boots/lu4
+etc_recipe_blue_i00	Recipe: Brigandine Boots	2977	None	https://wiki.mw2.wiki/item/2977-recipe-brigandine-boots/lu4
+etc_recipe_blue_i00	Recipe: Elven Mithril Boots	2978	None	https://wiki.mw2.wiki/item/2978-recipe-elven-mithril-boots/lu4
+etc_recipe_blue_i00	Recipe: Manticore Skin Gloves	2979	None	https://wiki.mw2.wiki/item/2979-recipe-manticore-skin-gloves/lu4
+etc_recipe_blue_i00	Recipe: Brigandine Gauntlets	2980	None	https://wiki.mw2.wiki/item/2980-recipe-brigandine-gauntlets/lu4
+etc_recipe_blue_i00	Recipe: Elven Mithril Gloves	2981	None	https://wiki.mw2.wiki/item/2981-recipe-elven-mithril-gloves/lu4
+etc_recipe_blue_i00	Recipe: Brigandine Shield	2982	None	https://wiki.mw2.wiki/item/2982-recipe-brigandine-shield/lu4
+etc_recipe_blue_i00	Recipe: Plate Helmet	2983	None	https://wiki.mw2.wiki/item/2983-recipe-plate-helmet/lu4
+etc_recipe_blue_i00	Recipe: Salamander Skin Boots	2984	None	https://wiki.mw2.wiki/item/2984-recipe-salamander-skin-boots/lu4
+etc_recipe_blue_i00	Recipe: Plate Boots	2985	None	https://wiki.mw2.wiki/item/2985-recipe-plate-boots/lu4
+etc_recipe_blue_i00	Recipe: Sage's Worn Gloves	2986	None	https://wiki.mw2.wiki/item/2986-recipe-sages-worn-gloves/lu4
+etc_recipe_blue_i00	Recipe: Plate Shield	2987	None	https://wiki.mw2.wiki/item/2987-recipe-plate-shield/lu4
+etc_recipe_yellow_i00	Recipe: Reinforced Mithril Gaiters	2988	None	https://wiki.mw2.wiki/item/2988-recipe-reinforced-mithril-gaiters/lu4
+etc_recipe_yellow_i00	Recipe: Chain Hood	2989	None	https://wiki.mw2.wiki/item/2989-recipe-chain-hood/lu4
+etc_recipe_yellow_i00	Recipe: Chain Boots	2990	None	https://wiki.mw2.wiki/item/2990-recipe-chain-boots/lu4
+etc_recipe_yellow_i00	Recipe: Karmian Boots	2991	None	https://wiki.mw2.wiki/item/2991-recipe-karmian-boots/lu4
+etc_recipe_yellow_i00	Recipe: Plated Leather Boots	2992	None	https://wiki.mw2.wiki/item/2992-recipe-plated-leather-boots/lu4
+etc_recipe_yellow_i00	Recipe: Dwarven Chain Boots	2993	None	https://wiki.mw2.wiki/item/2993-recipe-dwarven-chain-boots/lu4
+etc_recipe_yellow_i00	Recipe: Boots of Seal	2994	None	https://wiki.mw2.wiki/item/2994-recipe-boots-of-seal/lu4
+etc_recipe_yellow_i00	Recipe: Reinforced Mithril Gloves	2995	None	https://wiki.mw2.wiki/item/2995-recipe-reinforced-mithril-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Chain Gloves	2996	None	https://wiki.mw2.wiki/item/2996-recipe-chain-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Karmian Gloves	2997	None	https://wiki.mw2.wiki/item/2997-recipe-karmian-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Chain Shield	2998	None	https://wiki.mw2.wiki/item/2998-recipe-chain-shield/lu4
+etc_recipe_yellow_i00	Recipe: Plated Leather Gloves	2999	None	https://wiki.mw2.wiki/item/2999-recipe-plated-leather-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Dwarven Chain Shield	3000	None	https://wiki.mw2.wiki/item/3000-recipe-dwarven-chain-shield/lu4
+etc_recipe_yellow_i00	Recipe: Rind Leather Boots	3001	None	https://wiki.mw2.wiki/item/3001-recipe-rind-leather-boots/lu4
+etc_recipe_yellow_i00	Recipe: Dwarven Chain Gloves	3002	None	https://wiki.mw2.wiki/item/3002-recipe-dwarven-chain-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Gloves of Seal	3003	None	https://wiki.mw2.wiki/item/3003-recipe-gloves-of-seal/lu4
+etc_recipe_yellow_i00	Recipe: Rind Leather Gloves	3004	None	https://wiki.mw2.wiki/item/3004-recipe-rind-leather-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Demon's Boots	3005	None	https://wiki.mw2.wiki/item/3005-recipe-demons-boots/lu4
+etc_recipe_yellow_i00	Recipe: Demon's Gloves	3006	None	https://wiki.mw2.wiki/item/3006-recipe-demons-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Theca Leather Boots	3007	None	https://wiki.mw2.wiki/item/3007-recipe-theca-leather-boots/lu4
+etc_recipe_yellow_i00	Recipe: Theca Leather Gloves	3008	None	https://wiki.mw2.wiki/item/3008-recipe-theca-leather-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Composite Boots	3009	None	https://wiki.mw2.wiki/item/3009-recipe-composite-boots/lu4
+etc_recipe_yellow_i00	Recipe: Composite Helmet	3010	None	https://wiki.mw2.wiki/item/3010-recipe-composite-helmet/lu4
+etc_recipe_yellow_i00	Recipe: Divine Boots	3011	None	https://wiki.mw2.wiki/item/3011-recipe-divine-boots/lu4
+etc_recipe_yellow_i00	Recipe: Full Plate Helmet	3012	None	https://wiki.mw2.wiki/item/3012-recipe-full-plate-helmet/lu4
+etc_recipe_yellow_i00	Recipe: Drake Leather Boots	3013	None	https://wiki.mw2.wiki/item/3013-recipe-drake-leather-boots/lu4
+etc_recipe_yellow_i00	Recipe: Full Plate Boots	3014	None	https://wiki.mw2.wiki/item/3014-recipe-full-plate-boots/lu4
+etc_recipe_yellow_i00	Recipe: Drake Leather Gloves	3015	None	https://wiki.mw2.wiki/item/3015-recipe-drake-leather-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Full Plate Gauntlets	3016	None	https://wiki.mw2.wiki/item/3016-recipe-full-plate-gauntlets/lu4
+etc_recipe_yellow_i00	Recipe: Divine Gloves	3017	None	https://wiki.mw2.wiki/item/3017-recipe-divine-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Blessed Gloves	3018	None	https://wiki.mw2.wiki/item/3018-recipe-blessed-gloves/lu4
+etc_recipe_yellow_i00	Recipe: Full Plate Shield	3019	None	https://wiki.mw2.wiki/item/3019-recipe-full-plate-shield/lu4
+etc_recipe_blue_i00	Recipe: Elven Long Sword	3020	None	https://wiki.mw2.wiki/item/3020-recipe-elven-long-sword/lu4
+etc_recipe_yellow_i00	Recipe: Dwarven War Hammer	3021	None	https://wiki.mw2.wiki/item/3021-recipe-dwarven-war-hammer/lu4
+etc_recipe_yellow_i00	Recipe: Yaksa Mace	3022	None	https://wiki.mw2.wiki/item/3022-recipe-yaksa-mace/lu4
+etc_recipe_blue_i00	Recipe: Titan Key	3023	None	https://wiki.mw2.wiki/item/3023-recipe-titan-key/lu4
+etc_recipe_blue_i00	Recipe: Journeyman Ring	3024	None	https://wiki.mw2.wiki/item/3024-recipe-journeyman-ring/lu4
+etc_recipe_blue_i00	Recipe: Amber Bead	3025	None	https://wiki.mw2.wiki/item/3025-recipe-amber-bead/lu4
+etc_recipe_blue_i00	Recipe: Spiritshot D	3032	None	https://wiki.mw2.wiki/item/3032-recipe-spiritshot-d/lu4
+etc_recipe_yellow_i00	Recipe: Spiritshot C	3033	None	https://wiki.mw2.wiki/item/3033-recipe-spiritshot-c/lu4
+etc_recipe_red_i00	Recipe: Spiritshot B	3034	None	https://wiki.mw2.wiki/item/3034-recipe-spiritshot-b/lu4
+etc_recipe_violet_i00	Recipe: Spiritshot A	3035	None	https://wiki.mw2.wiki/item/3035-recipe-spiritshot-a/lu4
+etc_recipe_black_i00	Recipe: Spiritshot S	3036	None	https://wiki.mw2.wiki/item/3036-recipe-spiritshot-s/lu4
+etc_recipe_blue_i00	Recipe: Titan's Powerstone	3838	None	https://wiki.mw2.wiki/item/3838-recipe-titans-powerstone/lu4
+etc_recipe_blue_i00	Recipe: Blessed Spiritshot D	3953	None	https://wiki.mw2.wiki/item/3953-recipe-blessed-spiritshot-d/lu4
+etc_recipe_yellow_i00	Recipe: Blessed Spiritshot C	3954	None	https://wiki.mw2.wiki/item/3954-recipe-blessed-spiritshot-c/lu4
+etc_recipe_red_i00	Recipe: Blessed Spiritshot B	3955	None	https://wiki.mw2.wiki/item/3955-recipe-blessed-spiritshot-b/lu4
+etc_recipe_violet_i00	Recipe: Blessed Spiritshot A	3956	None	https://wiki.mw2.wiki/item/3956-recipe-blessed-spiritshot-a/lu4
+etc_recipe_black_i00	Recipe: Blessed Spiritshot S	3957	None	https://wiki.mw2.wiki/item/3957-recipe-blessed-spiritshot-s/lu4
+etc_recipe_yellow_i00	Recipe: Maestro Holder (100%)	4122	None	https://wiki.mw2.wiki/item/4122-recipe-maestro-holder-100/lu4
+etc_recipe_yellow_i00	Recipe: Maestro Anvil Lock (100%)	4123	None	https://wiki.mw2.wiki/item/4123-recipe-maestro-anvil-lock-100/lu4
+etc_recipe_yellow_i00	Recipe: Craftsman Mold (100%)	4124	None	https://wiki.mw2.wiki/item/4124-recipe-craftsman-mold-100/lu4
+etc_recipe_yellow_i00	Recipe: Maestro Mold (100%)	4125	None	https://wiki.mw2.wiki/item/4125-recipe-maestro-mold-100/lu4
+etc_recipe_red_i00	Recipe: Adamantite Earrings (100%)	4126	None	https://wiki.mw2.wiki/item/4126-recipe-adamantite-earrings-100/lu4
+etc_recipe_red_i00	Recipe: Adamantite Ring (100%)	4127	None	https://wiki.mw2.wiki/item/4127-recipe-adamantite-ring-100/lu4
+etc_recipe_red_i00	Recipe: Adamantite Necklace (100%)	4128	None	https://wiki.mw2.wiki/item/4128-recipe-adamantite-necklace-100/lu4
+etc_recipe_red_i00	Recipe: Earring of Black Ore (100%)	4129	None	https://wiki.mw2.wiki/item/4129-recipe-earring-of-black-ore-100/lu4
+etc_recipe_red_i00	Recipe: Ring of Black Ore (100%)	4130	None	https://wiki.mw2.wiki/item/4130-recipe-ring-of-black-ore-100/lu4
+etc_recipe_red_i00	Recipe: Necklace of Black Ore (100%)	4131	None	https://wiki.mw2.wiki/item/4131-recipe-necklace-of-black-ore-100/lu4
+etc_recipe_yellow_i00	Recipe: Composite Shield (100%)	4132	None	https://wiki.mw2.wiki/item/4132-recipe-composite-shield-100/lu4
+etc_recipe_red_i00	Recipe: Zubei's Breastplate (100%)	4133	None	https://wiki.mw2.wiki/item/4133-recipe-zubeis-breastplate-100/lu4
+etc_recipe_red_i00	Recipe: Zubei's Gaiters (100%)	4134	None	https://wiki.mw2.wiki/item/4134-recipe-zubeis-gaiters-100/lu4
+etc_recipe_red_i00	Recipe: Implosion Boots (100%)	4135	None	https://wiki.mw2.wiki/item/4135-recipe-implosion-boots-100/lu4
+etc_recipe_red_i00	Recipe: Boots of Silence (100%)	4136	None	https://wiki.mw2.wiki/item/4136-recipe-boots-of-silence-100/lu4
+etc_recipe_red_i00	Recipe: Guardian's Boots (100%)	4137	None	https://wiki.mw2.wiki/item/4137-recipe-guardians-boots-100/lu4
+etc_recipe_red_i00	Recipe: Paradia Boots (100%)	4138	None	https://wiki.mw2.wiki/item/4138-recipe-paradia-boots-100/lu4
+etc_recipe_red_i00	Recipe: Elemental Boots (100%)	4139	None	https://wiki.mw2.wiki/item/4139-recipe-elemental-boots-100/lu4
+etc_recipe_red_i00	Recipe: Boots of Grace (100%)	4140	None	https://wiki.mw2.wiki/item/4140-recipe-boots-of-grace-100/lu4
+etc_recipe_red_i00	Recipe: Avadon Breastplate (100%)	4141	None	https://wiki.mw2.wiki/item/4141-recipe-avadon-breastplate-100/lu4
+etc_recipe_red_i00	Recipe: Avadon Gaiters (100%)	4142	None	https://wiki.mw2.wiki/item/4142-recipe-avadon-gaiters-100/lu4
+etc_recipe_red_i00	Recipe: Zubei's Leather Shirt (100%)	4143	None	https://wiki.mw2.wiki/item/4143-recipe-zubeis-leather-shirt-100/lu4
+etc_recipe_red_i00	Recipe: Zubei's Leather Gaiters (100%)	4144	None	https://wiki.mw2.wiki/item/4144-recipe-zubeis-leather-gaiters-100/lu4
+etc_recipe_red_i00	Recipe: Avadon Leather Armor (100%)	4145	None	https://wiki.mw2.wiki/item/4145-recipe-avadon-leather-armor-100/lu4
+etc_recipe_red_i00	Recipe: Tunic of Zubei (100%)	4146	None	https://wiki.mw2.wiki/item/4146-recipe-tunic-of-zubei-100/lu4
+etc_recipe_red_i00	Recipe: Stockings of Zubei (100%)	4147	None	https://wiki.mw2.wiki/item/4147-recipe-stockings-of-zubei-100/lu4
+etc_recipe_red_i00	Recipe: Avadon Robe (100%)	4148	None	https://wiki.mw2.wiki/item/4148-recipe-avadon-robe-100/lu4
+etc_recipe_red_i00	Recipe: Avadon Circlet (100%)	4149	None	https://wiki.mw2.wiki/item/4149-recipe-avadon-circlet-100/lu4
+etc_recipe_red_i00	Recipe: Sealed Avadon Gloves (100%)	4150	None	https://wiki.mw2.wiki/item/4150-recipe-sealed-avadon-gloves-100/lu4
+etc_recipe_red_i00	Recipe: Chain Gloves of Silence (100%)	4151	None	https://wiki.mw2.wiki/item/4151-recipe-chain-gloves-of-silence-100/lu4
+etc_recipe_red_i00	Recipe: Guardian's Gloves (100%)	4152	None	https://wiki.mw2.wiki/item/4152-recipe-guardians-gloves-100/lu4
+etc_recipe_red_i00	Recipe: Gloves of Blessing (100%)	4153	None	https://wiki.mw2.wiki/item/4153-recipe-gloves-of-blessing-100/lu4
+etc_recipe_red_i00	Recipe: Doom Shield (100%)	4154	None	https://wiki.mw2.wiki/item/4154-recipe-doom-shield-100/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Breastplate (100%)	4155	None	https://wiki.mw2.wiki/item/4155-recipe-blue-wolf-breastplate-100/lu4
+etc_recipe_red_i00	Recipe: Boots of Blessing (100%)	4156	None	https://wiki.mw2.wiki/item/4156-recipe-boots-of-blessing-100/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Gaiters (100%)	4157	None	https://wiki.mw2.wiki/item/4157-recipe-blue-wolf-gaiters-100/lu4
+etc_recipe_red_i00	Recipe: Doom Plate Armor (100%)	4158	None	https://wiki.mw2.wiki/item/4158-recipe-doom-plate-armor-100/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Leather Armor (100%)	4159	None	https://wiki.mw2.wiki/item/4159-recipe-blue-wolf-leather-armor-100/lu4
+etc_recipe_red_i00	Recipe: Leather Armor of Doom (100%)	4160	None	https://wiki.mw2.wiki/item/4160-recipe-leather-armor-of-doom-100/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Tunic (100%)	4161	None	https://wiki.mw2.wiki/item/4161-recipe-blue-wolf-tunic-100/lu4
+etc_recipe_red_i00	Recipe: Tunic of Doom (100%)	4162	None	https://wiki.mw2.wiki/item/4162-recipe-tunic-of-doom-100/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Stockings (100%)	4163	None	https://wiki.mw2.wiki/item/4163-recipe-blue-wolf-stockings-100/lu4
+etc_recipe_red_i00	Recipe: Stockings of Doom (100%)	4164	None	https://wiki.mw2.wiki/item/4164-recipe-stockings-of-doom-100/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Helmet (100%)	4165	None	https://wiki.mw2.wiki/item/4165-recipe-blue-wolf-helmet-100/lu4
+etc_recipe_red_i00	Recipe: Doom Helmet (100%)	4166	None	https://wiki.mw2.wiki/item/4166-recipe-doom-helmet-100/lu4
+etc_recipe_red_i00	Recipe: Sealed Blue Wolf Boots (100%)	4167	None	https://wiki.mw2.wiki/item/4167-recipe-sealed-blue-wolf-boots-100/lu4
+etc_recipe_red_i00	Recipe: Sealed Doom Gloves (100%)	4168	None	https://wiki.mw2.wiki/item/4168-recipe-sealed-doom-gloves-100/lu4
+etc_recipe_red_i00	Recipe: Elemental Gloves (100%)	4169	None	https://wiki.mw2.wiki/item/4169-recipe-elemental-gloves-100/lu4
+etc_recipe_red_i00	Recipe: Gloves of Grace (100%)	4170	None	https://wiki.mw2.wiki/item/4170-recipe-gloves-of-grace-100/lu4
+etc_recipe_red_i00	Recipe: Implosion Gauntlets (100%)	4171	None	https://wiki.mw2.wiki/item/4171-recipe-implosion-gauntlets-100/lu4
+etc_recipe_red_i00	Recipe: Paradia Gloves (100%)	4172	None	https://wiki.mw2.wiki/item/4172-recipe-paradia-gloves-100/lu4
+etc_recipe_red_i00	Recipe: Sealed Blue Wolf Gloves (100%)	4173	None	https://wiki.mw2.wiki/item/4173-recipe-sealed-blue-wolf-gloves-100/lu4
+etc_recipe_red_i00	Recipe: Sealed Zubei's Boots (100%)	4174	None	https://wiki.mw2.wiki/item/4174-recipe-sealed-zubeis-boots-100/lu4
+etc_recipe_red_i00	Recipe: Sealed Avadon Boots (100%)	4175	None	https://wiki.mw2.wiki/item/4175-recipe-sealed-avadon-boots-100/lu4
+etc_recipe_red_i00	Recipe: Sealed Doom Boots (100%)	4176	None	https://wiki.mw2.wiki/item/4176-recipe-sealed-doom-boots-100/lu4
+etc_recipe_red_i00	Recipe: Sealed Zubei's Gauntlets (100%)	4177	None	https://wiki.mw2.wiki/item/4177-recipe-sealed-zubeis-gauntlets-100/lu4
+etc_recipe_red_i00	Recipe: Zubei's Shield (100%)	4178	None	https://wiki.mw2.wiki/item/4178-recipe-zubeis-shield-100/lu4
+etc_recipe_red_i00	Recipe: Zubei's Helmet (100%)	4179	None	https://wiki.mw2.wiki/item/4179-recipe-zubeis-helmet-100/lu4
+etc_recipe_red_i00	Recipe: Silver Arrow (100%)	4180	None	https://wiki.mw2.wiki/item/4180-recipe-silver-arrow-100/lu4
+etc_recipe_yellow_i00	Recipe: Pata (100%)	4181	None	https://wiki.mw2.wiki/item/4181-recipe-pata-100/lu4
+etc_recipe_red_i00	Recipe: Great Sword (100%)	4182	None	https://wiki.mw2.wiki/item/4182-recipe-great-sword-100/lu4
+etc_recipe_red_i00	Recipe: Heavy War Axe (100%)	4183	None	https://wiki.mw2.wiki/item/4183-recipe-heavy-war-axe-100/lu4
+etc_recipe_red_i00	Recipe: Sprite's Staff (100%)	4184	None	https://wiki.mw2.wiki/item/4184-recipe-sprites-staff-100/lu4
+etc_recipe_red_i00	Recipe: Keshanberk (100%)	4185	None	https://wiki.mw2.wiki/item/4185-recipe-keshanberk-100/lu4
+etc_recipe_red_i00	Recipe: Sword of Valhalla (100%)	4186	None	https://wiki.mw2.wiki/item/4186-recipe-sword-of-valhalla-100/lu4
+etc_recipe_red_i00	Recipe: Kris (100%)	4187	None	https://wiki.mw2.wiki/item/4187-recipe-kris-100/lu4
+etc_recipe_red_i00	Recipe: Hell Knife (100%)	4188	None	https://wiki.mw2.wiki/item/4188-recipe-hell-knife-100/lu4
+etc_recipe_red_i00	Recipe: Arthro Nail (100%)	4189	None	https://wiki.mw2.wiki/item/4189-recipe-arthro-nail-100/lu4
+etc_recipe_red_i00	Recipe: Dark Elven Long Bow (100%)	4190	None	https://wiki.mw2.wiki/item/4190-recipe-dark-elven-long-bow-100/lu4
+etc_recipe_red_i00	Recipe: Great Axe (100%)	4191	None	https://wiki.mw2.wiki/item/4191-recipe-great-axe-100/lu4
+etc_recipe_red_i00	Recipe: Sword of Damascus (100%)	4192	None	https://wiki.mw2.wiki/item/4192-recipe-sword-of-damascus-100/lu4
+etc_recipe_red_i00	Recipe: Lance (100%)	4193	None	https://wiki.mw2.wiki/item/4193-recipe-lance-100/lu4
+etc_recipe_red_i00	Recipe: Deadman's Glory (100%)	4194	None	https://wiki.mw2.wiki/item/4194-recipe-deadmans-glory-100/lu4
+etc_recipe_red_i00	Recipe: Art of Battle Axe (100%)	4195	None	https://wiki.mw2.wiki/item/4195-recipe-art-of-battle-axe-100/lu4
+etc_recipe_red_i00	Recipe: Staff of Evil Spirits (100%)	4196	None	https://wiki.mw2.wiki/item/4196-recipe-staff-of-evil-spirits-100/lu4
+etc_recipe_red_i00	Recipe: Demon's Dagger (100%)	4197	None	https://wiki.mw2.wiki/item/4197-recipe-demons-dagger-100/lu4
+etc_recipe_red_i00	Recipe: Bellion Cestus (100%)	4198	None	https://wiki.mw2.wiki/item/4198-recipe-bellion-cestus-100/lu4
+etc_recipe_red_i00	Recipe: Bow of Peril (100%)	4199	None	https://wiki.mw2.wiki/item/4199-recipe-bow-of-peril-100/lu4
+etc_recipe_yellow_i00	Recipe: Knuckle Duster	4440	None	https://wiki.mw2.wiki/item/4440-recipe-knuckle-duster/lu4
+etc_recipe_red_i00	Recipe: Avadon Shield	4441	None	https://wiki.mw2.wiki/item/4441-recipe-avadon-shield/lu4
+etc_recipe_red_i00	Recipe: Avadon Shield (60%)	4936	None	https://wiki.mw2.wiki/item/4936-recipe-avadon-shield-60/lu4
+etc_recipe_red_i00	Recipe: Adamantite Earrings (70%)	4937	None	https://wiki.mw2.wiki/item/4937-recipe-adamantite-earrings-70/lu4
+etc_recipe_red_i00	Recipe: Adamantite Ring (70%)	4938	None	https://wiki.mw2.wiki/item/4938-recipe-adamantite-ring-70/lu4
+etc_recipe_red_i00	Recipe: Adamantite Necklace (70%)	4939	None	https://wiki.mw2.wiki/item/4939-recipe-adamantite-necklace-70/lu4
+etc_recipe_red_i00	Recipe: Zubei's Breastplate (60%)	4940	None	https://wiki.mw2.wiki/item/4940-recipe-zubeis-breastplate-60/lu4
+etc_recipe_red_i00	Recipe: Zubei's Gaiters (60%)	4941	None	https://wiki.mw2.wiki/item/4941-recipe-zubeis-gaiters-60/lu4
+etc_recipe_red_i00	Recipe: Boots of Silence (60%)	4942	None	https://wiki.mw2.wiki/item/4942-recipe-boots-of-silence-60/lu4
+etc_recipe_red_i00	Recipe: Guardian's Boots (60%)	4943	None	https://wiki.mw2.wiki/item/4943-recipe-guardians-boots-60/lu4
+etc_recipe_red_i00	Recipe: Avadon Breastplate (60%)	4944	None	https://wiki.mw2.wiki/item/4944-recipe-avadon-breastplate-60/lu4
+etc_recipe_red_i00	Recipe: Avadon Gaiters (60%)	4945	None	https://wiki.mw2.wiki/item/4945-recipe-avadon-gaiters-60/lu4
+etc_recipe_red_i00	Recipe: Zubei's Leather Shirt (60%)	4946	None	https://wiki.mw2.wiki/item/4946-recipe-zubeis-leather-shirt-60/lu4
+etc_recipe_red_i00	Recipe: Zubei's Leather Gaiters (60%)	4947	None	https://wiki.mw2.wiki/item/4947-recipe-zubeis-leather-gaiters-60/lu4
+etc_recipe_red_i00	Recipe: Avadon Leather Armor (60%)	4948	None	https://wiki.mw2.wiki/item/4948-recipe-avadon-leather-armor-60/lu4
+etc_recipe_red_i00	Recipe: Tunic of Zubei (60%)	4949	None	https://wiki.mw2.wiki/item/4949-recipe-tunic-of-zubei-60/lu4
+etc_recipe_red_i00	Recipe: Stockings of Zubei (60%)	4950	None	https://wiki.mw2.wiki/item/4950-recipe-stockings-of-zubei-60/lu4
+etc_recipe_red_i00	Recipe: Avadon Robe (60%)	4951	None	https://wiki.mw2.wiki/item/4951-recipe-avadon-robe-60/lu4
+etc_recipe_red_i00	Recipe: Avadon Circlet (60%)	4952	None	https://wiki.mw2.wiki/item/4952-recipe-avadon-circlet-60/lu4
+etc_recipe_red_i00	Recipe: Sealed Avadon Gloves (60%)	4953	None	https://wiki.mw2.wiki/item/4953-recipe-sealed-avadon-gloves-60/lu4
+etc_recipe_red_i00	Recipe: Chain Gloves of Silence (60%)	4954	None	https://wiki.mw2.wiki/item/4954-recipe-chain-gloves-of-silence-60/lu4
+etc_recipe_red_i00	Recipe: Guardian's Gloves (60%)	4955	None	https://wiki.mw2.wiki/item/4955-recipe-guardians-gloves-60/lu4
+etc_recipe_red_i00	Recipe: Gloves of Blessing (60%)	4956	None	https://wiki.mw2.wiki/item/4956-recipe-gloves-of-blessing-60/lu4
+etc_recipe_red_i00	Recipe: Boots of Blessing (60%)	4957	None	https://wiki.mw2.wiki/item/4957-recipe-boots-of-blessing-60/lu4
+etc_recipe_red_i00	Recipe: Sealed Zubei's Boots (60%)	4958	None	https://wiki.mw2.wiki/item/4958-recipe-sealed-zubeis-boots-60/lu4
+etc_recipe_red_i00	Recipe: Sealed Avadon Boots (60%)	4959	None	https://wiki.mw2.wiki/item/4959-recipe-sealed-avadon-boots-60/lu4
+etc_recipe_red_i00	Recipe: Sealed Zubei's Gauntlets (60%)	4960	None	https://wiki.mw2.wiki/item/4960-recipe-sealed-zubeis-gauntlets-60/lu4
+etc_recipe_red_i00	Recipe: Zubei's Shield (60%)	4961	None	https://wiki.mw2.wiki/item/4961-recipe-zubeis-shield-60/lu4
+etc_recipe_red_i00	Recipe: Zubei's Helmet (60%)	4962	None	https://wiki.mw2.wiki/item/4962-recipe-zubeis-helmet-60/lu4
+etc_recipe_red_i00	Recipe: Great Sword (60%)	4963	None	https://wiki.mw2.wiki/item/4963-recipe-great-sword-60/lu4
+etc_recipe_red_i00	Recipe: Heavy War Axe (60%)	4964	None	https://wiki.mw2.wiki/item/4964-recipe-heavy-war-axe-60/lu4
+etc_recipe_red_i00	Recipe: Sprite's Staff (60%)	4965	None	https://wiki.mw2.wiki/item/4965-recipe-sprites-staff-60/lu4
+etc_recipe_red_i00	Recipe: Keshanberk (60%)	4966	None	https://wiki.mw2.wiki/item/4966-recipe-keshanberk-60/lu4
+etc_recipe_red_i00	Recipe: Sword of Valhalla (60%)	4967	None	https://wiki.mw2.wiki/item/4967-recipe-sword-of-valhalla-60/lu4
+etc_recipe_red_i00	Recipe: Kris (60%)	4968	None	https://wiki.mw2.wiki/item/4968-recipe-kris-60/lu4
+etc_recipe_red_i00	Recipe: Hell Knife (60%)	4969	None	https://wiki.mw2.wiki/item/4969-recipe-hell-knife-60/lu4
+etc_recipe_red_i00	Recipe: Arthro Nail (60%)	4970	None	https://wiki.mw2.wiki/item/4970-recipe-arthro-nail-60/lu4
+etc_recipe_red_i00	Recipe: Dark Elven Long Bow (60%)	4971	None	https://wiki.mw2.wiki/item/4971-recipe-dark-elven-long-bow-60/lu4
+etc_recipe_red_i00	Recipe: Great Axe (60%)	4972	None	https://wiki.mw2.wiki/item/4972-recipe-great-axe-60/lu4
+etc_recipe_red_i00	Recipe: Earring of Black Ore (70%)	4973	None	https://wiki.mw2.wiki/item/4973-recipe-earring-of-black-ore-70/lu4
+etc_recipe_red_i00	Recipe: Ring of Black Ore (70%)	4974	None	https://wiki.mw2.wiki/item/4974-recipe-ring-of-black-ore-70/lu4
+etc_recipe_red_i00	Recipe: Necklace of Black Ore (70%)	4975	None	https://wiki.mw2.wiki/item/4975-recipe-necklace-of-black-ore-70/lu4
+etc_recipe_red_i00	Recipe: Implosion Boots (60%)	4976	None	https://wiki.mw2.wiki/item/4976-recipe-implosion-boots-60/lu4
+etc_recipe_red_i00	Recipe: Paradia Boots (60%)	4977	None	https://wiki.mw2.wiki/item/4977-recipe-paradia-boots-60/lu4
+etc_recipe_red_i00	Recipe: Elemental Boots (60%)	4978	None	https://wiki.mw2.wiki/item/4978-recipe-elemental-boots-60/lu4
+etc_recipe_red_i00	Recipe: Boots of Grace (60%)	4979	None	https://wiki.mw2.wiki/item/4979-recipe-boots-of-grace-60/lu4
+etc_recipe_red_i00	Recipe: Doom Shield (60%)	4980	None	https://wiki.mw2.wiki/item/4980-recipe-doom-shield-60/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Breastplate (60%)	4981	None	https://wiki.mw2.wiki/item/4981-recipe-blue-wolf-breastplate-60/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Gaiters (60%)	4982	None	https://wiki.mw2.wiki/item/4982-recipe-blue-wolf-gaiters-60/lu4
+etc_recipe_red_i00	Recipe: Doom Plate Armor (60%)	4983	None	https://wiki.mw2.wiki/item/4983-recipe-doom-plate-armor-60/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Leather Armor (60%)	4984	None	https://wiki.mw2.wiki/item/4984-recipe-blue-wolf-leather-armor-60/lu4
+etc_recipe_red_i00	Recipe: Leather Armor of Doom (60%)	4985	None	https://wiki.mw2.wiki/item/4985-recipe-leather-armor-of-doom-60/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Tunic (60%)	4986	None	https://wiki.mw2.wiki/item/4986-recipe-blue-wolf-tunic-60/lu4
+etc_recipe_red_i00	Recipe: Tunic of Doom (60%)	4987	None	https://wiki.mw2.wiki/item/4987-recipe-tunic-of-doom-60/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Stockings (60%)	4988	None	https://wiki.mw2.wiki/item/4988-recipe-blue-wolf-stockings-60/lu4
+etc_recipe_red_i00	Recipe: Stockings of Doom (60%)	4989	None	https://wiki.mw2.wiki/item/4989-recipe-stockings-of-doom-60/lu4
+etc_recipe_red_i00	Recipe: Blue Wolf Helmet (60%)	4990	None	https://wiki.mw2.wiki/item/4990-recipe-blue-wolf-helmet-60/lu4
+etc_recipe_red_i00	Recipe: Doom Helmet (60%)	4991	None	https://wiki.mw2.wiki/item/4991-recipe-doom-helmet-60/lu4
+etc_recipe_red_i00	Recipe: Sealed Blue Wolf Boots (60%)	4992	None	https://wiki.mw2.wiki/item/4992-recipe-sealed-blue-wolf-boots-60/lu4
+etc_recipe_red_i00	Recipe: Sealed Doom Gloves (60%)	4993	None	https://wiki.mw2.wiki/item/4993-recipe-sealed-doom-gloves-60/lu4
+etc_recipe_red_i00	Recipe: Elemental Gloves (60%)	4994	None	https://wiki.mw2.wiki/item/4994-recipe-elemental-gloves-60/lu4
+etc_recipe_red_i00	Recipe: Gloves of Grace (60%)	4995	None	https://wiki.mw2.wiki/item/4995-recipe-gloves-of-grace-60/lu4
+etc_recipe_red_i00	Recipe: Implosion Gauntlets (60%)	4996	None	https://wiki.mw2.wiki/item/4996-recipe-implosion-gauntlets-60/lu4
+etc_recipe_red_i00	Recipe: Paradia Gloves (60%)	4997	None	https://wiki.mw2.wiki/item/4997-recipe-paradia-gloves-60/lu4
+etc_recipe_red_i00	Recipe: Sealed Blue Wolf Gloves (60%)	4998	None	https://wiki.mw2.wiki/item/4998-recipe-sealed-blue-wolf-gloves-60/lu4
+etc_recipe_red_i00	Recipe: Sealed Doom Boots (60%)	4999	None	https://wiki.mw2.wiki/item/4999-recipe-sealed-doom-boots-60/lu4
+etc_recipe_red_i00	Recipe: Sword of Damascus (60%)	5000	None	https://wiki.mw2.wiki/item/5000-recipe-sword-of-damascus-60/lu4
+etc_recipe_red_i00	Recipe: Lance (60%)	5001	None	https://wiki.mw2.wiki/item/5001-recipe-lance-60/lu4
+etc_recipe_red_i00	Recipe: Deadman's Glory (60%)	5002	None	https://wiki.mw2.wiki/item/5002-recipe-deadmans-glory-60/lu4
+etc_recipe_red_i00	Recipe: Art of Battle Axe (60%)	5003	None	https://wiki.mw2.wiki/item/5003-recipe-art-of-battle-axe-60/lu4
+etc_recipe_red_i00	Recipe: Staff of Evil Spirits (60%)	5004	None	https://wiki.mw2.wiki/item/5004-recipe-staff-of-evil-spirits-60/lu4
+etc_recipe_red_i00	Recipe: Demon's Dagger (60%)	5005	None	https://wiki.mw2.wiki/item/5005-recipe-demons-dagger-60/lu4
+etc_recipe_red_i00	Recipe: Bellion Cestus (60%)	5006	None	https://wiki.mw2.wiki/item/5006-recipe-bellion-cestus-60/lu4
+etc_recipe_red_i00	Recipe: Bow of Peril (60%)	5007	None	https://wiki.mw2.wiki/item/5007-recipe-bow-of-peril-60/lu4
+etc_recipe_yellow_i00	Recipe: Pata (60%)	5008	None	https://wiki.mw2.wiki/item/5008-recipe-pata-60/lu4
+etc_recipe_blue_i00	Recipe: Soulshot (D) Compressed Package (100%)	5153	None	https://wiki.mw2.wiki/item/5153-recipe-soulshot-d-compressed-package-100/lu4
+etc_recipe_yellow_i00	Recipe: Soulshot (C) Compressed Package (100%)	5154	None	https://wiki.mw2.wiki/item/5154-recipe-soulshot-c-compressed-package-100/lu4
+etc_recipe_red_i00	Recipe: Soulshot (B) Compressed Package (100%)	5155	None	https://wiki.mw2.wiki/item/5155-recipe-soulshot-b-compressed-package-100/lu4
+etc_recipe_violet_i00	Recipe: Soulshot (A) Compressed Package (100%)	5156	None	https://wiki.mw2.wiki/item/5156-recipe-soulshot-a-compressed-package-100/lu4
+etc_recipe_black_i00	Recipe: Soulshot (S) Compressed Package (100%)	5157	None	https://wiki.mw2.wiki/item/5157-recipe-soulshot-s-compressed-package-100/lu4
+etc_recipe_blue_i00	Recipe: Spiritshot (D) Compressed Package (100%)	5158	None	https://wiki.mw2.wiki/item/5158-recipe-spiritshot-d-compressed-package-100/lu4
+etc_recipe_yellow_i00	Recipe: Spiritshot (C) Compressed Package (100%)	5159	None	https://wiki.mw2.wiki/item/5159-recipe-spiritshot-c-compressed-package-100/lu4
+etc_recipe_red_i00	Recipe: Spiritshot (B) Compressed Package (100%)	5160	None	https://wiki.mw2.wiki/item/5160-recipe-spiritshot-b-compressed-package-100/lu4
+etc_recipe_violet_i00	Recipe: Spiritshot (A) Compressed Package (100%)	5161	None	https://wiki.mw2.wiki/item/5161-recipe-spiritshot-a-compressed-package-100/lu4
+etc_recipe_black_i00	Recipe: Spiritshot (S) Compressed Package (100%)	5162	None	https://wiki.mw2.wiki/item/5162-recipe-spiritshot-s-compressed-package-100/lu4
+etc_recipe_blue_i00	Recipe: Blessed Spiritshot (D) Compressed Package (100%)	5163	None	https://wiki.mw2.wiki/item/5163-recipe-blessed-spiritshot-d-compressed-package-100/lu4
+etc_recipe_yellow_i00	Recipe: Blessed Spiritshot (C) Compressed Package (100%)	5164	None	https://wiki.mw2.wiki/item/5164-recipe-blessed-spiritshot-c-compressed-package-100/lu4
+etc_recipe_red_i00	Recipe: Blessed Spiritshot (B) Compressed Package (100%)	5165	None	https://wiki.mw2.wiki/item/5165-recipe-blessed-spiritshot-b-compressed-package-100/lu4
+etc_recipe_violet_i00	Recipe: Blessed Spiritshot (A) Compressed Package (100%)	5166	None	https://wiki.mw2.wiki/item/5166-recipe-blessed-spiritshot-a-compressed-package-100/lu4
+etc_recipe_black_i00	Recipe: Blessed Spiritshot (S) Compressed Package (100%)	5167	None	https://wiki.mw2.wiki/item/5167-recipe-blessed-spiritshot-s-compressed-package-100/lu4
+etc_recipe_violet_i00	Recipe: Mithril Arrow (100%)	5230	None	https://wiki.mw2.wiki/item/5230-recipe-mithril-arrow-100/lu4
+etc_recipe_blue_i00	Recipe: Metal Hardener (100%)	5231	None	https://wiki.mw2.wiki/item/5231-recipe-metal-hardener-100/lu4
+etc_recipe_blue_i00	Recipe: Greater Soulshot (D) Compressed Package (100%)	5268	None	https://wiki.mw2.wiki/item/5268-recipe-greater-soulshot-d-compressed-package-100/lu4
+etc_recipe_yellow_i00	Recipe: Greater Soulshot (C) Compressed Package(100%)	5269	None	https://wiki.mw2.wiki/item/5269-recipe-greater-soulshot-c-compressed-package100/lu4
+etc_recipe_red_i00	Recipe: Greater Soulshot (B) Compressed Package(100%)	5270	None	https://wiki.mw2.wiki/item/5270-recipe-greater-soulshot-b-compressed-package100/lu4
+etc_recipe_violet_i00	Recipe: Greater Soulshot (A) Compressed Package(100%)	5271	None	https://wiki.mw2.wiki/item/5271-recipe-greater-soulshot-a-compressed-package100/lu4
+etc_recipe_black_i00	Recipe: Greater Soulshot (S) Compressed Package(100%)	5272	None	https://wiki.mw2.wiki/item/5272-recipe-greater-soulshot-s-compressed-package100/lu4
+etc_recipe_blue_i00	Recipe: Greater Spiritshot (D) Compressed Package(100%)	5273	None	https://wiki.mw2.wiki/item/5273-recipe-greater-spiritshot-d-compressed-package100/lu4
+etc_recipe_yellow_i00	Recipe: Greater Spiritshot (C) Compressed Package(100%)	5274	None	https://wiki.mw2.wiki/item/5274-recipe-greater-spiritshot-c-compressed-package100/lu4
+etc_recipe_red_i00	Recipe: Greater Spiritshot (B) Compressed Package(100%)	5275	None	https://wiki.mw2.wiki/item/5275-recipe-greater-spiritshot-b-compressed-package100/lu4
+etc_recipe_violet_i00	Recipe: Greater Spiritshot (A) Compressed Package(100%)	5276	None	https://wiki.mw2.wiki/item/5276-recipe-greater-spiritshot-a-compressed-package100/lu4
+etc_recipe_black_i00	Recipe: Greater Spiritshot (S) Compressed Package(100%)	5277	None	https://wiki.mw2.wiki/item/5277-recipe-greater-spiritshot-s-compressed-package100/lu4
+etc_recipe_blue_i00	Recipe: Greater Blessed Spiritshot (D) Compressed Package(100%)	5278	None	https://wiki.mw2.wiki/item/5278-recipe-greater-blessed-spiritshot-d-compressed-package100/lu4
+etc_recipe_yellow_i00	Recipe: Greater Blessed Spiritshot (C) Compressed Package(100%)	5279	None	https://wiki.mw2.wiki/item/5279-recipe-greater-blessed-spiritshot-c-compressed-package100/lu4
+etc_recipe_red_i00	Recipe: Greater Blessed Spiritshot (B) Compressed Package(100%)	5280	None	https://wiki.mw2.wiki/item/5280-recipe-greater-blessed-spiritshot-b-compressed-package100/lu4
+etc_recipe_violet_i00	Recipe: Greater Blessed Spiritshot (A) Compressed Package(100%)	5281	None	https://wiki.mw2.wiki/item/5281-recipe-greater-blessed-spiritshot-a-compressed-package100/lu4
+etc_recipe_black_i00	Recipe: Greater Blessed Spiritshot (S) Compressed Package(100%)	5282	None	https://wiki.mw2.wiki/item/5282-recipe-greater-blessed-spiritshot-s-compressed-package100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Leather Armor(60%)	5332	None	https://wiki.mw2.wiki/item/5332-recipe-sealed-dark-crystal-leather-armor60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Leather Armor(100%)	5333	None	https://wiki.mw2.wiki/item/5333-recipe-sealed-dark-crystal-leather-armor100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Leather Armor(60%)	5334	None	https://wiki.mw2.wiki/item/5334-recipe-sealed-tallum-leather-armor60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Leather Armor(100%)	5335	None	https://wiki.mw2.wiki/item/5335-recipe-sealed-tallum-leather-armor100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Leather Armor of Nightmare(60%)	5336	None	https://wiki.mw2.wiki/item/5336-recipe-sealed-leather-armor-of-nightmare60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Leather Armor of Nightmare(100%)	5337	None	https://wiki.mw2.wiki/item/5337-recipe-sealed-leather-armor-of-nightmare100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Leather Armor(60%)	5338	None	https://wiki.mw2.wiki/item/5338-recipe-sealed-majestic-leather-armor60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Leather Armor(100%)	5339	None	https://wiki.mw2.wiki/item/5339-recipe-sealed-majestic-leather-armor100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Leggings(60%)	5340	None	https://wiki.mw2.wiki/item/5340-recipe-sealed-dark-crystal-leggings60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Leggings(100%)	5341	None	https://wiki.mw2.wiki/item/5341-recipe-sealed-dark-crystal-leggings100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Tunic(60%)	5346	None	https://wiki.mw2.wiki/item/5346-recipe-sealed-tallum-tunic60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Tunic(100%)	5347	None	https://wiki.mw2.wiki/item/5347-recipe-sealed-tallum-tunic100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Robe(60%)	5348	None	https://wiki.mw2.wiki/item/5348-recipe-sealed-dark-crystal-robe60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Robe(100%)	5349	None	https://wiki.mw2.wiki/item/5349-recipe-sealed-dark-crystal-robe100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Robe of Nightmare(60%)	5350	None	https://wiki.mw2.wiki/item/5350-recipe-sealed-robe-of-nightmare60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Robe of Nightmare(100%)	5351	None	https://wiki.mw2.wiki/item/5351-recipe-sealed-robe-of-nightmare100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Robe(60%)	5352	None	https://wiki.mw2.wiki/item/5352-recipe-sealed-majestic-robe60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Robe(100%)	5353	None	https://wiki.mw2.wiki/item/5353-recipe-sealed-majestic-robe100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Stockings(60%)	5354	None	https://wiki.mw2.wiki/item/5354-recipe-sealed-tallum-stockings60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Stockings(100%)	5355	None	https://wiki.mw2.wiki/item/5355-recipe-sealed-tallum-stockings100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Shield(60%)	5364	None	https://wiki.mw2.wiki/item/5364-recipe-sealed-dark-crystal-shield60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Shield(100%)	5365	None	https://wiki.mw2.wiki/item/5365-recipe-sealed-dark-crystal-shield100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Shield of Nightmare(60%)	5366	None	https://wiki.mw2.wiki/item/5366-recipe-sealed-shield-of-nightmare60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Shield of Nightmare(100%)	5367	None	https://wiki.mw2.wiki/item/5367-recipe-sealed-shield-of-nightmare100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Boots(60%)	5368	None	https://wiki.mw2.wiki/item/5368-recipe-sealed-dark-crystal-boots60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Boots(100%)	5369	None	https://wiki.mw2.wiki/item/5369-recipe-sealed-dark-crystal-boots100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Boots(60%)	5370	None	https://wiki.mw2.wiki/item/5370-recipe-sealed-tallum-boots60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Boots(100%)	5371	None	https://wiki.mw2.wiki/item/5371-recipe-sealed-tallum-boots100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Boots of Nightmare(60%)	5380	None	https://wiki.mw2.wiki/item/5380-recipe-sealed-boots-of-nightmare60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Boots of Nightmare(100%)	5381	None	https://wiki.mw2.wiki/item/5381-recipe-sealed-boots-of-nightmare100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Boots(60%)	5382	None	https://wiki.mw2.wiki/item/5382-recipe-sealed-majestic-boots60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Boots(100%)	5383	None	https://wiki.mw2.wiki/item/5383-recipe-sealed-majestic-boots100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Gloves(60%)	5392	None	https://wiki.mw2.wiki/item/5392-recipe-sealed-dark-crystal-gloves60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Gloves(100%)	5393	None	https://wiki.mw2.wiki/item/5393-recipe-sealed-dark-crystal-gloves100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Gloves(60%)	5394	None	https://wiki.mw2.wiki/item/5394-recipe-sealed-tallum-gloves60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Gloves(100%)	5395	None	https://wiki.mw2.wiki/item/5395-recipe-sealed-tallum-gloves100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Gauntlets of Nightmare(60%)	5404	None	https://wiki.mw2.wiki/item/5404-recipe-sealed-gauntlets-of-nightmare60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Gauntlets of Nightmare(100%)	5405	None	https://wiki.mw2.wiki/item/5405-recipe-sealed-gauntlets-of-nightmare100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Gauntlets(60%)	5406	None	https://wiki.mw2.wiki/item/5406-recipe-sealed-majestic-gauntlets60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Gauntlets(100%)	5407	None	https://wiki.mw2.wiki/item/5407-recipe-sealed-majestic-gauntlets100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Breastplate(60%)	5416	None	https://wiki.mw2.wiki/item/5416-recipe-sealed-dark-crystal-breastplate60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Breastplate(100%)	5417	None	https://wiki.mw2.wiki/item/5417-recipe-sealed-dark-crystal-breastplate100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Plate Armor(60%)	5418	None	https://wiki.mw2.wiki/item/5418-recipe-sealed-tallum-plate-armor60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Plate Armor(100%)	5419	None	https://wiki.mw2.wiki/item/5419-recipe-sealed-tallum-plate-armor100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Armor of Nightmare(60%)	5420	None	https://wiki.mw2.wiki/item/5420-recipe-sealed-armor-of-nightmare60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Armor of Nightmare(100%)	5421	None	https://wiki.mw2.wiki/item/5421-recipe-sealed-armor-of-nightmare100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Plate Armor(60%)	5422	None	https://wiki.mw2.wiki/item/5422-recipe-sealed-majestic-plate-armor60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Plate Armor(100%)	5423	None	https://wiki.mw2.wiki/item/5423-recipe-sealed-majestic-plate-armor100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Gaiters(60%)	5424	None	https://wiki.mw2.wiki/item/5424-recipe-sealed-dark-crystal-gaiters60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Gaiters(100%)	5425	None	https://wiki.mw2.wiki/item/5425-recipe-sealed-dark-crystal-gaiters100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Helmet(60%)	5426	None	https://wiki.mw2.wiki/item/5426-recipe-sealed-dark-crystal-helmet60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Dark Crystal Helmet(100%)	5427	None	https://wiki.mw2.wiki/item/5427-recipe-sealed-dark-crystal-helmet100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Helmet(60%)	5428	None	https://wiki.mw2.wiki/item/5428-recipe-sealed-tallum-helmet60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Tallum Helmet(100%)	5429	None	https://wiki.mw2.wiki/item/5429-recipe-sealed-tallum-helmet100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Helm of Nightmare(60%)	5430	None	https://wiki.mw2.wiki/item/5430-recipe-sealed-helm-of-nightmare60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Helm of Nightmare(100%)	5431	None	https://wiki.mw2.wiki/item/5431-recipe-sealed-helm-of-nightmare100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Circlet (60%)	5432	None	https://wiki.mw2.wiki/item/5432-recipe-sealed-majestic-circlet-60/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Circlet (100%)	5433	None	https://wiki.mw2.wiki/item/5433-recipe-sealed-majestic-circlet-100/lu4
+etc_recipe_violet_i00	Recipe: Dragon Slayer(60%)	5434	None	https://wiki.mw2.wiki/item/5434-recipe-dragon-slayer60/lu4
+etc_recipe_violet_i00	Recipe: Dragon Slayer(100%)	5435	None	https://wiki.mw2.wiki/item/5435-recipe-dragon-slayer100/lu4
+etc_recipe_yellow_i00	Recipe: Berserker Blade(100%)	5436	None	https://wiki.mw2.wiki/item/5436-recipe-berserker-blade100/lu4
+etc_recipe_blue_i00	Recipe: Heavy Sword(100%)	5437	None	https://wiki.mw2.wiki/item/5437-recipe-heavy-sword100/lu4
+etc_recipe_violet_i00	Recipe: Meteor Shower(60%)	5438	None	https://wiki.mw2.wiki/item/5438-recipe-meteor-shower60/lu4
+etc_recipe_violet_i00	Recipe: Meteor Shower(100%)	5439	None	https://wiki.mw2.wiki/item/5439-recipe-meteor-shower100/lu4
+etc_recipe_violet_i00	Recipe: Elysian(60%)	5440	None	https://wiki.mw2.wiki/item/5440-recipe-elysian60/lu4
+etc_recipe_violet_i00	Recipe: Elysian(100%)	5441	None	https://wiki.mw2.wiki/item/5441-recipe-elysian100/lu4
+etc_recipe_violet_i00	Recipe: Soul Bow(60%)	5442	None	https://wiki.mw2.wiki/item/5442-recipe-soul-bow60/lu4
+etc_recipe_violet_i00	Recipe: Soul Bow(100%)	5443	None	https://wiki.mw2.wiki/item/5443-recipe-soul-bow100/lu4
+etc_recipe_violet_i00	Recipe: Carnage Bow(60%)	5444	None	https://wiki.mw2.wiki/item/5444-recipe-carnage-bow60/lu4
+etc_recipe_violet_i00	Recipe: Carnage Bow(100%)	5445	None	https://wiki.mw2.wiki/item/5445-recipe-carnage-bow100/lu4
+etc_recipe_violet_i00	Recipe: Bloody Orchid(60%)	5446	None	https://wiki.mw2.wiki/item/5446-recipe-bloody-orchid60/lu4
+etc_recipe_violet_i00	Recipe: Bloody Orchid(100%)	5447	None	https://wiki.mw2.wiki/item/5447-recipe-bloody-orchid100/lu4
+etc_recipe_violet_i00	Recipe: Soul Separator(60%)	5448	None	https://wiki.mw2.wiki/item/5448-recipe-soul-separator60/lu4
+etc_recipe_violet_i00	Recipe: Soul Separator(100%)	5449	None	https://wiki.mw2.wiki/item/5449-recipe-soul-separator100/lu4
+etc_recipe_violet_i00	Recipe: Dragon Grinder(60%)	5450	None	https://wiki.mw2.wiki/item/5450-recipe-dragon-grinder60/lu4
+etc_recipe_violet_i00	Recipe: Dragon Grinder(100%)	5451	None	https://wiki.mw2.wiki/item/5451-recipe-dragon-grinder100/lu4
+etc_recipe_violet_i00	Recipe: Blood Tornado(60%)	5452	None	https://wiki.mw2.wiki/item/5452-recipe-blood-tornado60/lu4
+etc_recipe_violet_i00	Recipe: Blood Tornado(100%)	5453	None	https://wiki.mw2.wiki/item/5453-recipe-blood-tornado100/lu4
+etc_recipe_violet_i00	Recipe: Tallum Glaive(60%)	5456	None	https://wiki.mw2.wiki/item/5456-recipe-tallum-glaive60/lu4
+etc_recipe_violet_i00	Recipe: Tallum Glaive(100%)	5457	None	https://wiki.mw2.wiki/item/5457-recipe-tallum-glaive100/lu4
+etc_recipe_violet_i00	Recipe: Halberd(60%)	5458	None	https://wiki.mw2.wiki/item/5458-recipe-halberd60/lu4
+etc_recipe_violet_i00	Recipe: Halberd(100%)	5459	None	https://wiki.mw2.wiki/item/5459-recipe-halberd100/lu4
+etc_recipe_violet_i00	Recipe: Dasparion's Staff(60%)	5460	None	https://wiki.mw2.wiki/item/5460-recipe-dasparions-staff60/lu4
+etc_recipe_violet_i00	Recipe: Dasparion's Staff(100%)	5461	None	https://wiki.mw2.wiki/item/5461-recipe-dasparions-staff100/lu4
+etc_recipe_violet_i00	Recipe: Branch of the Mother Tree(60%)	5462	None	https://wiki.mw2.wiki/item/5462-recipe-branch-of-the-mother-tree60/lu4
+etc_recipe_violet_i00	Recipe: Branch of the Mother Tree(100%)	5463	None	https://wiki.mw2.wiki/item/5463-recipe-branch-of-the-mother-tree100/lu4
+etc_recipe_violet_i00	Recipe: Dark Legion's Edge(60%)	5464	None	https://wiki.mw2.wiki/item/5464-recipe-dark-legions-edge60/lu4
+etc_recipe_violet_i00	Recipe: Dark Legion's Edge(100%)	5465	None	https://wiki.mw2.wiki/item/5465-recipe-dark-legions-edge100/lu4
+etc_recipe_violet_i00	Recipe: Sword of Miracles(60%)	5466	None	https://wiki.mw2.wiki/item/5466-recipe-sword-of-miracles60/lu4
+etc_recipe_violet_i00	Recipe: Sword of Miracles(100%)	5467	None	https://wiki.mw2.wiki/item/5467-recipe-sword-of-miracles100/lu4
+etc_recipe_violet_i00	Recipe: Elemental Sword(60%)	5468	None	https://wiki.mw2.wiki/item/5468-recipe-elemental-sword60/lu4
+etc_recipe_violet_i00	Recipe: Elemental Sword(100%)	5469	None	https://wiki.mw2.wiki/item/5469-recipe-elemental-sword100/lu4
+etc_recipe_violet_i00	Recipe: Tallum Blade(60%)	5470	None	https://wiki.mw2.wiki/item/5470-recipe-tallum-blade60/lu4
+etc_recipe_violet_i00	Recipe: Tallum Blade(100%)	5471	None	https://wiki.mw2.wiki/item/5471-recipe-tallum-blade100/lu4
+etc_recipe_blue_i00	Recipe: Metallic Thread(100%)	5472	None	https://wiki.mw2.wiki/item/5472-recipe-metallic-thread100/lu4
+etc_recipe_blue_i00	Recipe: Durable Metal Plate(100%)	5473	None	https://wiki.mw2.wiki/item/5473-recipe-durable-metal-plate100/lu4
+etc_recipe_yellow_i00	Recipe: Reorin's Mold(100%)	5474	None	https://wiki.mw2.wiki/item/5474-recipe-reorins-mold100/lu4
+etc_recipe_violet_i00	Recipe: Warsmith's Mold(100%)	5475	None	https://wiki.mw2.wiki/item/5475-recipe-warsmiths-mold100/lu4
+etc_recipe_violet_i00	Recipe: Arcsmith's Anvil(100%)	5476	None	https://wiki.mw2.wiki/item/5476-recipe-arcsmiths-anvil100/lu4
+etc_recipe_violet_i00	Recipe: Warsmith's Holder(100%)	5477	None	https://wiki.mw2.wiki/item/5477-recipe-warsmiths-holder100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Phoenix Necklace(70%)	6329	None	https://wiki.mw2.wiki/item/6329-recipe-sealed-phoenix-necklace70/lu4
+etc_recipe_violet_i00	Recipe: Sealed Phoenix Necklace(100%)	6330	None	https://wiki.mw2.wiki/item/6330-recipe-sealed-phoenix-necklace100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Phoenix Earring(70%)	6331	None	https://wiki.mw2.wiki/item/6331-recipe-sealed-phoenix-earring70/lu4
+etc_recipe_violet_i00	Recipe: Sealed Phoenix Earring(100%)	6332	None	https://wiki.mw2.wiki/item/6332-recipe-sealed-phoenix-earring100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Phoenix Ring(70%)	6333	None	https://wiki.mw2.wiki/item/6333-recipe-sealed-phoenix-ring70/lu4
+etc_recipe_violet_i00	Recipe: Sealed Phoenix Ring(100%)	6334	None	https://wiki.mw2.wiki/item/6334-recipe-sealed-phoenix-ring100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Necklace(70%)	6335	None	https://wiki.mw2.wiki/item/6335-recipe-sealed-majestic-necklace70/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Necklace(100%)	6336	None	https://wiki.mw2.wiki/item/6336-recipe-sealed-majestic-necklace100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Earring(70%)	6337	None	https://wiki.mw2.wiki/item/6337-recipe-sealed-majestic-earring70/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Earring(100%)	6338	None	https://wiki.mw2.wiki/item/6338-recipe-sealed-majestic-earring100/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Ring(70%)	6339	None	https://wiki.mw2.wiki/item/6339-recipe-sealed-majestic-ring70/lu4
+etc_recipe_violet_i00	Recipe: Sealed Majestic Ring(100%)	6340	None	https://wiki.mw2.wiki/item/6340-recipe-sealed-majestic-ring100/lu4
+etc_recipe_black_i00	Recipe: Sealed Tateossian Earring (70%)	6847	None	https://wiki.mw2.wiki/item/6847-recipe-sealed-tateossian-earring-70/lu4
+etc_recipe_black_i00	Recipe: Sealed Tateossian Earring (100%)	6848	None	https://wiki.mw2.wiki/item/6848-recipe-sealed-tateossian-earring-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Tateossian Ring(70%)	6849	None	https://wiki.mw2.wiki/item/6849-recipe-sealed-tateossian-ring70/lu4
+etc_recipe_black_i00	Recipe: Sealed Tateossian Ring(100%)	6850	None	https://wiki.mw2.wiki/item/6850-recipe-sealed-tateossian-ring100/lu4
+etc_recipe_black_i00	Recipe: Sealed Tateossian Necklace(70%)	6851	None	https://wiki.mw2.wiki/item/6851-recipe-sealed-tateossian-necklace70/lu4
+etc_recipe_black_i00	Recipe: Sealed Tateossian Necklace(100%)	6852	None	https://wiki.mw2.wiki/item/6852-recipe-sealed-tateossian-necklace100/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Breastplate (60%)	6853	None	https://wiki.mw2.wiki/item/6853-recipe-sealed-imperial-crusader-breastplate-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Breastplate (100%)	6854	None	https://wiki.mw2.wiki/item/6854-recipe-sealed-imperial-crusader-breastplate-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Gaiters (60%)	6855	None	https://wiki.mw2.wiki/item/6855-recipe-sealed-imperial-crusader-gaiters-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Gaiters (100%)	6856	None	https://wiki.mw2.wiki/item/6856-recipe-sealed-imperial-crusader-gaiters-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Gauntlets (60%)	6857	None	https://wiki.mw2.wiki/item/6857-recipe-sealed-imperial-crusader-gauntlets-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Gauntlets (100%)	6858	None	https://wiki.mw2.wiki/item/6858-recipe-sealed-imperial-crusader-gauntlets-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Boots (60%)	6859	None	https://wiki.mw2.wiki/item/6859-recipe-sealed-imperial-crusader-boots-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Boots (100%)	6860	None	https://wiki.mw2.wiki/item/6860-recipe-sealed-imperial-crusader-boots-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Shield (60%)	6861	None	https://wiki.mw2.wiki/item/6861-recipe-sealed-imperial-crusader-shield-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Shield (100%)	6862	None	https://wiki.mw2.wiki/item/6862-recipe-sealed-imperial-crusader-shield-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Helmet (60%)	6863	None	https://wiki.mw2.wiki/item/6863-recipe-sealed-imperial-crusader-helmet-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Imperial Crusader Helmet (100%)	6864	None	https://wiki.mw2.wiki/item/6864-recipe-sealed-imperial-crusader-helmet-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Draconic Leather Armor (60%)	6865	None	https://wiki.mw2.wiki/item/6865-recipe-sealed-draconic-leather-armor-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Draconic Leather Armor (100%)	6866	None	https://wiki.mw2.wiki/item/6866-recipe-sealed-draconic-leather-armor-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Draconic Leather Gloves (60%)	6867	None	https://wiki.mw2.wiki/item/6867-recipe-sealed-draconic-leather-gloves-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Draconic Leather Gloves (100%)	6868	None	https://wiki.mw2.wiki/item/6868-recipe-sealed-draconic-leather-gloves-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Draconic Leather Boots (60%)	6869	None	https://wiki.mw2.wiki/item/6869-recipe-sealed-draconic-leather-boots-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Draconic Leather Boots (100%)	6870	None	https://wiki.mw2.wiki/item/6870-recipe-sealed-draconic-leather-boots-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Draconic Leather Helmet (60%)	6871	None	https://wiki.mw2.wiki/item/6871-recipe-sealed-draconic-leather-helmet-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Draconic Leather Helmet (100%)	6872	None	https://wiki.mw2.wiki/item/6872-recipe-sealed-draconic-leather-helmet-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Major Arcana Robe (60%)	6873	None	https://wiki.mw2.wiki/item/6873-recipe-sealed-major-arcana-robe-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Major Arcana Robe (100%)	6874	None	https://wiki.mw2.wiki/item/6874-recipe-sealed-major-arcana-robe-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Major Arcana Gloves (60%)	6875	None	https://wiki.mw2.wiki/item/6875-recipe-sealed-major-arcana-gloves-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Major Arcana Gloves (100%)	6876	None	https://wiki.mw2.wiki/item/6876-recipe-sealed-major-arcana-gloves-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Major Arcana Boots (60%)	6877	None	https://wiki.mw2.wiki/item/6877-recipe-sealed-major-arcana-boots-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Major Arcana Boots (100%)	6878	None	https://wiki.mw2.wiki/item/6878-recipe-sealed-major-arcana-boots-100/lu4
+etc_recipe_black_i00	Recipe: Sealed Major Arcana Circlet (60%)	6879	None	https://wiki.mw2.wiki/item/6879-recipe-sealed-major-arcana-circlet-60/lu4
+etc_recipe_black_i00	Recipe: Sealed Major Arcana Circlet (100%)	6880	None	https://wiki.mw2.wiki/item/6880-recipe-sealed-major-arcana-circlet-100/lu4
+etc_recipe_black_i00	Recipe: Forgotten Blade (60%)	6881	None	https://wiki.mw2.wiki/item/6881-recipe-forgotten-blade-60/lu4
+etc_recipe_black_i00	Recipe: Forgotten Blade (100%)	6882	None	https://wiki.mw2.wiki/item/6882-recipe-forgotten-blade-100/lu4
+etc_recipe_black_i00	Recipe: Basalt Battlehammer (60%)	6883	None	https://wiki.mw2.wiki/item/6883-recipe-basalt-battlehammer-60/lu4
+etc_recipe_black_i00	Recipe: Basalt Battlehammer (100%)	6884	None	https://wiki.mw2.wiki/item/6884-recipe-basalt-battlehammer-100/lu4
+etc_recipe_black_i00	Recipe: Imperial Staff (60%)	6885	None	https://wiki.mw2.wiki/item/6885-recipe-imperial-staff-60/lu4
+etc_recipe_black_i00	Recipe: Imperial Staff(100%)	6886	None	https://wiki.mw2.wiki/item/6886-recipe-imperial-staff100/lu4
+etc_recipe_black_i00	Recipe: Angel Slayer (60%)	6887	None	https://wiki.mw2.wiki/item/6887-recipe-angel-slayer-60/lu4
+etc_recipe_black_i00	Recipe: Angel Slayer (100%)	6888	None	https://wiki.mw2.wiki/item/6888-recipe-angel-slayer-100/lu4
+etc_recipe_black_i00	Recipe: Shining Bow (60%)	6889	None	https://wiki.mw2.wiki/item/6889-recipe-shining-bow-60/lu4
+etc_recipe_black_i00	Recipe: Shining Bow (100%)	6890	None	https://wiki.mw2.wiki/item/6890-recipe-shining-bow-100/lu4
+etc_recipe_black_i00	Recipe: Dragon Hunter Axe (60%)	6891	None	https://wiki.mw2.wiki/item/6891-recipe-dragon-hunter-axe-60/lu4
+etc_recipe_black_i00	Recipe: Dragon Hunter Axe (100%)	6892	None	https://wiki.mw2.wiki/item/6892-recipe-dragon-hunter-axe-100/lu4
+etc_recipe_black_i00	Recipe: Saint Spear (60%)	6893	None	https://wiki.mw2.wiki/item/6893-recipe-saint-spear-60/lu4
+etc_recipe_black_i00	Recipe: Saint Spear (100%)	6894	None	https://wiki.mw2.wiki/item/6894-recipe-saint-spear-100/lu4
+etc_recipe_black_i00	Recipe: Demon Splinter (60%)	6895	None	https://wiki.mw2.wiki/item/6895-recipe-demon-splinter-60/lu4
+etc_recipe_black_i00	Recipe: Demon Splinter (100%)	6896	None	https://wiki.mw2.wiki/item/6896-recipe-demon-splinter-100/lu4
+etc_recipe_black_i00	Recipe: Heavens Divider (60%)	6897	None	https://wiki.mw2.wiki/item/6897-recipe-heavens-divider-60/lu4
+etc_recipe_black_i00	Recipe: Heavens Divider (100%)	6898	None	https://wiki.mw2.wiki/item/6898-recipe-heavens-divider-100/lu4
+etc_recipe_black_i00	Recipe: Arcana Mace (60%)	6899	None	https://wiki.mw2.wiki/item/6899-recipe-arcana-mace-60/lu4
+etc_recipe_black_i00	Recipe: Arcana Mace (100%)	6900	None	https://wiki.mw2.wiki/item/6900-recipe-arcana-mace-100/lu4
+etc_recipe_black_i00	Recipe: Shining Arrow (100%)	6901	None	https://wiki.mw2.wiki/item/6901-recipe-shining-arrow-100/lu4
+etc_recipe_green_i00	Recipe: Greater Fish Oil (100%)	6920	None	https://wiki.mw2.wiki/item/6920-recipe-greater-fish-oil-100/lu4
+etc_recipe_green_i00	Recipe: Premium Fish Oil(100%)	6921	None	https://wiki.mw2.wiki/item/6921-recipe-premium-fish-oil100/lu4
+etc_recipe_green_i00	Recipe: Party Mask (100%)	6922	None	https://wiki.mw2.wiki/item/6922-recipe-party-mask-100/lu4
+etc_recipe_green_i00	Recipe: Lady's Hair Pin (100%)	6923	None	https://wiki.mw2.wiki/item/6923-recipe-ladys-hair-pin-100/lu4
+etc_recipe_green_i00	Recipe: Pirate's Eye Patch (100%)	6924	None	https://wiki.mw2.wiki/item/6924-recipe-pirates-eye-patch-100/lu4
+etc_recipe_green_i00	Recipe: Monocle (100%)	6925	None	https://wiki.mw2.wiki/item/6925-recipe-monocle-100/lu4
+etc_recipe_green_i00	Recipe: Lesser Healing Potion (100%)	6926	None	https://wiki.mw2.wiki/item/6926-recipe-lesser-healing-potion-100/lu4
+etc_recipe_green_i00	Recipe: Healing Potion (100%)	6927	None	https://wiki.mw2.wiki/item/6927-recipe-healing-potion-100/lu4
+etc_recipe_green_i00	Recipe: Greater Healing Potion (100%)	6928	None	https://wiki.mw2.wiki/item/6928-recipe-greater-healing-potion-100/lu4
+etc_recipe_green_i00	Recipe: Antidote (100%)	6929	None	https://wiki.mw2.wiki/item/6929-recipe-antidote-100/lu4
+etc_recipe_green_i00	Recipe: Greater Antidote (100%)	6930	None	https://wiki.mw2.wiki/item/6930-recipe-greater-antidote-100/lu4
+etc_recipe_green_i00	Recipe: Bandage (100%)	6931	None	https://wiki.mw2.wiki/item/6931-recipe-bandage-100/lu4
+etc_recipe_green_i00	Recipe: Emergency Dressing (100%)	6932	None	https://wiki.mw2.wiki/item/6932-recipe-emergency-dressing-100/lu4
+etc_recipe_green_i00	Recipe: Haste Potion (100%)	6933	None	https://wiki.mw2.wiki/item/6933-recipe-haste-potion-100/lu4
+etc_recipe_green_i00	Recipe: Alacrity Potion (100%)	6934	None	https://wiki.mw2.wiki/item/6934-recipe-alacrity-potion-100/lu4
+etc_recipe_green_i00	Recipe: Greater Haste Potion (100%)	6935	None	https://wiki.mw2.wiki/item/6935-recipe-greater-haste-potion-100/lu4
+etc_recipe_green_i00	Recipe: Greater Swift Attack Potion (100%)	6936	None	https://wiki.mw2.wiki/item/6936-recipe-greater-swift-attack-potion-100/lu4
+etc_recipe_green_i00	Recipe: Magic Haste Potion (100%)	6937	None	https://wiki.mw2.wiki/item/6937-recipe-magic-haste-potion-100/lu4
+etc_recipe_green_i00	Recipe: Greater Magic Haste Potion (100%)	6938	None	https://wiki.mw2.wiki/item/6938-recipe-greater-magic-haste-potion-100/lu4
+etc_recipe_green_i00	Recipe: Mystery Potion (100%)	6939	None	https://wiki.mw2.wiki/item/6939-recipe-mystery-potion-100/lu4
+etc_recipe_green_i00	Recipe: Facelifting Potion - A (100%)	6940	None	https://wiki.mw2.wiki/item/6940-recipe-facelifting-potion-a-100/lu4
+etc_recipe_green_i00	Recipe: Facelifting Potion - B (100%)	6941	None	https://wiki.mw2.wiki/item/6941-recipe-facelifting-potion-b-100/lu4
+etc_recipe_green_i00	Recipe: Facelifting Potion - C (100%)	6942	None	https://wiki.mw2.wiki/item/6942-recipe-facelifting-potion-c-100/lu4
+etc_recipe_green_i00	Recipe: Dye Potion - A (100%)	6943	None	https://wiki.mw2.wiki/item/6943-recipe-dye-potion-a-100/lu4
+etc_recipe_green_i00	Recipe: Dye Potion - B (100%)	6944	None	https://wiki.mw2.wiki/item/6944-recipe-dye-potion-b-100/lu4
+etc_recipe_green_i00	Recipe: Dye Potion - C (100%)	6945	None	https://wiki.mw2.wiki/item/6945-recipe-dye-potion-c-100/lu4
+etc_recipe_green_i00	Recipe: Dye Potion - D (100%)	6946	None	https://wiki.mw2.wiki/item/6946-recipe-dye-potion-d-100/lu4
+etc_recipe_green_i00	Recipe: Hair Style Change Potion - A (100%)	6947	None	https://wiki.mw2.wiki/item/6947-recipe-hair-style-change-potion-a-100/lu4
+etc_recipe_green_i00	Recipe: Hair Style Change Potion - B (100%)	6948	None	https://wiki.mw2.wiki/item/6948-recipe-hair-style-change-potion-b-100/lu4
+etc_recipe_green_i00	Recipe: Hair Style Change Potion - C (100%)	6949	None	https://wiki.mw2.wiki/item/6949-recipe-hair-style-change-potion-c-100/lu4
+etc_recipe_green_i00	Recipe: Hair Style Change Potion - D (100%)	6950	None	https://wiki.mw2.wiki/item/6950-recipe-hair-style-change-potion-d-100/lu4
+etc_recipe_green_i00	Recipe: Hair Style Change Potion - E (100%)	6951	None	https://wiki.mw2.wiki/item/6951-recipe-hair-style-change-potion-e-100/lu4
+etc_recipe_green_i00	Recipe: Hair Style Change Potion - F (100%)	6952	None	https://wiki.mw2.wiki/item/6952-recipe-hair-style-change-potion-f-100/lu4
+etc_recipe_green_i00	Recipe: Hair Style Change Potion - G (100%)	6953	None	https://wiki.mw2.wiki/item/6953-recipe-hair-style-change-potion-g-100/lu4
+etc_recipe_green_i00	Recipe: Dye of STR <Str+1 Con-1> (100%)	6954	None	https://wiki.mw2.wiki/item/6954-recipe-dye-of-str-str1-con-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of STR <Str+1 Dex-1> (100%)	6955	None	https://wiki.mw2.wiki/item/6955-recipe-dye-of-str-str1-dex-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of CON <Con+1 Str-1> (100%)	6956	None	https://wiki.mw2.wiki/item/6956-recipe-dye-of-con-con1-str-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of CON <Con+1 Dex-1> (100%)	6957	None	https://wiki.mw2.wiki/item/6957-recipe-dye-of-con-con1-dex-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of DEX <Dex+1 Str-1> (100%)	6958	None	https://wiki.mw2.wiki/item/6958-recipe-dye-of-dex-dex1-str-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of DEX <Dex+1 Con-1> (100%)	6959	None	https://wiki.mw2.wiki/item/6959-recipe-dye-of-dex-dex1-con-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of INT <Int+1 Men-1> (100%)	6960	None	https://wiki.mw2.wiki/item/6960-recipe-dye-of-int-int1-men-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of INT <Int+1 Wit-1> (100%)	6961	None	https://wiki.mw2.wiki/item/6961-recipe-dye-of-int-int1-wit-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of MEN <Men+1 Int-1> (100%)	6962	None	https://wiki.mw2.wiki/item/6962-recipe-dye-of-men-men1-int-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of MEN <Men+1 Wit-1> (100%)	6963	None	https://wiki.mw2.wiki/item/6963-recipe-dye-of-men-men1-wit-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of WIT<Wit+1 Int-1> (100%)	6964	None	https://wiki.mw2.wiki/item/6964-recipe-dye-of-witwit1-int-1-100/lu4
+etc_recipe_green_i00	Recipe: Dye of WIT<Wit+1 Men-1> (100%)	6965	None	https://wiki.mw2.wiki/item/6965-recipe-dye-of-witwit1-men-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of STR <Str+1 Con-1> (100%)	6966	None	https://wiki.mw2.wiki/item/6966-recipe-greater-dye-of-str-str1-con-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of STR <Str+1 Dex-1> (100%)	6967	None	https://wiki.mw2.wiki/item/6967-recipe-greater-dye-of-str-str1-dex-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of CON <Con+1 Str-1> (100%)	6968	None	https://wiki.mw2.wiki/item/6968-recipe-greater-dye-of-con-con1-str-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of CON <Con+1 Dex-1> (100%)	6969	None	https://wiki.mw2.wiki/item/6969-recipe-greater-dye-of-con-con1-dex-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of DEX <Dex+1 Str-1> (100%)	6970	None	https://wiki.mw2.wiki/item/6970-recipe-greater-dye-of-dex-dex1-str-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of DEX <Dex+1 Con-1> (100%)	6971	None	https://wiki.mw2.wiki/item/6971-recipe-greater-dye-of-dex-dex1-con-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of INT <Int+1 Men-1> (100%)	6972	None	https://wiki.mw2.wiki/item/6972-recipe-greater-dye-of-int-int1-men-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of INT <Int+1 Wit-1> (100%)	6973	None	https://wiki.mw2.wiki/item/6973-recipe-greater-dye-of-int-int1-wit-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of MEN <Men+1 Int-1> (100%)	6974	None	https://wiki.mw2.wiki/item/6974-recipe-greater-dye-of-men-men1-int-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of MEN <Men+1 Wit-1> (100%)	6975	None	https://wiki.mw2.wiki/item/6975-recipe-greater-dye-of-men-men1-wit-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of WIT<Wit+1 Int-1> (100%)	6976	None	https://wiki.mw2.wiki/item/6976-recipe-greater-dye-of-witwit1-int-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of WIT<Wit+1 Men-1> (100%)	6977	None	https://wiki.mw2.wiki/item/6977-recipe-greater-dye-of-witwit1-men-1-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of STR <Str+2 Con-2> (100%)	6978	None	https://wiki.mw2.wiki/item/6978-recipe-greater-dye-of-str-str2-con-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of STR <Str+2 Dex-2> (100%)	6979	None	https://wiki.mw2.wiki/item/6979-recipe-greater-dye-of-str-str2-dex-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of CON <Con+2 Str-2> (100%)	6980	None	https://wiki.mw2.wiki/item/6980-recipe-greater-dye-of-con-con2-str-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of CON <Con+2 Dex-2> (100%)	6981	None	https://wiki.mw2.wiki/item/6981-recipe-greater-dye-of-con-con2-dex-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of DEX <Dex+2 Str-2> (100%)	6982	None	https://wiki.mw2.wiki/item/6982-recipe-greater-dye-of-dex-dex2-str-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of DEX <Dex+2 Con-2> (100%)	6983	None	https://wiki.mw2.wiki/item/6983-recipe-greater-dye-of-dex-dex2-con-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of INT <Int+2 Men-2> (100%)	6984	None	https://wiki.mw2.wiki/item/6984-recipe-greater-dye-of-int-int2-men-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of INT <Int+2 Wit-2> (100%)	6985	None	https://wiki.mw2.wiki/item/6985-recipe-greater-dye-of-int-int2-wit-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of MEN <Men+2 Int-2> (100%)	6986	None	https://wiki.mw2.wiki/item/6986-recipe-greater-dye-of-men-men2-int-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of MEN <Men+2 Wit-2> (100%)	6987	None	https://wiki.mw2.wiki/item/6987-recipe-greater-dye-of-men-men2-wit-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of WIT<Wit+2 Int-2> (100%)	6988	None	https://wiki.mw2.wiki/item/6988-recipe-greater-dye-of-witwit2-int-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of WIT<Wit+2 Men-2> (100%)	6989	None	https://wiki.mw2.wiki/item/6989-recipe-greater-dye-of-witwit2-men-2-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of STR <Str+3 Con-3> (100%)	6990	None	https://wiki.mw2.wiki/item/6990-recipe-greater-dye-of-str-str3-con-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of STR <Str+3 Dex-3> (100%)	6991	None	https://wiki.mw2.wiki/item/6991-recipe-greater-dye-of-str-str3-dex-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of CON <Con+3 Str-3> (100%)	6992	None	https://wiki.mw2.wiki/item/6992-recipe-greater-dye-of-con-con3-str-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of CON <Con+3 Dex-3> (100%)	6993	None	https://wiki.mw2.wiki/item/6993-recipe-greater-dye-of-con-con3-dex-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of DEX <Dex+3 Str-3> (100%)	6994	None	https://wiki.mw2.wiki/item/6994-recipe-greater-dye-of-dex-dex3-str-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of DEX <Dex+3 Con-3> (100%)	6995	None	https://wiki.mw2.wiki/item/6995-recipe-greater-dye-of-dex-dex3-con-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of INT <Int+3 Men-3> (100%)	6996	None	https://wiki.mw2.wiki/item/6996-recipe-greater-dye-of-int-int3-men-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of INT <Int+3 Wit-3> (100%)	6997	None	https://wiki.mw2.wiki/item/6997-recipe-greater-dye-of-int-int3-wit-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of MEN <Men+3 Int-3> (100%)	6998	None	https://wiki.mw2.wiki/item/6998-recipe-greater-dye-of-men-men3-int-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of MEN <Men+3 Wit-3> (100%)	6999	None	https://wiki.mw2.wiki/item/6999-recipe-greater-dye-of-men-men3-wit-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of WIT<Wit+3 Int-3> (100%)	7000	None	https://wiki.mw2.wiki/item/7000-recipe-greater-dye-of-witwit3-int-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of WIT<Wit+3 Men-3> (100%)	7001	None	https://wiki.mw2.wiki/item/7001-recipe-greater-dye-of-witwit3-men-3-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of STR <Str+4 Con-4> (100%)	7002	None	https://wiki.mw2.wiki/item/7002-recipe-greater-dye-of-str-str4-con-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of STR <Str+4 Dex-4> (100%)	7003	None	https://wiki.mw2.wiki/item/7003-recipe-greater-dye-of-str-str4-dex-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of CON <Con+4 Str-4> (100%)	7004	None	https://wiki.mw2.wiki/item/7004-recipe-greater-dye-of-con-con4-str-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of CON <Con+4 Dex-4> (100%)	7005	None	https://wiki.mw2.wiki/item/7005-recipe-greater-dye-of-con-con4-dex-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of DEX <Dex+4 Str-4> (100%)	7006	None	https://wiki.mw2.wiki/item/7006-recipe-greater-dye-of-dex-dex4-str-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of DEX <Dex+4 Con-4> (100%)	7007	None	https://wiki.mw2.wiki/item/7007-recipe-greater-dye-of-dex-dex4-con-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of INT <Int+4 Men-4> (100%)	7008	None	https://wiki.mw2.wiki/item/7008-recipe-greater-dye-of-int-int4-men-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of INT <Int+4 Wit-4> (100%)	7009	None	https://wiki.mw2.wiki/item/7009-recipe-greater-dye-of-int-int4-wit-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of MEN <Men+4 Int-4> (100%)	7010	None	https://wiki.mw2.wiki/item/7010-recipe-greater-dye-of-men-men4-int-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of MEN <Men+4 Wit-4> (100%)	7011	None	https://wiki.mw2.wiki/item/7011-recipe-greater-dye-of-men-men4-wit-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of WIT<Wit+4 Int-4> (100%)	7012	None	https://wiki.mw2.wiki/item/7012-recipe-greater-dye-of-witwit4-int-4-100/lu4
+etc_recipe_green_i00	Recipe: Greater Dye of WIT<Wit+4 Men-4> (100%)	7013	None	https://wiki.mw2.wiki/item/7013-recipe-greater-dye-of-witwit4-men-4-100/lu4
+etc_recipe_black_i00	Recipe: Draconic Bow (60%)	7580	None	https://wiki.mw2.wiki/item/7580-recipe-draconic-bow-60/lu4
+etc_recipe_black_i00	Recipe: Draconic Bow (100%)	7581	None	https://wiki.mw2.wiki/item/7581-recipe-draconic-bow-100/lu4
+etc_recipe_green_i00	Recipe - Raccoon Ears (100%)	7689	None	https://wiki.mw2.wiki/item/7689-recipe-raccoon-ears-100/lu4
+etc_recipe_green_i00	Recipe - Outlaw's Eyepatch (100%)	7690	None	https://wiki.mw2.wiki/item/7690-recipe-outlaws-eyepatch-100/lu4
+etc_recipe_green_i00	Recipe - Maiden's Hairpin (100%)	7691	None	https://wiki.mw2.wiki/item/7691-recipe-maidens-hairpin-100/lu4
+etc_recipe_green_i00	Recipe - Rabbit Ears (100%)	7692	None	https://wiki.mw2.wiki/item/7692-recipe-rabbit-ears-100/lu4
+etc_recipe_green_i00	Recipe - Cat Ears (100%)	7693	None	https://wiki.mw2.wiki/item/7693-recipe-cat-ears-100/lu4
+etc_recipe_green_i00	Recipe: Forget-me-not Hairpin (100%)	7699	None	https://wiki.mw2.wiki/item/7699-recipe-forget-me-not-hairpin-100/lu4
+etc_recipe_green_i00	Recipe: Daisy Hairpin (100%)	7700	None	https://wiki.mw2.wiki/item/7700-recipe-daisy-hairpin-100/lu4
+etc_recipe_blue_i00	Recipe: Steel Sword (100%)	8294	None	https://wiki.mw2.wiki/item/8294-recipe-steel-sword-100/lu4
+etc_recipe_blue_i00	Recipe: Titan Sword (100%)	8295	None	https://wiki.mw2.wiki/item/8295-recipe-titan-sword-100/lu4
+etc_recipe_yellow_i00	Recipe: Pa'agrian Sword (100%)	8296	None	https://wiki.mw2.wiki/item/8296-recipe-paagrian-sword-100/lu4
+etc_recipe_red_i00	Recipe: Guardian's Sword (100%)	8297	None	https://wiki.mw2.wiki/item/8297-recipe-guardians-sword-100/lu4
+etc_recipe_red_i00	Recipe: Guardian's Sword (60%)	8298	None	https://wiki.mw2.wiki/item/8298-recipe-guardians-sword-60/lu4
+etc_recipe_violet_i00	Recipe: Infernal Master (100%)	8299	None	https://wiki.mw2.wiki/item/8299-recipe-infernal-master-100/lu4
+etc_recipe_violet_i00	Recipe: Infernal Master (60%)	8300	None	https://wiki.mw2.wiki/item/8300-recipe-infernal-master-60/lu4
+etc_recipe_blue_i00	Recipe: Priest Sword (100%)	8301	None	https://wiki.mw2.wiki/item/8301-recipe-priest-sword-100/lu4
+etc_recipe_blue_i00	Recipe: Sword of Magic Fog (100%)	8302	None	https://wiki.mw2.wiki/item/8302-recipe-sword-of-magic-fog-100/lu4
+etc_recipe_yellow_i00	Recipe: Mysterious Sword (100%)	8303	None	https://wiki.mw2.wiki/item/8303-recipe-mysterious-sword-100/lu4
+etc_recipe_yellow_i00	Recipe: Ecliptic Sword (100%)	8304	None	https://wiki.mw2.wiki/item/8304-recipe-ecliptic-sword-100/lu4
+etc_recipe_red_i00	Recipe: Wizard's Tear (100%)	8305	None	https://wiki.mw2.wiki/item/8305-recipe-wizards-tear-100/lu4
+etc_recipe_red_i00	Recipe: Wizard's Tear (60%)	8306	None	https://wiki.mw2.wiki/item/8306-recipe-wizards-tear-60/lu4
+etc_recipe_blue_i00	Recipe: Priest Mace (100%)	8307	None	https://wiki.mw2.wiki/item/8307-recipe-priest-mace-100/lu4
+etc_recipe_yellow_i00	Recipe: Ecliptic Axe (100%)	8308	None	https://wiki.mw2.wiki/item/8308-recipe-ecliptic-axe-100/lu4
+etc_recipe_red_i00	Recipe: Spell Breaker (100%)	8309	None	https://wiki.mw2.wiki/item/8309-recipe-spell-breaker-100/lu4
+etc_recipe_red_i00	Recipe: Spell Breaker (60%)	8310	None	https://wiki.mw2.wiki/item/8310-recipe-spell-breaker-60/lu4
+etc_recipe_red_i00	Recipe: Kaim Vanul's Bones (100%)	8311	None	https://wiki.mw2.wiki/item/8311-recipe-kaim-vanuls-bones-100/lu4
+etc_recipe_red_i00	Recipe: Kaim Vanul's Bones (60%)	8312	None	https://wiki.mw2.wiki/item/8312-recipe-kaim-vanuls-bones-60/lu4
+etc_recipe_violet_i00	Recipe: Spiritual Eye (100%)	8313	None	https://wiki.mw2.wiki/item/8313-recipe-spiritual-eye-100/lu4
+etc_recipe_violet_i00	Recipe: Spiritual Eye (60%)	8314	None	https://wiki.mw2.wiki/item/8314-recipe-spiritual-eye-60/lu4
+etc_recipe_violet_i00	Recipe: Flaming Dragon Skull (100%)	8315	None	https://wiki.mw2.wiki/item/8315-recipe-flaming-dragon-skull-100/lu4
+etc_recipe_violet_i00	Recipe: Flaming Dragon Skull (60%)	8316	None	https://wiki.mw2.wiki/item/8316-recipe-flaming-dragon-skull-60/lu4
+etc_recipe_blue_i00	Recipe: Titan Hammer (100%)	8317	None	https://wiki.mw2.wiki/item/8317-recipe-titan-hammer-100/lu4
+etc_recipe_yellow_i00	Recipe: Dwarven Hammer (100%)	8318	None	https://wiki.mw2.wiki/item/8318-recipe-dwarven-hammer-100/lu4
+etc_recipe_yellow_i00	Recipe: Karik Horn (100%)	8319	None	https://wiki.mw2.wiki/item/8319-recipe-karik-horn-100/lu4
+etc_recipe_violet_i00	Recipe: Destroyer Hammer (100%)	8320	None	https://wiki.mw2.wiki/item/8320-recipe-destroyer-hammer-100/lu4
+etc_recipe_red_i00	Recipe: Ice Storm Hammer (100%)	8321	None	https://wiki.mw2.wiki/item/8321-recipe-ice-storm-hammer-100/lu4
+etc_recipe_red_i00	Recipe: Ice Storm Hammer (60%)	8322	None	https://wiki.mw2.wiki/item/8322-recipe-ice-storm-hammer-60/lu4
+etc_recipe_red_i00	Recipe: Star Buster (100%)	8323	None	https://wiki.mw2.wiki/item/8323-recipe-star-buster-100/lu4
+etc_recipe_red_i00	Recipe: Star Buster (60%)	8324	None	https://wiki.mw2.wiki/item/8324-recipe-star-buster-60/lu4
+etc_recipe_violet_i00	Recipe: Doom Crusher (100%)	8325	None	https://wiki.mw2.wiki/item/8325-recipe-doom-crusher-100/lu4
+etc_recipe_violet_i00	Recipe: Doom Crusher (60%)	8326	None	https://wiki.mw2.wiki/item/8326-recipe-doom-crusher-60/lu4
+etc_recipe_green_i00	Recipe: Party Hat (100%)	8364	None	https://wiki.mw2.wiki/item/8364-recipe-party-hat-100/lu4
+etc_recipe_green_i00	Recipe: Party Hat (70%)	8365	None	https://wiki.mw2.wiki/item/8365-recipe-party-hat-70/lu4
+etc_recipe_green_i00	Recipe: Feathered Hat (100%)	8366	None	https://wiki.mw2.wiki/item/8366-recipe-feathered-hat-100/lu4
+etc_recipe_green_i00	Recipe: Feathered Hat (70%)	8367	None	https://wiki.mw2.wiki/item/8367-recipe-feathered-hat-70/lu4
+etc_recipe_green_i00	Recipe: Artisan's Goggles (100%)	8368	None	https://wiki.mw2.wiki/item/8368-recipe-artisans-goggles-100/lu4
+etc_recipe_green_i00	Recipe: Artisan's Goggles (70%)	8369	None	https://wiki.mw2.wiki/item/8369-recipe-artisans-goggles-70/lu4
+etc_recipe_green_i00	Recipe: Red Horn of Victory (100%)	8370	None	https://wiki.mw2.wiki/item/8370-recipe-red-horn-of-victory-100/lu4
+etc_recipe_green_i00	Recipe: Little Angel Wings (100%)	8371	None	https://wiki.mw2.wiki/item/8371-recipe-little-angel-wings-100/lu4
+etc_recipe_green_i00	Recipe: Fairy Antennae (100%)	8372	None	https://wiki.mw2.wiki/item/8372-recipe-fairy-antennae-100/lu4
+etc_recipe_violet_i00	Recipe: Destroyer Hammer (60%)	8487	None	https://wiki.mw2.wiki/item/8487-recipe-destroyer-hammer-60/lu4
+etc_recipe_white_i00	Recipe: Elixir of HP (No Grade) (100%)	8640	None	https://wiki.mw2.wiki/item/8640-recipe-elixir-of-hp-no-grade-100/lu4
+etc_recipe_blue_i00	Recipe: Elixir of HP (D-Grade) (100%)	8641	None	https://wiki.mw2.wiki/item/8641-recipe-elixir-of-hp-d-grade-100/lu4
+etc_recipe_yellow_i00	Recipe: Elixir of HP (C-Grade) (100%)	8642	None	https://wiki.mw2.wiki/item/8642-recipe-elixir-of-hp-c-grade-100/lu4
+etc_recipe_red_i00	Recipe: Elixir of HP (B-Grade) (100%)	8643	None	https://wiki.mw2.wiki/item/8643-recipe-elixir-of-hp-b-grade-100/lu4
+etc_recipe_violet_i00	Recipe: Elixir of HP (A-Grade) (100%)	8644	None	https://wiki.mw2.wiki/item/8644-recipe-elixir-of-hp-a-grade-100/lu4
+etc_recipe_black_i00	Recipe: Elixir of HP (S-Grade) (100%)	8645	None	https://wiki.mw2.wiki/item/8645-recipe-elixir-of-hp-s-grade-100/lu4
+etc_recipe_white_i00	Recipe: Elixir of MP (No Grade) (100%)	8646	None	https://wiki.mw2.wiki/item/8646-recipe-elixir-of-mp-no-grade-100/lu4
+etc_recipe_blue_i00	Recipe: Elixir of MP (D-Grade) (100%)	8647	None	https://wiki.mw2.wiki/item/8647-recipe-elixir-of-mp-d-grade-100/lu4
+etc_recipe_yellow_i00	Recipe: Elixir of MP (C-Grade) (100%)	8648	None	https://wiki.mw2.wiki/item/8648-recipe-elixir-of-mp-c-grade-100/lu4
+etc_recipe_red_i00	Recipe: Elixir of MP (B-Grade) (100%)	8649	None	https://wiki.mw2.wiki/item/8649-recipe-elixir-of-mp-b-grade-100/lu4
+etc_recipe_violet_i00	Recipe: Elixir of MP (A-Grade) (100%)	8650	None	https://wiki.mw2.wiki/item/8650-recipe-elixir-of-mp-a-grade-100/lu4
+etc_recipe_black_i00	Recipe: Elixir of MP (S-Grade) (100%)	8651	None	https://wiki.mw2.wiki/item/8651-recipe-elixir-of-mp-s-grade-100/lu4
+etc_recipe_white_i00	Recipe: Elixir of CP (No Grade) (100%)	8652	None	https://wiki.mw2.wiki/item/8652-recipe-elixir-of-cp-no-grade-100/lu4
+etc_recipe_blue_i00	Recipe: Elixir of CP (D-Grade) (100%)	8653	None	https://wiki.mw2.wiki/item/8653-recipe-elixir-of-cp-d-grade-100/lu4
+etc_recipe_yellow_i00	Recipe: Elixir of CP (C-Grade) (100%)	8654	None	https://wiki.mw2.wiki/item/8654-recipe-elixir-of-cp-c-grade-100/lu4
+etc_recipe_red_i00	Recipe: Elixir of CP (B-Grade) (100%)	8655	None	https://wiki.mw2.wiki/item/8655-recipe-elixir-of-cp-b-grade-100/lu4
+etc_recipe_violet_i00	Recipe: Elixir of CP (A-Grade) (100%)	8656	None	https://wiki.mw2.wiki/item/8656-recipe-elixir-of-cp-a-grade-100/lu4
+etc_recipe_black_i00	Recipe: Elixir of CP (S-Grade) (100%)	8657	None	https://wiki.mw2.wiki/item/8657-recipe-elixir-of-cp-s-grade-100/lu4
+etc_recipe_violet_i00	Recipe: Sirra's Blade (60%)	8690	None	https://wiki.mw2.wiki/item/8690-recipe-sirras-blade-60/lu4
+etc_recipe_violet_i00	Recipe: Sirra's Blade (100%)	8691	None	https://wiki.mw2.wiki/item/8691-recipe-sirras-blade-100/lu4
+etc_recipe_violet_i00	Recipe: Sword of Ipos (60%)	8692	None	https://wiki.mw2.wiki/item/8692-recipe-sword-of-ipos-60/lu4
+etc_recipe_violet_i00	Recipe: Sword of Ipos (100%)	8693	None	https://wiki.mw2.wiki/item/8693-recipe-sword-of-ipos-100/lu4
+etc_recipe_violet_i00	Recipe: Barakiel's Axe (60%)	8694	None	https://wiki.mw2.wiki/item/8694-recipe-barakiels-axe-60/lu4
+etc_recipe_violet_i00	Recipe: Barakiel's Axe (100%)	8695	None	https://wiki.mw2.wiki/item/8695-recipe-barakiels-axe-100/lu4
+etc_recipe_violet_i00	Recipe: Behemoth's Tuning Fork (60%)	8696	None	https://wiki.mw2.wiki/item/8696-recipe-behemoths-tuning-fork-60/lu4
+etc_recipe_violet_i00	Recipe: Behemoth's Tuning Fork (100%)	8697	None	https://wiki.mw2.wiki/item/8697-recipe-behemoths-tuning-fork-100/lu4
+etc_recipe_violet_i00	Recipe: Naga Storm (60%)	8698	None	https://wiki.mw2.wiki/item/8698-recipe-naga-storm-60/lu4
+etc_recipe_violet_i00	Recipe: Naga Storm (100%)	8699	None	https://wiki.mw2.wiki/item/8699-recipe-naga-storm-100/lu4
+etc_recipe_violet_i00	Recipe: Tiphon's Spear (60%)	8700	None	https://wiki.mw2.wiki/item/8700-recipe-tiphons-spear-60/lu4
+etc_recipe_violet_i00	Recipe: Tiphon's Spear (100%)	8701	None	https://wiki.mw2.wiki/item/8701-recipe-tiphons-spear-100/lu4
+etc_recipe_violet_i00	Recipe: Shyeed's Bow (60%)	8702	None	https://wiki.mw2.wiki/item/8702-recipe-shyeeds-bow-60/lu4
+etc_recipe_violet_i00	Recipe: Shyeed's Bow (100%)	8703	None	https://wiki.mw2.wiki/item/8703-recipe-shyeeds-bow-100/lu4
+etc_recipe_violet_i00	Recipe: Sobekk's Hurricane (60%)	8704	None	https://wiki.mw2.wiki/item/8704-recipe-sobekks-hurricane-60/lu4
+etc_recipe_violet_i00	Recipe: Sobekk's Hurricane (100%)	8705	None	https://wiki.mw2.wiki/item/8705-recipe-sobekks-hurricane-100/lu4
+etc_recipe_violet_i00	Recipe: Themis' Tongue (60%)	8706	None	https://wiki.mw2.wiki/item/8706-recipe-themis-tongue-60/lu4
+etc_recipe_violet_i00	Recipe: Themis' Tongue (100%)	8707	None	https://wiki.mw2.wiki/item/8707-recipe-themis-tongue-100/lu4
+etc_recipe_violet_i00	Recipe: Cabrio's Hand (60%)	8708	None	https://wiki.mw2.wiki/item/8708-recipe-cabrios-hand-60/lu4
+etc_recipe_violet_i00	Recipe: Cabrio's Hand (100%)	8709	None	https://wiki.mw2.wiki/item/8709-recipe-cabrios-hand-100/lu4
+etc_recipe_violet_i00	Recipe: Daimon Crystal (60%)	8710	None	https://wiki.mw2.wiki/item/8710-recipe-daimon-crystal-60/lu4
+etc_recipe_violet_i00	Recipe: Daimon Crystal (100%)	8711	None	https://wiki.mw2.wiki/item/8711-recipe-daimon-crystal-100/lu4
