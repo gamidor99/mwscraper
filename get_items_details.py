@@ -844,7 +844,7 @@ ordered_columns = [
 ]
 
 # ✅ Reorder columns safely
-#df_out = df_out[[c for c in ordered_columns if c in df_out.columns]]
+df_out = df_out[[c for c in ordered_columns if c in df_out.columns]]
 
 df_out.to_csv(OUTPUT_FILE, sep="\t", index=False, quoting=csv.QUOTE_MINIMAL)
 print(f"\n💾 Saved {len(df_out)} item details to {OUTPUT_FILE}")

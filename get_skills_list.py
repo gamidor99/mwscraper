@@ -1,7 +1,7 @@
 # --- Config ---
 BASE_URL = "https://mw2.wiki"
-LIMIT = 20  # skills per request
-MAX_PAGES = 10  # how many pages to scrape
+LIMIT = 1000  # skills per request
+MAX_PAGES = 992  # how many pages to scrape
 SERVER_ID = 10  # 1=eternal, 2=interlude, 10=lu4black, 11=lu4pink
 OUTPUT_FILE = "skills_list.tsv"
 WAIT_TIME = 1
@@ -23,6 +23,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import time, re, os, pandas as pd, csv
+from pathlib import Path
 
 options = Options()
 # options.add_argument("--headless")
@@ -97,13 +98,14 @@ for page in range(1, MAX_PAGES + 1):
     page_source = driver.page_source
     soup = BeautifulSoup(page_source, "html.parser")
     
-    # ✅ Debug: Check if table exists
-    table_check = soup.select_one("table.table-vcenter")
-    print("🔎 Table found:", "✅ YES" if table_check else "❌ NO")
+    # 🚫 Check for "Empty" row (end of results)
+    empty_check = soup.select_one("td.text-center")
+    if empty_check and "empty" in empty_check.get_text(strip=True).lower():
+        print("⚠️ Empty table detected — stopping pagination.")
+        break
 
     # ✅ Find all skill links
     skill_rows = soup.select("table.table-vcenter a.item-name")
-    print("🔎 Total skill <a> tags found:", len(skill_rows))
 
     if not skill_rows:
         print("⚠️ No skills found — stopping.")
@@ -141,8 +143,6 @@ for page in range(1, MAX_PAGES + 1):
                 "chronicle": chronicle             # save chronicle
             })
 
-            # 🧪 Debug individual skill data
-            print(f"  ✅ Parsed skill #{i}: ID={skill_id} | Name={skill_name}")
         except Exception as e:
             print(f"  ❌ Error parsing skill #{i}: {e}")
 
