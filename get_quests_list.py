@@ -12,7 +12,7 @@ LIMIT = 9999     # ✅ how many results per page
 
 BASE_URL = "https://wiki.mw2.wiki"
 INPUT_URL = f"{BASE_URL}/search/quest?query=&sub[levelMin]=1&sub[levelMax]=99&sub[race]=&page={PAGE}&limit={LIMIT}"
-OUTPUT_FILE = f"quests_list.tsv"
+OUTPUT_FILE = f"data/quests_list.tsv"
 
 # --- Setup Selenium ---
 options = Options()

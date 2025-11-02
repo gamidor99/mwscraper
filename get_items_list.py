@@ -3,7 +3,7 @@ BASE_URL = "https://mw2.wiki"
 LIMIT = 1000  # items per request
 MAX_PAGES = 999  # how many pages to scrape
 SERVER_ID = 10  # 1=eternal, 2=interlude, 10=lu4black, 11=lu4pink
-OUTPUT_FILE = "items_list.tsv"
+OUTPUT_FILE = "data/items/items_list.tsv"
 WAIT_TIME = 2  # wait time (seconds) between pages
 
 START_URL = f"{BASE_URL}/search?query=&type=item&sub[levelMin]=1&sub[levelMax]=99&sub[race]=&limit={LIMIT}&page=1"

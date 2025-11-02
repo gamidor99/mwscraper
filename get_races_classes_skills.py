@@ -14,11 +14,10 @@ from urllib.parse import urljoin
 SITE_ROOT = "https://wikipedia1.mw2.wiki"
 SERVER_ID = 10
 CHRONICLE = "lu4"
-INPUT_FILE = "races_classes_lu4.xml"
-OUTPUT_FILE = "races_classes_skills_lu4.xml"
+INPUT_FILE = "data/races_classes/races_classes_lu4.xml"
+OUTPUT_FILE = "data/races_classes/races_classes_skills_lu4.xml"
 LIMIT = 10           # number of class pages to visit (0 = all)
 WAIT_TIME = 3     # seconds between pages
-LEVEL_FILTER = {"1", "3", "5", "7"}  # which levels to scrape
 
 # --- Setup Selenium ---
 options = Options()
@@ -150,7 +149,7 @@ if LIMIT > 0:
     print(f"🔍 Limiting to first {LIMIT} classes for testing.")
 
 # Ensure chronicle-specific cache folder exists
-cache_dir = os.path.join("classes_skills", CHRONICLE)
+cache_dir = os.path.join("cache/classes_skills", CHRONICLE)
 os.makedirs(cache_dir, exist_ok=True)
 
 # --- STEP 4: SCRAPE LOOP ---

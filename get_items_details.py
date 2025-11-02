@@ -13,8 +13,8 @@ import json
 import hashlib
 
 # --- Config ---
-INPUT_FILE = "items_list.tsv"
-OUTPUT_FILE = "items_details.tsv"
+INPUT_FILE = "data/items/items_list.tsv"
+OUTPUT_FILE = "data/items/items_details.tsv"
 WAIT_TIME = 0.5
 MAX_ITEMS = 19900           # None = all
 CHECKPOINT_SIZE = 50       # ✅ save progress every 50 items
@@ -95,7 +95,7 @@ for idx, row in df_items.iloc[START_INDEX:].iterrows():
     chronicle = row["chronicle"] if "chronicle" in df_items.columns else "default"
     slug = slugify_link(url)
 
-    cache_dir = os.path.join("item_details_data", chronicle)
+    cache_dir = os.path.join("cache/item_details_data", chronicle)
     os.makedirs(cache_dir, exist_ok=True)
     cache_file = os.path.join(cache_dir, f"{slug}.html")
 

@@ -12,7 +12,7 @@ import argparse
 # --- Config ---
 BASE_URL = "https://wikipedia1.mw2.wiki"
 INPUT_URL = f"{BASE_URL}/races"
-OUTPUT_FILE = "races_lu4.tsv"
+OUTPUT_FILE = "data/races_classes/races_lu4.tsv"
 
 # Default server and chronicle
 SERVER_ID = 10

@@ -10,6 +10,7 @@ PER_PAGE = 5000       # results per page
 MAX_PAGES = 10      # 0 = all pages, or limit to N pages
 SLEEP_BETWEEN = 2   # seconds between requests
 SLEEP_END = 5       # seconds before exit
+OUTPUT_FILE = "data/npc/npc_list.csv"
 
 BASE_URL = (
     "https://wiki.mw2.wiki/search/npc?"
@@ -79,8 +80,8 @@ while True:
 
 # --- Save results ---
 df = pd.DataFrame(all_npcs)
-df.to_csv("npc_list.csv", index=False, encoding="utf-8")
-print(f"✅ Done! Scraped {len(all_npcs)} NPCs. Results saved to npc_list.csv")
+df.to_csv(OUTPUT_FILE, index=False, encoding="utf-8")
+print(f"✅ Done! Scraped {len(all_npcs)} NPCs. Results saved to {OUTPUT_FILE}")
 
 # --- Optional GUI ---
 try:

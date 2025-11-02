@@ -11,9 +11,9 @@ import csv
 
 # --- CONFIG ---
 BASE_SITE = "https://wiki.mw2.wiki"
-INPUT_FILE = "npc_list.csv"
-OUTPUT_FILE = "npc_details.tsv"
-CHECKPOINT_FILE = "npc_details_checkpoint.tsv"
+INPUT_FILE = "data/npc/npc_list.csv"
+OUTPUT_FILE = "data/npc/npc_details.tsv"
+CHECKPOINT_FILE = "data/npc/npc_details_checkpoint.tsv"
 SLEEP_BETWEEN = 0.5
 CHRONICLE = "lu4"  # lu4 or "interlude", etc.
 

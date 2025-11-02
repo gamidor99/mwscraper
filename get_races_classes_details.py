@@ -13,9 +13,9 @@ from selenium.webdriver.support import expected_conditions as EC
 from deep_translator import GoogleTranslator
 
 # --- Config ---
-INPUT_FILE = "races_lu4.tsv"
-OUTPUT_FILE = "races_details_lu4.tsv"
-CACHE_DIR = "classes_details"
+INPUT_FILE = "data/races_classes/races_lu4.tsv"
+OUTPUT_FILE = "data/races_classes/races_details_lu4.tsv"
+CACHE_DIR = "cache/classes_details"
 BASE_URL = "https://wikipedia1.mw2.wiki"
 WAIT_TIME = 3
 LIMIT = 12

@@ -10,8 +10,8 @@ import html
 import os
 
 # --- Config ---
-INPUT_FILE = "recipes_list.tsv"
-OUTPUT_FILE = "recipes_details.tsv"
+INPUT_FILE = "data/recipes/recipes_list.tsv"
+OUTPUT_FILE = "data/recipes/recipes_details.tsv"
 
 WAIT_TIME = 1
 OFFSET = 0

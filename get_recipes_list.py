@@ -17,7 +17,7 @@ CHRONICLE = "lu4"  # ✅ choose: "lu4" or "interlude"
 
 BASE_URL = "https://wiki.mw2.wiki"
 INPUT_URL = f"{BASE_URL}/search?query=&type=recipe&sub[levelMin]={LEVEL_MIN}&sub[levelMax]={LEVEL_MAX}&sub[race]={RACE}&page={PAGE}&limit={LIMIT}"
-OUTPUT_FILE = "recipes_list.tsv"
+OUTPUT_FILE = "data/recipes/recipes_list.tsv"
 
 # --- Setup Selenium ---
 options = Options()

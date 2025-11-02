@@ -6,14 +6,14 @@ from selenium.webdriver.chrome.options import Options
 import os
 import json
 
-INPUT_FILE = "skills_list.tsv"
-OUTPUT_FILE = "skills_details.tsv"
+INPUT_FILE = "data/skills/skills_list.tsv"
+OUTPUT_FILE = "data/skills/skills_details.tsv"
 WAIT_TIME = 0.5  # seconds between requests
 LIMIT = 999500     # how many skills to scrape per run
 OFFSET = 0     # start from this index (0-based)
 
 # --- Directory for HTML cache ---
-CACHE_DIR = "skills_details_data"
+CACHE_DIR = "cache/skills_details_data"
 
 # --- Setup Selenium ---
 options = Options()

@@ -8,8 +8,8 @@ import re
 import json
 
 # --- Config ---
-INPUT_FILE = "quests_list.tsv"
-OUTPUT_FILE = "quests_details.tsv"
+INPUT_FILE = "data/quests_list.tsv"
+OUTPUT_FILE = "data/quests_details.tsv"
 
 CHRONICLE = "lu4"    # ✅ e.g., "lu4", "interlude", "gracia-final", "high-five"
 LIMIT = 9999           # ✅ how many quests to scrape (None = all)
