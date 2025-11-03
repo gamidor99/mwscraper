@@ -1,3 +1,4 @@
+# races classes step 3
 import os
 import time
 import re
@@ -12,12 +13,29 @@ from urllib.parse import urljoin
 
 # --- CONFIG ---
 SITE_ROOT = "https://wikipedia1.mw2.wiki"
-SERVER_ID = 10
-CHRONICLE = "lu4"
-INPUT_FILE = "data/races_classes/races_classes_lu4.xml"
-OUTPUT_FILE = "data/races_classes/races_classes_skills_lu4.xml"
+INPUT_FILE = "data/races_classes/races_details_eternal.xml"
+OUTPUT_FILE = "data/races_classes/races_classes_skills_eternal.xml"
 LIMIT = 10           # number of class pages to visit (0 = all)
 WAIT_TIME = 3     # seconds between pages
+
+# --- Chronicle ↔ Server mapping ---
+SERVER_ID = 1
+CHRONICLE = "eternal"
+SERVER_MAP = {
+    "eternal": 1,
+    "interlude": 2,
+    "lu4": 10,
+    "lu4_pink": 11
+}
+
+SERVER_NAMES = {v: k for k, v in SERVER_MAP.items()}
+
+SERVER_ID = SERVER_MAP.get(CHRONICLE.lower())
+if SERVER_ID is None:
+    print(f"⚠️ Unknown chronicle '{CHRONICLE}', skipping server switch.")
+else:
+    CHRONICLE_NAME = SERVER_NAMES.get(SERVER_ID, f"server_{SERVER_ID}").lower()
+    print(f"🔄 Switching to server_id={SERVER_ID} ({CHRONICLE_NAME})...")
 
 # --- Setup Selenium ---
 options = Options()
@@ -25,76 +43,82 @@ options = Options()
 options.add_argument("--log-level=3")
 options.add_argument("--no-sandbox")
 
-# Optimi
-options.add_argument("--disable-dev-shm-usage")
-options.add_argument("--blink-settings=imagesEnabled=false")
-options.add_argument("--disable-blink-features=AutomationControlled")
-options.add_argument("--disable-features=NetworkService,NetworkServiceInProcess")
-options.add_argument("--disable-extensions")
-options.add_argument("--disable-background-networking")
-options.add_argument("--disable-sync")
+# Optimisation
+#options.add_argument("--disable-dev-shm-usage")
+#options.add_argument("--blink-settings=imagesEnabled=false")
+#options.add_argument("--disable-blink-features=AutomationControlled")
+#options.add_argument("--disable-features=NetworkService,NetworkServiceInProcess")
+#options.add_argument("--disable-extensions")
+#options.add_argument("--disable-background-networking")
+#options.add_argument("--disable-sync")
 
 driver = webdriver.Chrome(options=options)
 driver.set_page_load_timeout(15)
 wait = WebDriverWait(driver, 15)
 
-# --- SWITCH SERVER FUNCTION ---
 def switch_server(driver, wait, server_id, chronicle):
-    """Switch MW2 Wiki server and chronicle using CSRF-protected POST requests."""
+    """Switch MW2 Wiki server using visible dropdown menu (robust version)."""
+    SITE_ROOT = "https://wikipedia1.mw2.wiki"
+
     print(f"🔄 Switching to server_id={server_id} (chronicle={chronicle})...")
     driver.get(SITE_ROOT)
     time.sleep(2)
 
-    csrf_token = driver.execute_script("""
-        const meta = document.querySelector('meta[name="csrf-token"]');
-        return meta ? meta.getAttribute('content') : null;
-    """)
-
-    if not csrf_token:
-        print("❌ CSRF token not found. Make sure you're on the main wiki page.")
-        return False
-
-    driver.execute_script("""
-        const csrf = arguments[0];
-        const serverId = arguments[1];
-        const chronicle = arguments[2];
-        async function switchSettings() {
-            const postData = async (url, body) => {
-                const resp = await fetch(url, {
-                    method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/x-www-form-urlencoded',
-                        'X-CSRF-Token': csrf
-                    },
-                    body
-                });
-                return resp.ok;
-            };
-
-            console.log('🛰 Sending POSTs to update server and chronicle...');
-            const s1 = await postData('/wiki/profile/set-server', '_csrf=' + encodeURIComponent(csrf) + '&server_id=' + serverId);
-            const s2 = await postData('/wiki/profile/set-chronicles', '_csrf=' + encodeURIComponent(csrf) + '&chronicle=' + chronicle);
-            console.log('Server POST:', s1, 'Chronicle POST:', s2);
-
-            if (s1 && s2) {
-                console.log('✅ Both POSTs succeeded. Reloading...');
-                location.reload();
-            } else {
-                console.error('❌ Failed to switch one or both settings.');
-            }
-        }
-        switchSettings();
-    """, csrf_token, server_id, chronicle)
-
-    print("⏳ Waiting for page reload...")
-    time.sleep(5)
     try:
-        wait.until(lambda d: chronicle.lower() in d.page_source.lower())
-        print(f"✅ Switched successfully to server {server_id} ({chronicle}).")
-        return True
-    except Exception:
-        print("⚠️ Switch may not have taken effect.")
+        # --- Wait for dropdown toggle ---
+        dropdown_toggle = wait.until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "a#dropdown-server"))
+        )
+
+        # --- Ensure it's visible on screen ---
+        driver.execute_script("arguments[0].scrollIntoView({block: 'center'});", dropdown_toggle)
+        time.sleep(0.5)
+
+        # --- Try to click using JS (avoids not interactable errors) ---
+        driver.execute_script("arguments[0].click();", dropdown_toggle)
+        time.sleep(1)
+
+        # --- Wait for dropdown menu to render ---
+        wait.until(EC.visibility_of_element_located((By.CSS_SELECTOR, ".dropdown-menu.show")))
+
+        # --- Find matching option ---
+        items = driver.find_elements(By.CSS_SELECTOR, ".dropdown-menu a.dropdown-item")
+        found = False
+        for item in items:
+            data_params = item.get_attribute("data-params") or ""
+            if f'"server_id":{server_id}' in data_params:
+                label = item.text.strip()
+                print(f"🖱 Clicking server option: {label}")
+                driver.execute_script("arguments[0].click();", item)
+                found = True
+                break
+
+        if not found:
+            print(f"❌ Server ID {server_id} not found in dropdown menu.")
+            return False
+
+        # --- Wait for reload ---
+        print("⏳ Waiting for page reload...")
+        time.sleep(5)
+        wait.until(lambda d: d.execute_script("return document.readyState") == "complete")
+
+        # --- Confirm dropdown text ---
+        new_label = driver.find_element(By.CSS_SELECTOR, "a#dropdown-server").text.strip()
+        print(f"✅ Active server now: {new_label}")
+        if chronicle.lower() in new_label.lower() or str(server_id) in new_label:
+            print(f"✅ Switched successfully to {new_label}.")
+            return True
+        else:
+            print(f"⚠️ Switch may not have taken effect → Dropdown shows: {new_label}")
+            return False
+
+    except Exception as e:
+        print(f"⚠️ Error switching to server {server_id} ({chronicle}): {e}")
         return False
+
+
+
+
 
 # --- XML HELPERS ---
 def reorder_class_nodes(elem):
@@ -126,24 +150,40 @@ def nest_childs(parent_elem):
         parent_elem.remove(childs_elem)
 
 # --- STEP 1: SWITCH SERVER ---
-switch_server(driver, wait, SERVER_ID, CHRONICLE)
-print("✅ Server switch complete.\n")
-time.sleep(2)
+#switch_server(driver, wait, SERVER_ID, CHRONICLE)
+#print("✅ Server switch complete.\n")
+#time.sleep(1)
+
+
+# --- STEP 2: LOAD XML ---
+import xml.etree.ElementTree as ET
+import os
 
 # --- STEP 2: LOAD XML ---
 tree = ET.parse(INPUT_FILE)
 root = tree.getroot()
 
+def nest_childs(node):
+    """Recursively ensure nested <class> nodes are linked to their parents (optional)."""
+    for child in list(node.findall("class")):
+        nest_childs(child)
+
+# --- Flatten nested structure (optional, for traversal correctness) ---
 for race_node in root.findall(".//race"):
-    for class_node in list(race_node.findall("class")):
-        nest_childs(class_node)
+    for subtype_node in race_node.findall("subtype"):
+        for class_node in list(subtype_node.findall("class")):
+            nest_childs(class_node)
 
 # --- STEP 3: COLLECT CLASS LINKS ---
 all_classes = []
-for class_tag in root.findall(".//class[@url]"):
-    all_classes.append((class_tag.attrib["name"], class_tag.attrib["url"], class_tag))
+for class_tag in root.findall(".//class[@link]"):
+    name = class_tag.attrib.get("name", "")
+    url = class_tag.attrib.get("link", "")
+    if url:
+        all_classes.append((name, url, class_tag))
 
 print(f"📚 Found {len(all_classes)} classes total.")
+
 if LIMIT > 0:
     all_classes = all_classes[:LIMIT]
     print(f"🔍 Limiting to first {LIMIT} classes for testing.")
@@ -152,10 +192,15 @@ if LIMIT > 0:
 cache_dir = os.path.join("cache/classes_skills", CHRONICLE)
 os.makedirs(cache_dir, exist_ok=True)
 
-# --- STEP 4: SCRAPE LOOP ---
+
+print(all_classes)
+
+# --- STEP 4: SCRAPE LOOP (skeleton) ---
 for idx, (class_name, class_url, class_node) in enumerate(all_classes, 1):
+    print(f"[{idx}/{len(all_classes)}] 🌐 {class_name} → {class_url}")
+    # (fetch, cache, parse, etc.)
+
     safe_name = re.sub(r'[^a-zA-Z0-9_-]+', '_', class_name)
-    print(f"\n[{idx}/{len(all_classes)}] 🧭 Visiting {class_name} → {class_url}")
 
     # --- Load from cache if available ---
     cached_path = os.path.join(cache_dir, f"class_{safe_name}.html")
