@@ -60,3 +60,18 @@ venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
+
+
+### 🍎 **macOS / 🐧 Linux**
+```bash
+# Navigate to your project folder
+cd /path/to/mwscraper
+
+# Create a virtual environment
+python3 -m venv venv
+
+# Activate the environment
+source venv/bin/activate
+
+# Install required dependencies
+pip install -r requirements.txt

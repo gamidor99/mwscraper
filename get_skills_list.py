@@ -1,9 +1,10 @@
+# skills step 1: get skills list from search pages
 # --- Config ---
 BASE_URL = "https://mw2.wiki"
 LIMIT = 1000  # skills per request
 MAX_PAGES = 992  # how many pages to scrape
-SERVER_ID = 10  # 1=eternal, 2=interlude, 10=lu4black, 11=lu4pink
-OUTPUT_FILE = "data/skills/skills_list.tsv"
+SERVER_ID = 1  # 1=eternal, 2=interlude, 10=lu4black, 11=lu4pink
+OUTPUT_FILE = "data/skills/skills_list_eternal.tsv"
 WAIT_TIME = 1
 
 START_URL = f"{BASE_URL}/search?query=&type=skill&sub[levelMin]=1&sub[levelMax]=99&sub[race]="

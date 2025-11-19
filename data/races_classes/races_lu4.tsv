@@ -1,4 +1,4 @@
-c -race_name	race_icon	race_background	subtype_name	subtype_background	subtype_link	chronicle	server_id
+race_name	race_icon	race_background	subtype_name	subtype_background	subtype_link	chronicle	server_id
 Human	https://wikipedia1.mw2.wiki/images/wiki/races/race-human.png	https://wikipedia1.mw2.wiki/images/wiki/races/human.png	Warrior	https://wikipedia1.mw2.wiki/images/wiki/races/human_f.png	https://wikipedia1.mw2.wiki/race-type/0/0?chronicles=lu4	lu4	10
 Human	https://wikipedia1.mw2.wiki/images/wiki/races/race-human.png	https://wikipedia1.mw2.wiki/images/wiki/races/human.png	Mystic	https://wikipedia1.mw2.wiki/images/wiki/races/human_m.png	https://wikipedia1.mw2.wiki/race-type/0/1?chronicles=lu4	lu4	10
 Elf	https://wikipedia1.mw2.wiki/images/wiki/races/race-elf.png	https://wikipedia1.mw2.wiki/images/wiki/races/elf.png	Warrior	https://wikipedia1.mw2.wiki/images/wiki/races/elf_f.png	https://wikipedia1.mw2.wiki/race-type/1/0?chronicles=lu4	lu4	10

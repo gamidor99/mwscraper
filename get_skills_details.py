@@ -1,3 +1,4 @@
+# skill step2: get skill details from each skill page
 # --- Config ---
 import time, re, pandas as pd
 from bs4 import BeautifulSoup
@@ -6,10 +7,10 @@ from selenium.webdriver.chrome.options import Options
 import os
 import json
 
-INPUT_FILE = "data/skills/skills_list.tsv"
-OUTPUT_FILE = "data/skills/skills_details.tsv"
+INPUT_FILE = "data/skills/skills_list_eternal.tsv"
+OUTPUT_FILE = "data/skills/skills_details_eternal.tsv"
 WAIT_TIME = 0.5  # seconds between requests
-LIMIT = 999500     # how many skills to scrape per run
+LIMIT = 9000100     # how many skills to scrape per run
 OFFSET = 0     # start from this index (0-based)
 
 # --- Directory for HTML cache ---
@@ -39,9 +40,20 @@ def to_snake_case(text):
 # --- Load skill list ---
 skills_df = pd.read_csv(INPUT_FILE, sep="\t")
 
-# Apply offset and limit
+# Normalize columns (remove BOM, zero-width, trailing spaces)
+skills_df.columns = (
+    skills_df.columns
+    .str.strip()
+    .str.replace('\ufeff', '', regex=True)   # remove UTF-8 BOM
+    .str.replace('\u200b', '', regex=True)   # zero-width space
+    .str.replace('\xa0', '', regex=True)     # non-breaking space
+)
+
+# Apply offset + limit
 skills_df = skills_df.iloc[OFFSET : OFFSET + LIMIT]
+
 print(f"Loaded {len(skills_df)} skills (OFFSET={OFFSET}, LIMIT={LIMIT})")
+print("Columns:", skills_df.columns.tolist())   # Debug once
 
 results = []
 
@@ -89,6 +101,16 @@ for i, row in skills_df.iterrows():
 
         # icon, name, level, description
         icon_src = result_div.select_one("img")["src"] if result_div.select_one("img") else ""
+
+        # existing main icon
+        icon_src = result_div.select_one(".item-icon img:not(.item-icon__panel)")
+        icon_src = icon_src["src"] if icon_src else ""
+
+        # NEW: panel icon
+        icon_panel_tag = result_div.select_one(".item-icon img.item-icon__panel")
+        icon_panel_src = icon_panel_tag["src"] if icon_panel_tag else ""
+
+
         name_text = result_div.select_one(".item-name__content").get_text(" ", strip=True) if result_div.select_one(".item-name__content") else skill_name
         skill_level = result_div.select_one(".item-name__additional").get_text(" ", strip=True) if result_div.select_one(".item-name__additional") else ""
         skill_description = result_div.select_one("div p").get_text(" ", strip=True) if result_div.select_one("div p") else ""
@@ -282,6 +304,7 @@ for i, row in skills_df.iterrows():
                 "skill_id": skill_id_int,
                 "skill_name": skill_name,
                 "skill_icon": icon_clean,
+                "skill_icon_panel": re.sub(r"^/icon64/|\.png$", "", icon_panel_src),
                 "skill_level": lvl["level"],
                 "skill_description": lvl["description"],
                 "skill_link": lvl["link"],

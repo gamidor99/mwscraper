@@ -1,4 +1,4 @@
-# races classes step 3
+# races classes step 3: get skills data from class pages
 import os
 import time
 import re
@@ -13,14 +13,14 @@ from urllib.parse import urljoin
 
 # --- CONFIG ---
 SITE_ROOT = "https://wikipedia1.mw2.wiki"
-INPUT_FILE = "data/races_classes/races_details_eternal.xml"
-OUTPUT_FILE = "data/races_classes/races_classes_skills_eternal.xml"
-LIMIT = 10           # number of class pages to visit (0 = all)
-WAIT_TIME = 3     # seconds between pages
+INPUT_FILE = "data/races_classes/races_details_lu4.xml"
+OUTPUT_FILE = "data/races_classes/races_classes_skills_lu4.xml"
+LIMIT = 0           # number of class pages to visit (0 = all)
+WAIT_TIME = 0.5     # seconds between pages
 
 # --- Chronicle ↔ Server mapping ---
-SERVER_ID = 1
-CHRONICLE = "eternal"
+SERVER_ID = 10
+CHRONICLE = "lu4"
 SERVER_MAP = {
     "eternal": 1,
     "interlude": 2,
@@ -55,6 +55,35 @@ options.add_argument("--no-sandbox")
 driver = webdriver.Chrome(options=options)
 driver.set_page_load_timeout(15)
 wait = WebDriverWait(driver, 15)
+
+def clean_429_cache(cache_dir):
+    print("🧹 Checking cache for 429 HTML files...")
+
+    for root_dir, dirs, files in os.walk(cache_dir):
+        for fname in files:
+            if not fname.lower().endswith(".html"):
+                continue
+
+            path = os.path.join(root_dir, fname)
+
+            try:
+                with open(path, "r", encoding="utf-8") as f:
+                    content = f.read().strip()
+
+                # Detect 429-page in any form
+                if (
+                    "<title>429 Too Many Requests</title>" in content
+                    or "<h1>429 Too Many Requests</h1>" in content
+                    or "429 Too Many Requests" in content[:200]  # fast path
+                ):
+                    print(f"🗑 Removing corrupted 429 cache file: {fname}")
+                    os.remove(path)
+
+            except Exception as e:
+                print(f"⚠️ Cannot read {fname}: {e}")
+
+    print("✅ Cache cleanup finished.\n")
+
 
 def switch_server(driver, wait, server_id, chronicle):
     """Switch MW2 Wiki server using visible dropdown menu (robust version)."""
@@ -150,10 +179,9 @@ def nest_childs(parent_elem):
         parent_elem.remove(childs_elem)
 
 # --- STEP 1: SWITCH SERVER ---
-#switch_server(driver, wait, SERVER_ID, CHRONICLE)
-#print("✅ Server switch complete.\n")
-#time.sleep(1)
-
+switch_server(driver, wait, SERVER_ID, CHRONICLE)
+print("✅ Server switch complete.\n")
+time.sleep(1)
 
 # --- STEP 2: LOAD XML ---
 import xml.etree.ElementTree as ET
@@ -174,6 +202,142 @@ for race_node in root.findall(".//race"):
         for class_node in list(subtype_node.findall("class")):
             nest_childs(class_node)
 
+def parse_all_skills(page_html):
+    soup = BeautifulSoup(page_html, "html.parser")
+    result = {"active": {}, "passive": {}}
+
+    def base_no_ext(url):
+        if not url:
+            return ""
+        return os.path.splitext(os.path.basename(url))[0]
+
+    # Process both tabs
+    for tab_name in ["active", "passive"]:
+        tab = soup.find("div", id=tab_name)
+        if not tab:
+            continue
+
+        result_tab = result[tab_name]
+
+        # Each table row inside the tab
+        for tr in tab.select("table tbody tr"):
+            toggler = tr.find("div", class_="class-simple__toggler")
+            if not toggler:
+                continue
+
+            category_name = toggler.get_text(strip=True)
+
+            content = tr.find("div", class_="class-simple__content")
+            if not content:
+                continue
+
+            skills = []
+
+            # All skills inside this category
+            for a in content.find_all("a", class_="item-name"):
+                href = a.get("href", "").strip()
+                full_url = urljoin(SITE_ROOT, href)
+
+                # ID from URL /skill/xxxx-name/1
+                m = re.search(r"/skill/(\d+)-", href)
+                skill_id = m.group(1) if m else ""
+
+                # Name (from tooltip title)
+                title_span = a.select_one(".item-tooltip__title")
+                if title_span:
+                    name = title_span.get_text(strip=True)
+                else:
+                    name = a.get_text(strip=True)
+
+                # ICONS (basename without extension)
+                icon_primary = ""
+                icon_panel = ""
+
+                icon_block = a.select_one("span.item-icon")
+                if icon_block:
+                    # main icon <img>
+                    main_img = icon_block.find("img", class_=None)
+                    if main_img:
+                        icon_primary = base_no_ext(main_img["src"])
+
+                    # panel icon <img class="item-icon__panel">
+                    panel_img = icon_block.find("img", class_="item-icon__panel")
+                    if panel_img:
+                        icon_panel = base_no_ext(panel_img["src"])
+
+                # DESCRIPTION
+                tooltip_text = ""
+                tooltip_desc = a.select_one(".item-tooltip > div:nth-of-type(2)")
+                if tooltip_desc:
+                    tooltip_text = tooltip_desc.get_text(" ", strip=True)
+
+                skills.append({
+                    "id": skill_id,
+                    "name": name,
+                    "level": "1",
+                    "url": full_url,
+                    "icon": icon_primary,       # no extension
+                    "icon_panel": icon_panel,   # no extension
+                    "description": tooltip_text
+                })
+
+            result_tab[category_name] = skills
+
+    return result
+
+
+
+
+
+
+def write_skills_summary_to_xml(class_node, summary_data):
+    """
+    Writes <skills_summary> in this structure:
+
+    <skills_summary>
+        <skills type="active">
+            <category name="Physical skills">
+                <skill .../>
+            </category>
+        </skills>
+
+        <skills type="passive">
+            <category name="Equipment skills">
+                <skill .../>
+            </category>
+        </skills>
+    </skills_summary>
+    """
+
+    # Remove old summary
+    old = class_node.find("skills_summary")
+    if old is not None:
+        class_node.remove(old)
+
+    root_summary = ET.SubElement(class_node, "skills_summary")
+
+    for tab_name, categories in summary_data.items():
+        # <skills type="active"> or <skills type="passive">
+        skills_node = ET.SubElement(root_summary, "skills", type=tab_name)
+
+        for category_name, skills in categories.items():
+            # <category name="Physical skills">
+            cat_node = ET.SubElement(skills_node, "category", name=category_name)
+
+            for sk in skills:
+                ET.SubElement(
+                    cat_node,
+                    "skill",
+                    id=sk["id"],
+                    name=sk["name"],
+                    level=sk["level"],
+                    icon=sk["icon"],          # no extension
+                    icon_panel=sk["icon_panel"],
+                    url=sk["url"]
+                )
+
+
+
 # --- STEP 3: COLLECT CLASS LINKS ---
 all_classes = []
 for class_tag in root.findall(".//class[@link]"):
@@ -192,6 +356,8 @@ if LIMIT > 0:
 cache_dir = os.path.join("cache/classes_skills", CHRONICLE)
 os.makedirs(cache_dir, exist_ok=True)
 
+# Clean any cached 429 files before starting
+clean_429_cache(cache_dir)
 
 print(all_classes)
 
@@ -229,8 +395,8 @@ for idx, (class_name, class_url, class_node) in enumerate(all_classes, 1):
 
             # --- Handle rate limiting (429) ---
             if "429 Too Many Requests" in page_html:
-                print("⚠️ Rate limit detected — sleeping 10 s, then reloading current page...")
-                time.sleep(10)
+                print("⚠️ Rate limit detected — sleeping, then reloading current page...")
+                time.sleep(WAIT_TIME *2)
                 try:
                     driver.get(class_url)
                     time.sleep(2)
@@ -273,7 +439,7 @@ for idx, (class_name, class_url, class_node) in enumerate(all_classes, 1):
         # --- Handle rate limiting (429) ---
         if "429 Too Many Requests" in page_html:
             print("⚠️ Rate limit detected — sleeping 10 s, then reloading current page...")
-            time.sleep(10)
+            time.sleep(WAIT_TIME*2)
             try:
                 driver.get(class_url)
                 time.sleep(2)
@@ -347,9 +513,9 @@ for idx, (class_name, class_url, class_node) in enumerate(all_classes, 1):
 
                 if "429 Too Many Requests" in level_html:
                     print("⚠️ Rate limit detected — sleeping 10s then reloading...")
-                    time.sleep(10)
+                    time.sleep(WAIT_TIME*2)
                     driver.get(level_url)
-                    time.sleep(2)
+                    #time.sleep(2)
                     level_html = driver.page_source
                     print("🔁 Reloaded after rate limit.")
 
@@ -357,7 +523,38 @@ for idx, (class_name, class_url, class_node) in enumerate(all_classes, 1):
                     f.write(level_html)
             except Exception as e:
                 print(f"   ⚠️ Could not fetch level {level_num}: {e}")
-                continue
+                try:
+                    print("   🔁 Trying to refresh the page and re-fetch level HTML...")
+                    driver.refresh()
+                    time.sleep(1.5)
+                    level_html = driver.page_source
+
+                    # Handle rate limiting after refresh
+                    if "429 Too Many Requests" in level_html:
+                        print("   ⚠️ Rate limit detected after refresh — sleeping then navigating to level URL...")
+                        time.sleep(WAIT_TIME*2)
+                        try:
+                            driver.get(level_url)
+                            time.sleep(1.5)
+                            level_html = driver.page_source
+                        except Exception as e2:
+                            print(f"   ❌ Failed to load level URL after 429: {e2}")
+                            raise
+
+                    # Save refreshed HTML to cache
+                    with open(level_cache, "w", encoding="utf-8") as f:
+                        f.write(level_html)
+
+                except Exception as e2:
+                    print(f"   ❌ Refresh/reload failed for level {level_num}: {e2}")
+                    # Fallback to existing cache if available
+                    if os.path.exists(level_cache):
+                        print(f"   📦 Falling back to cached level HTML: {os.path.basename(level_cache)}")
+                        with open(level_cache, "r", encoding="utf-8") as f:
+                            level_html = f.read()
+                    else:
+                        print("   🚫 No cached level file available — skipping this level.")
+                        continue
 
         soup = BeautifulSoup(level_html, "html.parser")
         table = soup.find("table", class_="table-skills")
@@ -415,12 +612,79 @@ for idx, (class_name, class_url, class_node) in enumerate(all_classes, 1):
             # Remove empty <level> if nothing inside
             skills_node.remove(level_node)
 
+    
+
     # If no levels added at all, remove empty <skills>
     if levels_added == 0:
         class_node.remove(skills_node)
         print(f"⚠️ No skills found for {class_name}, skipping <skills> section.")
     else:
         print(f"✅ Added {levels_added} levels to {class_name}")
+
+    # test: remove all skills (for debugging)
+    #class_node.remove(skills_node)
+
+
+
+
+
+
+
+
+
+    # --------------------------------------------------------
+    # ALL SKILLS SUMMARY — CACHE SYSTEM
+    # --------------------------------------------------------
+    summary_cache_path = os.path.join(cache_dir, f"class_{safe_name}_summary.html")
+
+    if os.path.exists(summary_cache_path):
+        # ✔ Load from cache, no clicking
+        print(f"📦 Using cached ALL SKILLS for {class_name}")
+        with open(summary_cache_path, "r", encoding="utf-8") as f:
+            page_html = f.read()
+
+    else:
+        # ❌ Cache does not exist → must click and fetch
+        print(f"🌐 Loading ALL SKILLS tab for {class_name}...")
+
+        # --- Click "All skills" tab to reset ---
+        try:
+            all_skills_link = wait.until(
+                EC.element_to_be_clickable(
+                    (By.XPATH, "//a[contains(@class,'nav-link') and contains(text(),'All skills')]")
+                )
+            )
+            all_skills_link.click()
+        except Exception as e:
+            print(f"⚠️ Cannot click All skills tab: {e}")
+
+        time.sleep(1)
+        page_html = driver.page_source
+
+        # Handle rate limit
+        if "429 Too Many Requests" in page_html:
+            print("⚠️ 429 detected — waiting 10s...")
+            time.sleep(WAIT_TIME * 2)
+            page_html = driver.page_source
+
+        # ✔ Save fresh cache
+        with open(summary_cache_path, "w", encoding="utf-8") as f:
+            f.write(page_html)
+
+
+    # --------------------------------------------------------
+    # PARSE + WRITE TO XML
+    # --------------------------------------------------------
+    summary_data = parse_all_skills(page_html)
+    write_skills_summary_to_xml(class_node, summary_data)
+
+
+
+
+    
+
+    
+
 
 driver.quit()
 

@@ -16,10 +16,10 @@ import xml.etree.ElementTree as ET
 from collections import defaultdict
 
 # --- Config ---
-INPUT_FILE = "data/races_classes/races_eternal.tsv"
+INPUT_FILE = "data/races_classes/races_lu4.tsv"
 
-OUTPUT_FILE = "data/races_classes/races_details_eternal.tsv"
-OUTPUT_XML = "data/races_classes/races_details_eternal.xml"
+OUTPUT_FILE = "data/races_classes/races_details_lu4.tsv"
+OUTPUT_XML = "data/races_classes/races_details_lu4.xml"
 
 CACHE_DIR = "cache/classes_details"
 BASE_URL = "https://wikipedia1.mw2.wiki"
@@ -27,8 +27,8 @@ WAIT_TIME = 3
 LIMIT = 12
 
 # --- Chronicle ↔ Server mapping ---
-SERVER_ID = 1
-CHRONICLE = "eternal"
+SERVER_ID = 10
+CHRONICLE = "lu4"
 SERVER_MAP = {
     "eternal": 1,
     "interlude": 2,

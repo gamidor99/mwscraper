@@ -1,4 +1,4 @@
-# races classes step 1: get list
+# races classes step 1: get races and subtypes list
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
@@ -13,11 +13,11 @@ import argparse
 # --- Config ---
 BASE_URL = "https://wikipedia1.mw2.wiki"
 INPUT_URL = f"{BASE_URL}/races"
-OUTPUT_FILE = "data/races_classes/races_eternal.tsv"
+OUTPUT_FILE = "data/races_classes/races_lu4.tsv"
 
 # Default server and chronicle
-SERVER_ID = 1
-CHRONICLE = "ethernal"
+SERVER_ID = 10
+CHRONICLE = "lu4"
 
 # Map server IDs to their chronicle names
 SERVER_NAMES = {

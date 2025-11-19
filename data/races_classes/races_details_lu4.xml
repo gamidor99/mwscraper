@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<classes>
+	<race name="Human" icon="https://wikipedia1.mw2.wiki/images/wiki/races/race-human.png">
+		<subtype name="Fighter" link="https://wikipedia1.mw2.wiki/class/0-fighter/lu4">
+			<class name="Warrior" link="https://wikipedia1.mw2.wiki/class/1-warrior/lu4">
+				<class name="Warlord" link="https://wikipedia1.mw2.wiki/class/3-warlord/lu4">
+					<class name="Dreadnought" link="https://wikipedia1.mw2.wiki/class/89-dreadnought/lu4" />
+				</class>
+				<class name="Gladiator" link="https://wikipedia1.mw2.wiki/class/2-gladiator/lu4">
+					<class name="Duelist" link="https://wikipedia1.mw2.wiki/class/88-duelist/lu4" />
+				</class>
+			</class>
+			<class name="Knight" link="https://wikipedia1.mw2.wiki/class/4-knight/lu4">
+				<class name="Paladin" link="https://wikipedia1.mw2.wiki/class/5-paladin/lu4">
+					<class name="Phoenix Knight" link="https://wikipedia1.mw2.wiki/class/90-phoenixknight/lu4" />
+				</class>
+				<class name="Dark Avenger" link="https://wikipedia1.mw2.wiki/class/6-darkavenger/lu4">
+					<class name="Hell Knight" link="https://wikipedia1.mw2.wiki/class/91-hellknight/lu4" />
+				</class>
+			</class>
+			<class name="Rogue" link="https://wikipedia1.mw2.wiki/class/7-rogue/lu4">
+				<class name="Treasure Hunter" link="https://wikipedia1.mw2.wiki/class/8-treasurehunter/lu4">
+					<class name="Adventurer" link="https://wikipedia1.mw2.wiki/class/93-adventurer/lu4" />
+				</class>
+				<class name="Hawkeye" link="https://wikipedia1.mw2.wiki/class/9-hawkeye/lu4">
+					<class name="Sagittarius" link="https://wikipedia1.mw2.wiki/class/92-sagittarius/lu4" />
+				</class>
+			</class>
+		</subtype>
+		<subtype name="Mage" link="https://wikipedia1.mw2.wiki/class/10-mage/lu4">
+			<class name="Wizard" link="https://wikipedia1.mw2.wiki/class/11-wizard/lu4">
+				<class name="Sorcerer" link="https://wikipedia1.mw2.wiki/class/12-sorcerer/lu4">
+					<class name="Archmage" link="https://wikipedia1.mw2.wiki/class/94-archmage/lu4" />
+				</class>
+				<class name="Necromancer" link="https://wikipedia1.mw2.wiki/class/13-necromancer/lu4">
+					<class name="Soultaker" link="https://wikipedia1.mw2.wiki/class/95-soultaker/lu4" />
+				</class>
+				<class name="Warlock" link="https://wikipedia1.mw2.wiki/class/14-warlock/lu4">
+					<class name="Arcana Lord" link="https://wikipedia1.mw2.wiki/class/96-arcanalord/lu4" />
+				</class>
+			</class>
+			<class name="Cleric" link="https://wikipedia1.mw2.wiki/class/15-cleric/lu4">
+				<class name="Bishop" link="https://wikipedia1.mw2.wiki/class/16-bishop/lu4">
+					<class name="Cardinal" link="https://wikipedia1.mw2.wiki/class/97-cardinal/lu4" />
+				</class>
+				<class name="Prophet" link="https://wikipedia1.mw2.wiki/class/17-prophet/lu4">
+					<class name="Hierophant" link="https://wikipedia1.mw2.wiki/class/98-hierophant/lu4" />
+				</class>
+			</class>
+		</subtype>
+	</race>
+	<race name="Elf" icon="https://wikipedia1.mw2.wiki/images/wiki/races/race-elf.png">
+		<subtype name="Elven Fighter" link="https://wikipedia1.mw2.wiki/class/18-elvenfighter/lu4">
+			<class name="Elven Knight" link="https://wikipedia1.mw2.wiki/class/19-elvenknight/lu4">
+				<class name="Temple Knight" link="https://wikipedia1.mw2.wiki/class/20-templeknight/lu4">
+					<class name="Eva's Templar" link="https://wikipedia1.mw2.wiki/class/99-evastemplar/lu4" />
+				</class>
+				<class name="Swordsinger" link="https://wikipedia1.mw2.wiki/class/21-swordsinger/lu4">
+					<class name="Sword Muse" link="https://wikipedia1.mw2.wiki/class/100-swordmuse/lu4" />
+				</class>
+			</class>
+			<class name="Elven Scout" link="https://wikipedia1.mw2.wiki/class/22-elvenscout/lu4">
+				<class name="Plains Walker" link="https://wikipedia1.mw2.wiki/class/23-plainwalker/lu4">
+					<class name="Wind Rider" link="https://wikipedia1.mw2.wiki/class/101-windrider/lu4" />
+				</class>
+				<class name="Silver Ranger" link="https://wikipedia1.mw2.wiki/class/24-silverranger/lu4">
+					<class name="Moonlight Sentinel" link="https://wikipedia1.mw2.wiki/class/102-moonlightsentinel/lu4" />
+				</class>
+			</class>
+		</subtype>
+		<subtype name="Elven Mage" link="https://wikipedia1.mw2.wiki/class/25-elvenmage/lu4">
+			<class name="Elven Wizard" link="https://wikipedia1.mw2.wiki/class/26-elvenwizard/lu4">
+				<class name="Spellsinger" link="https://wikipedia1.mw2.wiki/class/27-spellsinger/lu4">
+					<class name="Mystic Muse" link="https://wikipedia1.mw2.wiki/class/103-mysticmuse/lu4" />
+				</class>
+				<class name="Elemental Summoner" link="https://wikipedia1.mw2.wiki/class/28-elementalsummoner/lu4">
+					<class name="Elemental Master" link="https://wikipedia1.mw2.wiki/class/104-elementalmaster/lu4" />
+				</class>
+			</class>
+			<class name="Elven Oracle" link="https://wikipedia1.mw2.wiki/class/29-oracle/lu4">
+				<class name="Elven Elder" link="https://wikipedia1.mw2.wiki/class/30-elder/lu4">
+					<class name="Eva's Saint" link="https://wikipedia1.mw2.wiki/class/105-evassaint/lu4" />
+				</class>
+			</class>
+		</subtype>
+	</race>
+	<race name="Dark Elf" icon="https://wikipedia1.mw2.wiki/images/wiki/races/race-darkelf.png">
+		<subtype name="Dark Fighter" link="https://wikipedia1.mw2.wiki/class/31-darkfighter/lu4">
+			<class name="Palus Knight" link="https://wikipedia1.mw2.wiki/class/32-palusknight/lu4">
+				<class name="Shillien Knight" link="https://wikipedia1.mw2.wiki/class/33-shillienknight/lu4">
+					<class name="Shillien Templar" link="https://wikipedia1.mw2.wiki/class/106-shillientemplar/lu4" />
+				</class>
+				<class name="Bladedancer" link="https://wikipedia1.mw2.wiki/class/34-bladedancer/lu4">
+					<class name="Spectral Dancer" link="https://wikipedia1.mw2.wiki/class/107-spectraldancer/lu4" />
+				</class>
+			</class>
+			<class name="Assassin" link="https://wikipedia1.mw2.wiki/class/35-assasin/lu4">
+				<class name="Abyss Walker" link="https://wikipedia1.mw2.wiki/class/36-abysswalker/lu4">
+					<class name="Ghost Hunter" link="https://wikipedia1.mw2.wiki/class/108-ghosthunter/lu4" />
+				</class>
+				<class name="Phantom Ranger" link="https://wikipedia1.mw2.wiki/class/37-phantomranger/lu4">
+					<class name="Ghost Sentinel" link="https://wikipedia1.mw2.wiki/class/109-ghostsentinel/lu4" />
+				</class>
+			</class>
+		</subtype>
+		<subtype name="Dark Mage" link="https://wikipedia1.mw2.wiki/class/38-darkmage/lu4">
+			<class name="Dark Wizard" link="https://wikipedia1.mw2.wiki/class/39-darkwizard/lu4">
+				<class name="Spellhowler" link="https://wikipedia1.mw2.wiki/class/40-spellhowler/lu4">
+					<class name="Storm Screamer" link="https://wikipedia1.mw2.wiki/class/110-stormscreamer/lu4" />
+				</class>
+				<class name="Phantom Summoner" link="https://wikipedia1.mw2.wiki/class/41-phantomsummoner/lu4">
+					<class name="Spectral Master" link="https://wikipedia1.mw2.wiki/class/111-spectralmaster/lu4" />
+				</class>
+			</class>
+			<class name="Shillien Oracle" link="https://wikipedia1.mw2.wiki/class/42-shillienoracle/lu4">
+				<class name="Shillien Elder" link="https://wikipedia1.mw2.wiki/class/43-shillienelder/lu4">
+					<class name="Shillien Saint" link="https://wikipedia1.mw2.wiki/class/112-shilliensaint/lu4" />
+				</class>
+			</class>
+		</subtype>
+	</race>
+	<race name="Orc" icon="https://wikipedia1.mw2.wiki/images/wiki/races/race-orc.png">
+		<subtype name="Orc Fighter" link="https://wikipedia1.mw2.wiki/class/44-orcfighter/lu4">
+			<class name="Orc Raider" link="https://wikipedia1.mw2.wiki/class/45-orcraider/lu4">
+				<class name="Destroyer" link="https://wikipedia1.mw2.wiki/class/46-destroyer/lu4">
+					<class name="Titan" link="https://wikipedia1.mw2.wiki/class/113-titan/lu4" />
+				</class>
+			</class>
+			<class name="Orc Monk" link="https://wikipedia1.mw2.wiki/class/47-orcmonk/lu4">
+				<class name="Tyrant" link="https://wikipedia1.mw2.wiki/class/48-tyrant/lu4">
+					<class name="Grand Khavatari" link="https://wikipedia1.mw2.wiki/class/114-grandkhavatari/lu4" />
+				</class>
+			</class>
+		</subtype>
+		<subtype name="Orc Mage" link="https://wikipedia1.mw2.wiki/class/49-orcmage/lu4">
+			<class name="Orc Shaman" link="https://wikipedia1.mw2.wiki/class/50-orcshaman/lu4">
+				<class name="Overlord" link="https://wikipedia1.mw2.wiki/class/51-overlord/lu4">
+					<class name="Dominator" link="https://wikipedia1.mw2.wiki/class/115-dominator/lu4" />
+				</class>
+				<class name="Warcryer" link="https://wikipedia1.mw2.wiki/class/52-warcryer/lu4">
+					<class name="Doom Cryer" link="https://wikipedia1.mw2.wiki/class/116-doomcryer/lu4" />
+				</class>
+			</class>
+		</subtype>
+	</race>
+	<race name="Dwarf" icon="https://wikipedia1.mw2.wiki/images/wiki/races/race-dwarf.png">
+		<subtype name="Dwarven Fighter" link="https://wikipedia1.mw2.wiki/class/53-dwarvenfighter/lu4">
+			<class name="Scavenger" link="https://wikipedia1.mw2.wiki/class/54-scavenger/lu4">
+				<class name="Bounty Hunter" link="https://wikipedia1.mw2.wiki/class/55-bountyhunter/lu4">
+					<class name="Fortune Seeker" link="https://wikipedia1.mw2.wiki/class/117-fortuneseeker/lu4" />
+				</class>
+			</class>
+			<class name="Artisan" link="https://wikipedia1.mw2.wiki/class/56-artisan/lu4">
+				<class name="Warsmith" link="https://wikipedia1.mw2.wiki/class/57-warsmith/lu4">
+					<class name="Maestro" link="https://wikipedia1.mw2.wiki/class/118-maestro/lu4" />
+				</class>
+			</class>
+		</subtype>
+		<subtype name="Dwarven Mystic" link="https://wikipedia1.mw2.wiki/class/208-dwarvenmystic/lu4">
+			<class name="Geomancer" link="https://wikipedia1.mw2.wiki/class/209-geomancer/lu4">
+				<class name="Terramancer" link="https://wikipedia1.mw2.wiki/class/210-terramancer/lu4">
+					<class name="Tectonic Sage" link="https://wikipedia1.mw2.wiki/class/211-tectonicsage/lu4" />
+				</class>
+			</class>
+		</subtype>
+	</race>
+	<race name="Kamael" icon="https://wikipedia1.mw2.wiki/images/wiki/races/race-kamael.png">
+		<subtype name="Kamael Soldier" link="https://wikipedia1.mw2.wiki/class/123-kamaelmsoldier/lu4">
+			<class name="Dragoon" link="https://wikipedia1.mw2.wiki/class/125-trooper/lu4">
+				<class name="Berserker" link="https://wikipedia1.mw2.wiki/class/127-berserker/lu4">
+					<class name="Doombringer" link="https://wikipedia1.mw2.wiki/class/131-doombringer/lu4" />
+				</class>
+				<class name="Soul Breaker (M)" link="https://wikipedia1.mw2.wiki/class/128-msoulbreaker/lu4">
+					<class name="Soul Hound (M)" link="https://wikipedia1.mw2.wiki/class/132-msoulhound/lu4" />
+				</class>
+			</class>
+		</subtype>
+		<subtype name="Kamael Soldier" link="https://wikipedia1.mw2.wiki/class/124-kamaelfsoldier/lu4">
+			<class name="Warder" link="https://wikipedia1.mw2.wiki/class/126-warder/lu4">
+				<class name="Arbalester" link="https://wikipedia1.mw2.wiki/class/130-arbalester/lu4">
+					<class name="Trickster" link="https://wikipedia1.mw2.wiki/class/134-trickster/lu4" />
+				</class>
+				<class name="Soul Breaker (F)" link="https://wikipedia1.mw2.wiki/class/129-fsoulbreaker/lu4">
+					<class name="Soul Hound (F)" link="https://wikipedia1.mw2.wiki/class/133-fsoulhound/lu4" />
+				</class>
+			</class>
+		</subtype>
+		<subtype name="Inspector" link="https://wikipedia1.mw2.wiki/class/135-inspector/lu4">
+			<class name="Judicator" link="https://wikipedia1.mw2.wiki/class/136-judicator/lu4" />
+		</subtype>
+	</race>
+</classes>
