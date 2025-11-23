@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class race="Elf" subtype="Elven Mage" name="Elven Wizard" child_of="none" parent_of="Spellsinger">
+  <skills_summary>
+    <skills type="active">
+      <category name="Magic skills">
+        <skill id="1011" name="Heal" start_level="1" icon="skill1011" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1011-heal/1">
+          <enchants/>
+        </skill>
+        <skill id="1012" name="Cure Poison" start_level="1" icon="skill1012" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1012-cure-poison/1">
+          <enchants/>
+        </skill>
+        <skill id="1015" name="Battle Heal" start_level="1" icon="skill1015" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1015-battle-heal/1">
+          <enchants/>
+        </skill>
+        <skill id="1027" name="Group Heal" start_level="1" icon="skill1027" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1027-group-heal/1">
+          <enchants/>
+        </skill>
+        <skill id="1126" name="Servitor Recharge" start_level="1" icon="skill1126" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1126-servitor-recharge/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/1126-servitor-recharge/34/1001/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="2" url="/skill/1126-servitor-recharge/34/1002/eternal" icon="skill1126">Increases Power.</enchant>
+              <enchant level="3" url="/skill/1126-servitor-recharge/34/1003/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="4" url="/skill/1126-servitor-recharge/34/1004/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="5" url="/skill/1126-servitor-recharge/34/1005/eternal" icon="skill1126">Increases Power.</enchant>
+              <enchant level="6" url="/skill/1126-servitor-recharge/34/1006/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="7" url="/skill/1126-servitor-recharge/34/1007/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="8" url="/skill/1126-servitor-recharge/34/1008/eternal" icon="skill1126">Increases Power.</enchant>
+              <enchant level="9" url="/skill/1126-servitor-recharge/34/1009/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="10" url="/skill/1126-servitor-recharge/34/1010/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="11" url="/skill/1126-servitor-recharge/34/1011/eternal" icon="skill1126">Increases Power.</enchant>
+              <enchant level="12" url="/skill/1126-servitor-recharge/34/1012/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="13" url="/skill/1126-servitor-recharge/34/1013/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="14" url="/skill/1126-servitor-recharge/34/1014/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="15" url="/skill/1126-servitor-recharge/34/1015/eternal" icon="skill1126">Increases Power.</enchant>
+              <enchant level="16" url="/skill/1126-servitor-recharge/34/1016/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="17" url="/skill/1126-servitor-recharge/34/1017/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="18" url="/skill/1126-servitor-recharge/34/1018/eternal" icon="skill1126">Increases Power.</enchant>
+              <enchant level="19" url="/skill/1126-servitor-recharge/34/1019/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="20" url="/skill/1126-servitor-recharge/34/1020/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="21" url="/skill/1126-servitor-recharge/34/1021/eternal" icon="skill1126">Increases Power.</enchant>
+              <enchant level="22" url="/skill/1126-servitor-recharge/34/1022/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="23" url="/skill/1126-servitor-recharge/34/1023/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="24" url="/skill/1126-servitor-recharge/34/1024/eternal" icon="skill1126">Increases Power.</enchant>
+              <enchant level="25" url="/skill/1126-servitor-recharge/34/1025/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="26" url="/skill/1126-servitor-recharge/34/1026/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="27" url="/skill/1126-servitor-recharge/34/1027/eternal" icon="skill1126">Increases Power.</enchant>
+              <enchant level="28" url="/skill/1126-servitor-recharge/34/1028/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="29" url="/skill/1126-servitor-recharge/34/1029/eternal" icon="skill1126">Power +1.</enchant>
+              <enchant level="30" url="/skill/1126-servitor-recharge/34/1030/eternal" icon="skill1126">Increases Power.</enchant>
+            </group>
+            <group type="cost">
+              <enchant level="1" url="/skill/1126-servitor-recharge/34/2001/eternal" icon="skill1126">MP сost -4.</enchant>
+              <enchant level="2" url="/skill/1126-servitor-recharge/34/2002/eternal" icon="skill1126">MP сost -6.</enchant>
+              <enchant level="3" url="/skill/1126-servitor-recharge/34/2003/eternal" icon="skill1126">MP сost -9.</enchant>
+              <enchant level="4" url="/skill/1126-servitor-recharge/34/2004/eternal" icon="skill1126">MP сost -11.</enchant>
+              <enchant level="5" url="/skill/1126-servitor-recharge/34/2005/eternal" icon="skill1126">MP сost -12.</enchant>
+              <enchant level="6" url="/skill/1126-servitor-recharge/34/2006/eternal" icon="skill1126">MP сost -15.</enchant>
+              <enchant level="7" url="/skill/1126-servitor-recharge/34/2007/eternal" icon="skill1126">MP сost -17.</enchant>
+              <enchant level="8" url="/skill/1126-servitor-recharge/34/2008/eternal" icon="skill1126">MP сost -20.</enchant>
+              <enchant level="9" url="/skill/1126-servitor-recharge/34/2009/eternal" icon="skill1126">MP сost -22.</enchant>
+              <enchant level="10" url="/skill/1126-servitor-recharge/34/2010/eternal" icon="skill1126">MP сost -25.</enchant>
+              <enchant level="11" url="/skill/1126-servitor-recharge/34/2011/eternal" icon="skill1126">MP сost -26.</enchant>
+              <enchant level="12" url="/skill/1126-servitor-recharge/34/2012/eternal" icon="skill1126">MP сost -29.</enchant>
+              <enchant level="13" url="/skill/1126-servitor-recharge/34/2013/eternal" icon="skill1126">MP сost -31.</enchant>
+              <enchant level="14" url="/skill/1126-servitor-recharge/34/2014/eternal" icon="skill1126">MP сost -34.</enchant>
+              <enchant level="15" url="/skill/1126-servitor-recharge/34/2015/eternal" icon="skill1126">MP сost -36.</enchant>
+              <enchant level="16" url="/skill/1126-servitor-recharge/34/2016/eternal" icon="skill1126">MP сost -39.</enchant>
+              <enchant level="17" url="/skill/1126-servitor-recharge/34/2017/eternal" icon="skill1126">MP сost -40.</enchant>
+              <enchant level="18" url="/skill/1126-servitor-recharge/34/2018/eternal" icon="skill1126">MP сost -42.</enchant>
+              <enchant level="19" url="/skill/1126-servitor-recharge/34/2019/eternal" icon="skill1126">MP сost -45.</enchant>
+              <enchant level="20" url="/skill/1126-servitor-recharge/34/2020/eternal" icon="skill1126">MP сost -47.</enchant>
+              <enchant level="21" url="/skill/1126-servitor-recharge/34/2021/eternal" icon="skill1126">MP сost -50.</enchant>
+              <enchant level="22" url="/skill/1126-servitor-recharge/34/2022/eternal" icon="skill1126">MP сost -51.</enchant>
+              <enchant level="23" url="/skill/1126-servitor-recharge/34/2023/eternal" icon="skill1126">MP сost -54.</enchant>
+              <enchant level="24" url="/skill/1126-servitor-recharge/34/2024/eternal" icon="skill1126">MP сost -56.</enchant>
+              <enchant level="25" url="/skill/1126-servitor-recharge/34/2025/eternal" icon="skill1126">MP сost -59.</enchant>
+              <enchant level="26" url="/skill/1126-servitor-recharge/34/2026/eternal" icon="skill1126">MP сost -61.</enchant>
+              <enchant level="27" url="/skill/1126-servitor-recharge/34/2027/eternal" icon="skill1126">MP сost -64.</enchant>
+              <enchant level="28" url="/skill/1126-servitor-recharge/34/2028/eternal" icon="skill1126">MP сost -65.</enchant>
+              <enchant level="29" url="/skill/1126-servitor-recharge/34/2029/eternal" icon="skill1126">MP сost -67.</enchant>
+              <enchant level="30" url="/skill/1126-servitor-recharge/34/2030/eternal" icon="skill1126">MP сost -70.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1127" name="Servitor Heal" start_level="1" icon="skill1127" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/1127-servitor-heal/45/1001/eternal" icon="skill1127">Power +4.</enchant>
+              <enchant level="2" url="/skill/1127-servitor-heal/45/1002/eternal" icon="skill1127">Power +8.</enchant>
+              <enchant level="3" url="/skill/1127-servitor-heal/45/1003/eternal" icon="skill1127">Power +12.</enchant>
+              <enchant level="4" url="/skill/1127-servitor-heal/45/1004/eternal" icon="skill1127">Power +16.</enchant>
+              <enchant level="5" url="/skill/1127-servitor-heal/45/1005/eternal" icon="skill1127">Power +20.</enchant>
+              <enchant level="6" url="/skill/1127-servitor-heal/45/1006/eternal" icon="skill1127">Power +24.</enchant>
+              <enchant level="7" url="/skill/1127-servitor-heal/45/1007/eternal" icon="skill1127">Power +28.</enchant>
+              <enchant level="8" url="/skill/1127-servitor-heal/45/1008/eternal" icon="skill1127">Power +32.</enchant>
+              <enchant level="9" url="/skill/1127-servitor-heal/45/1009/eternal" icon="skill1127">Power +36.</enchant>
+              <enchant level="10" url="/skill/1127-servitor-heal/45/1010/eternal" icon="skill1127">Power +40.</enchant>
+              <enchant level="11" url="/skill/1127-servitor-heal/45/1011/eternal" icon="skill1127">Power +44.</enchant>
+              <enchant level="12" url="/skill/1127-servitor-heal/45/1012/eternal" icon="skill1127">Power +48.</enchant>
+              <enchant level="13" url="/skill/1127-servitor-heal/45/1013/eternal" icon="skill1127">Power +52.</enchant>
+              <enchant level="14" url="/skill/1127-servitor-heal/45/1014/eternal" icon="skill1127">Power +56.</enchant>
+              <enchant level="15" url="/skill/1127-servitor-heal/45/1015/eternal" icon="skill1127">Power +61.</enchant>
+              <enchant level="16" url="/skill/1127-servitor-heal/45/1016/eternal" icon="skill1127">Power +65.</enchant>
+              <enchant level="17" url="/skill/1127-servitor-heal/45/1017/eternal" icon="skill1127">Power +69.</enchant>
+              <enchant level="18" url="/skill/1127-servitor-heal/45/1018/eternal" icon="skill1127">Power +73.</enchant>
+              <enchant level="19" url="/skill/1127-servitor-heal/45/1019/eternal" icon="skill1127">Power +77.</enchant>
+              <enchant level="20" url="/skill/1127-servitor-heal/45/1020/eternal" icon="skill1127">Power +81.</enchant>
+              <enchant level="21" url="/skill/1127-servitor-heal/45/1021/eternal" icon="skill1127">Power +85.</enchant>
+              <enchant level="22" url="/skill/1127-servitor-heal/45/1022/eternal" icon="skill1127">Power +89.</enchant>
+              <enchant level="23" url="/skill/1127-servitor-heal/45/1023/eternal" icon="skill1127">Power +93.</enchant>
+              <enchant level="24" url="/skill/1127-servitor-heal/45/1024/eternal" icon="skill1127">Power +97.</enchant>
+              <enchant level="25" url="/skill/1127-servitor-heal/45/1025/eternal" icon="skill1127">Power +101.</enchant>
+              <enchant level="26" url="/skill/1127-servitor-heal/45/1026/eternal" icon="skill1127">Power +105.</enchant>
+              <enchant level="27" url="/skill/1127-servitor-heal/45/1027/eternal" icon="skill1127">Power +109.</enchant>
+              <enchant level="28" url="/skill/1127-servitor-heal/45/1028/eternal" icon="skill1127">Power +113.</enchant>
+              <enchant level="29" url="/skill/1127-servitor-heal/45/1029/eternal" icon="skill1127">Power +117.</enchant>
+              <enchant level="30" url="/skill/1127-servitor-heal/45/1030/eternal" icon="skill1127">Power +122.</enchant>
+            </group>
+            <group type="cost">
+              <enchant level="1" url="/skill/1127-servitor-heal/45/2001/eternal" icon="skill1127">MP сost -3.</enchant>
+              <enchant level="2" url="/skill/1127-servitor-heal/45/2002/eternal" icon="skill1127">MP сost -5.</enchant>
+              <enchant level="3" url="/skill/1127-servitor-heal/45/2003/eternal" icon="skill1127">MP сost -8.</enchant>
+              <enchant level="4" url="/skill/1127-servitor-heal/45/2004/eternal" icon="skill1127">MP сost -9.</enchant>
+              <enchant level="5" url="/skill/1127-servitor-heal/45/2005/eternal" icon="skill1127">MP сost -12.</enchant>
+              <enchant level="6" url="/skill/1127-servitor-heal/45/2006/eternal" icon="skill1127">MP сost -13.</enchant>
+              <enchant level="7" url="/skill/1127-servitor-heal/45/2007/eternal" icon="skill1127">MP сost -15.</enchant>
+              <enchant level="8" url="/skill/1127-servitor-heal/45/2008/eternal" icon="skill1127">MP сost -18.</enchant>
+              <enchant level="9" url="/skill/1127-servitor-heal/45/2009/eternal" icon="skill1127">MP сost -19.</enchant>
+              <enchant level="10" url="/skill/1127-servitor-heal/45/2010/eternal" icon="skill1127">MP сost -22.</enchant>
+              <enchant level="11" url="/skill/1127-servitor-heal/45/2011/eternal" icon="skill1127">MP сost -24.</enchant>
+              <enchant level="12" url="/skill/1127-servitor-heal/45/2012/eternal" icon="skill1127">MP сost -25.</enchant>
+              <enchant level="13" url="/skill/1127-servitor-heal/45/2013/eternal" icon="skill1127">MP сost -28.</enchant>
+              <enchant level="14" url="/skill/1127-servitor-heal/45/2014/eternal" icon="skill1127">MP сost -30.</enchant>
+              <enchant level="15" url="/skill/1127-servitor-heal/45/2015/eternal" icon="skill1127">MP сost -32.</enchant>
+              <enchant level="16" url="/skill/1127-servitor-heal/45/2016/eternal" icon="skill1127">MP сost -34.</enchant>
+              <enchant level="17" url="/skill/1127-servitor-heal/45/2017/eternal" icon="skill1127">MP сost -37.</enchant>
+              <enchant level="18" url="/skill/1127-servitor-heal/45/2018/eternal" icon="skill1127">MP сost -38.</enchant>
+              <enchant level="19" url="/skill/1127-servitor-heal/45/2019/eternal" icon="skill1127">MP сost -40.</enchant>
+              <enchant level="20" url="/skill/1127-servitor-heal/45/2020/eternal" icon="skill1127">MP сost -43.</enchant>
+              <enchant level="21" url="/skill/1127-servitor-heal/45/2021/eternal" icon="skill1127">MP сost -44.</enchant>
+              <enchant level="22" url="/skill/1127-servitor-heal/45/2022/eternal" icon="skill1127">MP сost -47.</enchant>
+              <enchant level="23" url="/skill/1127-servitor-heal/45/2023/eternal" icon="skill1127">MP сost -49.</enchant>
+              <enchant level="24" url="/skill/1127-servitor-heal/45/2024/eternal" icon="skill1127">MP сost -50.</enchant>
+              <enchant level="25" url="/skill/1127-servitor-heal/45/2025/eternal" icon="skill1127">MP сost -53.</enchant>
+              <enchant level="26" url="/skill/1127-servitor-heal/45/2026/eternal" icon="skill1127">MP сost -54.</enchant>
+              <enchant level="27" url="/skill/1127-servitor-heal/45/2027/eternal" icon="skill1127">MP сost -57.</enchant>
+              <enchant level="28" url="/skill/1127-servitor-heal/45/2028/eternal" icon="skill1127">MP сost -59.</enchant>
+              <enchant level="29" url="/skill/1127-servitor-heal/45/2029/eternal" icon="skill1127">MP сost -60.</enchant>
+              <enchant level="30" url="/skill/1127-servitor-heal/45/2030/eternal" icon="skill1127">MP сost -63.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1172" name="Aura Burn" start_level="1" icon="skill1172" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1172-aura-burn/1">
+          <enchants/>
+        </skill>
+        <skill id="1175" name="Aqua Swirl" start_level="1" icon="skill1175" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1175-aqua-swirl/1">
+          <enchants/>
+        </skill>
+        <skill id="1177" name="Wind Strike" start_level="1" icon="skill1177" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1177-wind-strike/1">
+          <enchants/>
+        </skill>
+        <skill id="1181" name="Flame Strike" start_level="1" icon="skill1181" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1181-flame-strike/1">
+          <enchants/>
+        </skill>
+        <skill id="1216" name="Self Heal" start_level="1" icon="skill1216" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1216-self-heal/1">
+          <enchants/>
+        </skill>
+        <skill id="1226" name="Summon Boxer the Unicorn" start_level="1" icon="skill1226" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1226-summon-boxer-the-unicorn/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/1226-summon-boxer-the-unicorn/18/1001/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="2" url="/skill/1226-summon-boxer-the-unicorn/18/1002/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="3" url="/skill/1226-summon-boxer-the-unicorn/18/1003/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="4" url="/skill/1226-summon-boxer-the-unicorn/18/1004/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="5" url="/skill/1226-summon-boxer-the-unicorn/18/1005/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="6" url="/skill/1226-summon-boxer-the-unicorn/18/1006/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="7" url="/skill/1226-summon-boxer-the-unicorn/18/1007/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="8" url="/skill/1226-summon-boxer-the-unicorn/18/1008/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="9" url="/skill/1226-summon-boxer-the-unicorn/18/1009/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="10" url="/skill/1226-summon-boxer-the-unicorn/18/1010/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="11" url="/skill/1226-summon-boxer-the-unicorn/18/1011/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="12" url="/skill/1226-summon-boxer-the-unicorn/18/1012/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="13" url="/skill/1226-summon-boxer-the-unicorn/18/1013/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="14" url="/skill/1226-summon-boxer-the-unicorn/18/1014/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="15" url="/skill/1226-summon-boxer-the-unicorn/18/1015/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="16" url="/skill/1226-summon-boxer-the-unicorn/18/1016/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="17" url="/skill/1226-summon-boxer-the-unicorn/18/1017/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="18" url="/skill/1226-summon-boxer-the-unicorn/18/1018/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="19" url="/skill/1226-summon-boxer-the-unicorn/18/1019/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="20" url="/skill/1226-summon-boxer-the-unicorn/18/1020/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="21" url="/skill/1226-summon-boxer-the-unicorn/18/1021/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="22" url="/skill/1226-summon-boxer-the-unicorn/18/1022/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="23" url="/skill/1226-summon-boxer-the-unicorn/18/1023/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="24" url="/skill/1226-summon-boxer-the-unicorn/18/1024/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="25" url="/skill/1226-summon-boxer-the-unicorn/18/1025/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="26" url="/skill/1226-summon-boxer-the-unicorn/18/1026/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="27" url="/skill/1226-summon-boxer-the-unicorn/18/1027/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="28" url="/skill/1226-summon-boxer-the-unicorn/18/1028/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="29" url="/skill/1226-summon-boxer-the-unicorn/18/1029/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+              <enchant level="30" url="/skill/1226-summon-boxer-the-unicorn/18/1030/eternal" icon="skill1226">Increases the servitor's Power.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1227" name="Summon Mirage the Unicorn" start_level="1" icon="skill1227" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1227-summon-mirage-the-unicorn/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/1227-summon-mirage-the-unicorn/18/1001/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="2" url="/skill/1227-summon-mirage-the-unicorn/18/1002/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="3" url="/skill/1227-summon-mirage-the-unicorn/18/1003/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="4" url="/skill/1227-summon-mirage-the-unicorn/18/1004/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="5" url="/skill/1227-summon-mirage-the-unicorn/18/1005/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="6" url="/skill/1227-summon-mirage-the-unicorn/18/1006/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="7" url="/skill/1227-summon-mirage-the-unicorn/18/1007/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="8" url="/skill/1227-summon-mirage-the-unicorn/18/1008/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="9" url="/skill/1227-summon-mirage-the-unicorn/18/1009/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="10" url="/skill/1227-summon-mirage-the-unicorn/18/1010/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="11" url="/skill/1227-summon-mirage-the-unicorn/18/1011/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="12" url="/skill/1227-summon-mirage-the-unicorn/18/1012/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="13" url="/skill/1227-summon-mirage-the-unicorn/18/1013/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="14" url="/skill/1227-summon-mirage-the-unicorn/18/1014/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="15" url="/skill/1227-summon-mirage-the-unicorn/18/1015/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="16" url="/skill/1227-summon-mirage-the-unicorn/18/1016/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="17" url="/skill/1227-summon-mirage-the-unicorn/18/1017/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="18" url="/skill/1227-summon-mirage-the-unicorn/18/1018/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="19" url="/skill/1227-summon-mirage-the-unicorn/18/1019/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="20" url="/skill/1227-summon-mirage-the-unicorn/18/1020/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="21" url="/skill/1227-summon-mirage-the-unicorn/18/1021/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="22" url="/skill/1227-summon-mirage-the-unicorn/18/1022/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="23" url="/skill/1227-summon-mirage-the-unicorn/18/1023/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="24" url="/skill/1227-summon-mirage-the-unicorn/18/1024/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="25" url="/skill/1227-summon-mirage-the-unicorn/18/1025/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="26" url="/skill/1227-summon-mirage-the-unicorn/18/1026/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="27" url="/skill/1227-summon-mirage-the-unicorn/18/1027/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="28" url="/skill/1227-summon-mirage-the-unicorn/18/1028/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="29" url="/skill/1227-summon-mirage-the-unicorn/18/1029/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+              <enchant level="30" url="/skill/1227-summon-mirage-the-unicorn/18/1030/eternal" icon="skill1227">Increases the servitor's Power.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1264" name="Solar Spark" start_level="1" icon="skill1264" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1264-solar-spark/1">
+          <enchants/>
+        </skill>
+        <skill id="1274" name="Energy Bolt" start_level="1" icon="skill1274" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1274-energy-bolt/1">
+          <enchants/>
+        </skill>
+        <skill id="25394" name="For Olympiad" start_level="1" icon="macrownd_icon05" icon_panel="pannel_wisdom" url="https://wikipedia1.mw2.wiki/skill/25394-for-olympiad/1">
+          <enchants/>
+        </skill>
+        <skill id="27222" name="For Olympiad" start_level="1" icon="macrownd_icon05" icon_panel="pannel_intrepid" url="https://wikipedia1.mw2.wiki/skill/27222-for-olympiad/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Reinforcement skills">
+        <skill id="1040" name="Shield" start_level="1" icon="skill1040" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1040-shield/1">
+          <enchants>
+            <group type="time">
+              <enchant level="1" url="/skill/1040-shield/3/1001/eternal" icon="skill1040">Effect's duration +40 sec.</enchant>
+              <enchant level="2" url="/skill/1040-shield/3/1002/eternal" icon="skill1040">Effect's duration +80 sec.</enchant>
+              <enchant level="3" url="/skill/1040-shield/3/1003/eternal" icon="skill1040">Effect's duration +120 sec.</enchant>
+              <enchant level="4" url="/skill/1040-shield/3/1004/eternal" icon="skill1040">Effect's duration +160 sec.</enchant>
+              <enchant level="5" url="/skill/1040-shield/3/1005/eternal" icon="skill1040">Effect's duration +200 sec.</enchant>
+              <enchant level="6" url="/skill/1040-shield/3/1006/eternal" icon="skill1040">Effect's duration +240 sec.</enchant>
+              <enchant level="7" url="/skill/1040-shield/3/1007/eternal" icon="skill1040">Effect's duration +280 sec.</enchant>
+              <enchant level="8" url="/skill/1040-shield/3/1008/eternal" icon="skill1040">Effect's duration +320 sec.</enchant>
+              <enchant level="9" url="/skill/1040-shield/3/1009/eternal" icon="skill1040">Effect's duration +360 sec.</enchant>
+              <enchant level="10" url="/skill/1040-shield/3/1010/eternal" icon="skill1040">Effect's duration +400 sec.</enchant>
+              <enchant level="11" url="/skill/1040-shield/3/1011/eternal" icon="skill1040">Effect's duration +440 sec.</enchant>
+              <enchant level="12" url="/skill/1040-shield/3/1012/eternal" icon="skill1040">Effect's duration +480 sec.</enchant>
+              <enchant level="13" url="/skill/1040-shield/3/1013/eternal" icon="skill1040">Effect's duration +520 sec.</enchant>
+              <enchant level="14" url="/skill/1040-shield/3/1014/eternal" icon="skill1040">Effect's duration +560 sec.</enchant>
+              <enchant level="15" url="/skill/1040-shield/3/1015/eternal" icon="skill1040">Effect's duration +600 sec.</enchant>
+              <enchant level="16" url="/skill/1040-shield/3/1016/eternal" icon="skill1040">Effect's duration +640 sec.</enchant>
+              <enchant level="17" url="/skill/1040-shield/3/1017/eternal" icon="skill1040">Effect's duration +680 sec.</enchant>
+              <enchant level="18" url="/skill/1040-shield/3/1018/eternal" icon="skill1040">Effect's duration +720 sec.</enchant>
+              <enchant level="19" url="/skill/1040-shield/3/1019/eternal" icon="skill1040">Effect's duration +760 sec.</enchant>
+              <enchant level="20" url="/skill/1040-shield/3/1020/eternal" icon="skill1040">Effect's duration +800 sec.</enchant>
+              <enchant level="21" url="/skill/1040-shield/3/1021/eternal" icon="skill1040">Effect's duration +840 sec.</enchant>
+              <enchant level="22" url="/skill/1040-shield/3/1022/eternal" icon="skill1040">Effect's duration +880 sec.</enchant>
+              <enchant level="23" url="/skill/1040-shield/3/1023/eternal" icon="skill1040">Effect's duration +920 sec.</enchant>
+              <enchant level="24" url="/skill/1040-shield/3/1024/eternal" icon="skill1040">Effect's duration +960 sec.</enchant>
+              <enchant level="25" url="/skill/1040-shield/3/1025/eternal" icon="skill1040">Effect's duration +1000 sec.</enchant>
+              <enchant level="26" url="/skill/1040-shield/3/1026/eternal" icon="skill1040">Effect's duration +1040 sec.</enchant>
+              <enchant level="27" url="/skill/1040-shield/3/1027/eternal" icon="skill1040">Effect's duration +1080 sec.</enchant>
+              <enchant level="28" url="/skill/1040-shield/3/1028/eternal" icon="skill1040">Effect's duration +1120 sec.</enchant>
+              <enchant level="29" url="/skill/1040-shield/3/1029/eternal" icon="skill1040">Effect's duration +1160 sec.</enchant>
+              <enchant level="30" url="/skill/1040-shield/3/1030/eternal" icon="skill1040">Effect's duration +1200 sec.</enchant>
+            </group>
+            <group type="cost">
+              <enchant level="1" url="/skill/1040-shield/3/2001/eternal" icon="skill1040">MP сost -2.</enchant>
+              <enchant level="2" url="/skill/1040-shield/3/2002/eternal" icon="skill1040">MP сost -3.</enchant>
+              <enchant level="3" url="/skill/1040-shield/3/2003/eternal" icon="skill1040">MP сost -3.</enchant>
+              <enchant level="4" url="/skill/1040-shield/3/2004/eternal" icon="skill1040">MP сost -4.</enchant>
+              <enchant level="5" url="/skill/1040-shield/3/2005/eternal" icon="skill1040">MP сost -4.</enchant>
+              <enchant level="6" url="/skill/1040-shield/3/2006/eternal" icon="skill1040">MP сost -5.</enchant>
+              <enchant level="7" url="/skill/1040-shield/3/2007/eternal" icon="skill1040">MP сost -5.</enchant>
+              <enchant level="8" url="/skill/1040-shield/3/2008/eternal" icon="skill1040">MP сost -7.</enchant>
+              <enchant level="9" url="/skill/1040-shield/3/2009/eternal" icon="skill1040">MP сost -7.</enchant>
+              <enchant level="10" url="/skill/1040-shield/3/2010/eternal" icon="skill1040">MP сost -8.</enchant>
+              <enchant level="11" url="/skill/1040-shield/3/2011/eternal" icon="skill1040">MP сost -8.</enchant>
+              <enchant level="12" url="/skill/1040-shield/3/2012/eternal" icon="skill1040">MP сost -9.</enchant>
+              <enchant level="13" url="/skill/1040-shield/3/2013/eternal" icon="skill1040">MP сost -9.</enchant>
+              <enchant level="14" url="/skill/1040-shield/3/2014/eternal" icon="skill1040">MP сost -10.</enchant>
+              <enchant level="15" url="/skill/1040-shield/3/2015/eternal" icon="skill1040">MP сost -10.</enchant>
+              <enchant level="16" url="/skill/1040-shield/3/2016/eternal" icon="skill1040">MP сost -12.</enchant>
+              <enchant level="17" url="/skill/1040-shield/3/2017/eternal" icon="skill1040">MP сost -12.</enchant>
+              <enchant level="18" url="/skill/1040-shield/3/2018/eternal" icon="skill1040">MP сost -13.</enchant>
+              <enchant level="19" url="/skill/1040-shield/3/2019/eternal" icon="skill1040">MP сost -13.</enchant>
+              <enchant level="20" url="/skill/1040-shield/3/2020/eternal" icon="skill1040">MP сost -14.</enchant>
+              <enchant level="21" url="/skill/1040-shield/3/2021/eternal" icon="skill1040">MP сost -14.</enchant>
+              <enchant level="22" url="/skill/1040-shield/3/2022/eternal" icon="skill1040">MP сost -15.</enchant>
+              <enchant level="23" url="/skill/1040-shield/3/2023/eternal" icon="skill1040">MP сost -16.</enchant>
+              <enchant level="24" url="/skill/1040-shield/3/2024/eternal" icon="skill1040">MP сost -17.</enchant>
+              <enchant level="25" url="/skill/1040-shield/3/2025/eternal" icon="skill1040">MP сost -17.</enchant>
+              <enchant level="26" url="/skill/1040-shield/3/2026/eternal" icon="skill1040">MP сost -18.</enchant>
+              <enchant level="27" url="/skill/1040-shield/3/2027/eternal" icon="skill1040">MP сost -18.</enchant>
+              <enchant level="28" url="/skill/1040-shield/3/2028/eternal" icon="skill1040">MP сost -19.</enchant>
+              <enchant level="29" url="/skill/1040-shield/3/2029/eternal" icon="skill1040">MP сost -19.</enchant>
+              <enchant level="30" url="/skill/1040-shield/3/2030/eternal" icon="skill1040">MP сost -20.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1068" name="Might" start_level="1" icon="skill1068" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1068-might/1">
+          <enchants>
+            <group type="time">
+              <enchant level="1" url="/skill/1068-might/3/1001/eternal" icon="skill1068">Effect's duration +40 sec.</enchant>
+              <enchant level="2" url="/skill/1068-might/3/1002/eternal" icon="skill1068">Effect's duration +80 sec.</enchant>
+              <enchant level="3" url="/skill/1068-might/3/1003/eternal" icon="skill1068">Effect's duration +120 sec.</enchant>
+              <enchant level="4" url="/skill/1068-might/3/1004/eternal" icon="skill1068">Effect's duration +160 sec.</enchant>
+              <enchant level="5" url="/skill/1068-might/3/1005/eternal" icon="skill1068">Effect's duration +200 sec.</enchant>
+              <enchant level="6" url="/skill/1068-might/3/1006/eternal" icon="skill1068">Effect's duration +240 sec.</enchant>
+              <enchant level="7" url="/skill/1068-might/3/1007/eternal" icon="skill1068">Effect's duration +280 sec.</enchant>
+              <enchant level="8" url="/skill/1068-might/3/1008/eternal" icon="skill1068">Effect's duration +320 sec.</enchant>
+              <enchant level="9" url="/skill/1068-might/3/1009/eternal" icon="skill1068">Effect's duration +360 sec.</enchant>
+              <enchant level="10" url="/skill/1068-might/3/1010/eternal" icon="skill1068">Effect's duration +400 sec.</enchant>
+              <enchant level="11" url="/skill/1068-might/3/1011/eternal" icon="skill1068">Effect's duration +440 sec.</enchant>
+              <enchant level="12" url="/skill/1068-might/3/1012/eternal" icon="skill1068">Effect's duration +480 sec.</enchant>
+              <enchant level="13" url="/skill/1068-might/3/1013/eternal" icon="skill1068">Effect's duration +520 sec.</enchant>
+              <enchant level="14" url="/skill/1068-might/3/1014/eternal" icon="skill1068">Effect's duration +560 sec.</enchant>
+              <enchant level="15" url="/skill/1068-might/3/1015/eternal" icon="skill1068">Effect's duration +600 sec.</enchant>
+              <enchant level="16" url="/skill/1068-might/3/1016/eternal" icon="skill1068">Effect's duration +640 sec.</enchant>
+              <enchant level="17" url="/skill/1068-might/3/1017/eternal" icon="skill1068">Effect's duration +680 sec.</enchant>
+              <enchant level="18" url="/skill/1068-might/3/1018/eternal" icon="skill1068">Effect's duration +720 sec.</enchant>
+              <enchant level="19" url="/skill/1068-might/3/1019/eternal" icon="skill1068">Effect's duration +760 sec.</enchant>
+              <enchant level="20" url="/skill/1068-might/3/1020/eternal" icon="skill1068">Effect's duration +800 sec.</enchant>
+              <enchant level="21" url="/skill/1068-might/3/1021/eternal" icon="skill1068">Effect's duration +840 sec.</enchant>
+              <enchant level="22" url="/skill/1068-might/3/1022/eternal" icon="skill1068">Effect's duration +880 sec.</enchant>
+              <enchant level="23" url="/skill/1068-might/3/1023/eternal" icon="skill1068">Effect's duration +920 sec.</enchant>
+              <enchant level="24" url="/skill/1068-might/3/1024/eternal" icon="skill1068">Effect's duration +960 sec.</enchant>
+              <enchant level="25" url="/skill/1068-might/3/1025/eternal" icon="skill1068">Effect's duration +1000 sec.</enchant>
+              <enchant level="26" url="/skill/1068-might/3/1026/eternal" icon="skill1068">Effect's duration +1040 sec.</enchant>
+              <enchant level="27" url="/skill/1068-might/3/1027/eternal" icon="skill1068">Effect's duration +1080 sec.</enchant>
+              <enchant level="28" url="/skill/1068-might/3/1028/eternal" icon="skill1068">Effect's duration +1120 sec.</enchant>
+              <enchant level="29" url="/skill/1068-might/3/1029/eternal" icon="skill1068">Effect's duration +1160 sec.</enchant>
+              <enchant level="30" url="/skill/1068-might/3/1030/eternal" icon="skill1068">Effect's duration +1200 sec.</enchant>
+            </group>
+            <group type="cost">
+              <enchant level="1" url="/skill/1068-might/3/2001/eternal" icon="skill1068">MP сost -2.</enchant>
+              <enchant level="2" url="/skill/1068-might/3/2002/eternal" icon="skill1068">MP сost -2.</enchant>
+              <enchant level="3" url="/skill/1068-might/3/2003/eternal" icon="skill1068">MP сost -3.</enchant>
+              <enchant level="4" url="/skill/1068-might/3/2004/eternal" icon="skill1068">MP сost -3.</enchant>
+              <enchant level="5" url="/skill/1068-might/3/2005/eternal" icon="skill1068">MP сost -4.</enchant>
+              <enchant level="6" url="/skill/1068-might/3/2006/eternal" icon="skill1068">MP сost -4.</enchant>
+              <enchant level="7" url="/skill/1068-might/3/2007/eternal" icon="skill1068">MP сost -5.</enchant>
+              <enchant level="8" url="/skill/1068-might/3/2008/eternal" icon="skill1068">MP сost -5.</enchant>
+              <enchant level="9" url="/skill/1068-might/3/2009/eternal" icon="skill1068">MP сost -7.</enchant>
+              <enchant level="10" url="/skill/1068-might/3/2010/eternal" icon="skill1068">MP сost -7.</enchant>
+              <enchant level="11" url="/skill/1068-might/3/2011/eternal" icon="skill1068">MP сost -8.</enchant>
+              <enchant level="12" url="/skill/1068-might/3/2012/eternal" icon="skill1068">MP сost -8.</enchant>
+              <enchant level="13" url="/skill/1068-might/3/2013/eternal" icon="skill1068">MP сost -9.</enchant>
+              <enchant level="14" url="/skill/1068-might/3/2014/eternal" icon="skill1068">MP сost -9.</enchant>
+              <enchant level="15" url="/skill/1068-might/3/2015/eternal" icon="skill1068">MP сost -9.</enchant>
+              <enchant level="16" url="/skill/1068-might/3/2016/eternal" icon="skill1068">MP сost -10.</enchant>
+              <enchant level="17" url="/skill/1068-might/3/2017/eternal" icon="skill1068">MP сost -10.</enchant>
+              <enchant level="18" url="/skill/1068-might/3/2018/eternal" icon="skill1068">MP сost -12.</enchant>
+              <enchant level="19" url="/skill/1068-might/3/2019/eternal" icon="skill1068">MP сost -12.</enchant>
+              <enchant level="20" url="/skill/1068-might/3/2020/eternal" icon="skill1068">MP сost -13.</enchant>
+              <enchant level="21" url="/skill/1068-might/3/2021/eternal" icon="skill1068">MP сost -13.</enchant>
+              <enchant level="22" url="/skill/1068-might/3/2022/eternal" icon="skill1068">MP сost -14.</enchant>
+              <enchant level="23" url="/skill/1068-might/3/2023/eternal" icon="skill1068">MP сost -14.</enchant>
+              <enchant level="24" url="/skill/1068-might/3/2024/eternal" icon="skill1068">MP сost -15.</enchant>
+              <enchant level="25" url="/skill/1068-might/3/2025/eternal" icon="skill1068">MP сost -15.</enchant>
+              <enchant level="26" url="/skill/1068-might/3/2026/eternal" icon="skill1068">MP сost -17.</enchant>
+              <enchant level="27" url="/skill/1068-might/3/2027/eternal" icon="skill1068">MP сost -17.</enchant>
+              <enchant level="28" url="/skill/1068-might/3/2028/eternal" icon="skill1068">MP сost -18.</enchant>
+              <enchant level="29" url="/skill/1068-might/3/2029/eternal" icon="skill1068">MP сost -18.</enchant>
+              <enchant level="30" url="/skill/1068-might/3/2030/eternal" icon="skill1068">MP сost -18.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1078" name="Concentration" start_level="1" icon="skill1078" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1078-concentration/1">
+          <enchants>
+            <group type="time">
+              <enchant level="1" url="/skill/1078-concentration/6/1001/eternal" icon="skill1078">Effect's duration +40 sec.</enchant>
+              <enchant level="2" url="/skill/1078-concentration/6/1002/eternal" icon="skill1078">Effect's duration +80 sec.</enchant>
+              <enchant level="3" url="/skill/1078-concentration/6/1003/eternal" icon="skill1078">Effect's duration +120 sec.</enchant>
+              <enchant level="4" url="/skill/1078-concentration/6/1004/eternal" icon="skill1078">Effect's duration +160 sec.</enchant>
+              <enchant level="5" url="/skill/1078-concentration/6/1005/eternal" icon="skill1078">Effect's duration +200 sec.</enchant>
+              <enchant level="6" url="/skill/1078-concentration/6/1006/eternal" icon="skill1078">Effect's duration +240 sec.</enchant>
+              <enchant level="7" url="/skill/1078-concentration/6/1007/eternal" icon="skill1078">Effect's duration +280 sec.</enchant>
+              <enchant level="8" url="/skill/1078-concentration/6/1008/eternal" icon="skill1078">Effect's duration +320 sec.</enchant>
+              <enchant level="9" url="/skill/1078-concentration/6/1009/eternal" icon="skill1078">Effect's duration +360 sec.</enchant>
+              <enchant level="10" url="/skill/1078-concentration/6/1010/eternal" icon="skill1078">Effect's duration +400 sec.</enchant>
+              <enchant level="11" url="/skill/1078-concentration/6/1011/eternal" icon="skill1078">Effect's duration +440 sec.</enchant>
+              <enchant level="12" url="/skill/1078-concentration/6/1012/eternal" icon="skill1078">Effect's duration +480 sec.</enchant>
+              <enchant level="13" url="/skill/1078-concentration/6/1013/eternal" icon="skill1078">Effect's duration +520 sec.</enchant>
+              <enchant level="14" url="/skill/1078-concentration/6/1014/eternal" icon="skill1078">Effect's duration +560 sec.</enchant>
+              <enchant level="15" url="/skill/1078-concentration/6/1015/eternal" icon="skill1078">Effect's duration +600 sec.</enchant>
+              <enchant level="16" url="/skill/1078-concentration/6/1016/eternal" icon="skill1078">Effect's duration +640 sec.</enchant>
+              <enchant level="17" url="/skill/1078-concentration/6/1017/eternal" icon="skill1078">Effect's duration +680 sec.</enchant>
+              <enchant level="18" url="/skill/1078-concentration/6/1018/eternal" icon="skill1078">Effect's duration +720 sec.</enchant>
+              <enchant level="19" url="/skill/1078-concentration/6/1019/eternal" icon="skill1078">Effect's duration +760 sec.</enchant>
+              <enchant level="20" url="/skill/1078-concentration/6/1020/eternal" icon="skill1078">Effect's duration +800 sec.</enchant>
+              <enchant level="21" url="/skill/1078-concentration/6/1021/eternal" icon="skill1078">Effect's duration +840 sec.</enchant>
+              <enchant level="22" url="/skill/1078-concentration/6/1022/eternal" icon="skill1078">Effect's duration +880 sec.</enchant>
+              <enchant level="23" url="/skill/1078-concentration/6/1023/eternal" icon="skill1078">Effect's duration +920 sec.</enchant>
+              <enchant level="24" url="/skill/1078-concentration/6/1024/eternal" icon="skill1078">Effect's duration +960 sec.</enchant>
+              <enchant level="25" url="/skill/1078-concentration/6/1025/eternal" icon="skill1078">Effect's duration +1000 sec.</enchant>
+              <enchant level="26" url="/skill/1078-concentration/6/1026/eternal" icon="skill1078">Effect's duration +1040 sec.</enchant>
+              <enchant level="27" url="/skill/1078-concentration/6/1027/eternal" icon="skill1078">Effect's duration +1080 sec.</enchant>
+              <enchant level="28" url="/skill/1078-concentration/6/1028/eternal" icon="skill1078">Effect's duration +1120 sec.</enchant>
+              <enchant level="29" url="/skill/1078-concentration/6/1029/eternal" icon="skill1078">Effect's duration +1160 sec.</enchant>
+              <enchant level="30" url="/skill/1078-concentration/6/1030/eternal" icon="skill1078">Effect's duration +1200 sec.</enchant>
+            </group>
+            <group type="cost">
+              <enchant level="1" url="/skill/1078-concentration/6/2001/eternal" icon="skill1078">MP сost -2.</enchant>
+              <enchant level="2" url="/skill/1078-concentration/6/2002/eternal" icon="skill1078">MP сost -3.</enchant>
+              <enchant level="3" url="/skill/1078-concentration/6/2003/eternal" icon="skill1078">MP сost -4.</enchant>
+              <enchant level="4" url="/skill/1078-concentration/6/2004/eternal" icon="skill1078">MP сost -5.</enchant>
+              <enchant level="5" url="/skill/1078-concentration/6/2005/eternal" icon="skill1078">MP сost -7.</enchant>
+              <enchant level="6" url="/skill/1078-concentration/6/2006/eternal" icon="skill1078">MP сost -8.</enchant>
+              <enchant level="7" url="/skill/1078-concentration/6/2007/eternal" icon="skill1078">MP сost -8.</enchant>
+              <enchant level="8" url="/skill/1078-concentration/6/2008/eternal" icon="skill1078">MP сost -9.</enchant>
+              <enchant level="9" url="/skill/1078-concentration/6/2009/eternal" icon="skill1078">MP сost -10.</enchant>
+              <enchant level="10" url="/skill/1078-concentration/6/2010/eternal" icon="skill1078">MP сost -12.</enchant>
+              <enchant level="11" url="/skill/1078-concentration/6/2011/eternal" icon="skill1078">MP сost -13.</enchant>
+              <enchant level="12" url="/skill/1078-concentration/6/2012/eternal" icon="skill1078">MP сost -14.</enchant>
+              <enchant level="13" url="/skill/1078-concentration/6/2013/eternal" icon="skill1078">MP сost -15.</enchant>
+              <enchant level="14" url="/skill/1078-concentration/6/2014/eternal" icon="skill1078">MP сost -16.</enchant>
+              <enchant level="15" url="/skill/1078-concentration/6/2015/eternal" icon="skill1078">MP сost -17.</enchant>
+              <enchant level="16" url="/skill/1078-concentration/6/2016/eternal" icon="skill1078">MP сost -18.</enchant>
+              <enchant level="17" url="/skill/1078-concentration/6/2017/eternal" icon="skill1078">MP сost -19.</enchant>
+              <enchant level="18" url="/skill/1078-concentration/6/2018/eternal" icon="skill1078">MP сost -20.</enchant>
+              <enchant level="19" url="/skill/1078-concentration/6/2019/eternal" icon="skill1078">MP сost -22.</enchant>
+              <enchant level="20" url="/skill/1078-concentration/6/2020/eternal" icon="skill1078">MP сost -22.</enchant>
+              <enchant level="21" url="/skill/1078-concentration/6/2021/eternal" icon="skill1078">MP сost -23.</enchant>
+              <enchant level="22" url="/skill/1078-concentration/6/2022/eternal" icon="skill1078">MP сost -24.</enchant>
+              <enchant level="23" url="/skill/1078-concentration/6/2023/eternal" icon="skill1078">MP сost -25.</enchant>
+              <enchant level="24" url="/skill/1078-concentration/6/2024/eternal" icon="skill1078">MP сost -27.</enchant>
+              <enchant level="25" url="/skill/1078-concentration/6/2025/eternal" icon="skill1078">MP сost -28.</enchant>
+              <enchant level="26" url="/skill/1078-concentration/6/2026/eternal" icon="skill1078">MP сost -29.</enchant>
+              <enchant level="27" url="/skill/1078-concentration/6/2027/eternal" icon="skill1078">MP сost -29.</enchant>
+              <enchant level="28" url="/skill/1078-concentration/6/2028/eternal" icon="skill1078">MP сost -31.</enchant>
+              <enchant level="29" url="/skill/1078-concentration/6/2029/eternal" icon="skill1078">MP сost -32.</enchant>
+              <enchant level="30" url="/skill/1078-concentration/6/2030/eternal" icon="skill1078">MP сost -33.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1145" name="Bright Servitor" start_level="1" icon="skill1145" icon_panel="autoskill_panel_01" url="https://wikipedia1.mw2.wiki/skill/1145-bright-servitor/1">
+          <enchants>
+            <group type="time">
+              <enchant level="1" url="/skill/1145-bright-servitor/3/1001/eternal" icon="skill1145">Effect's duration +40 sec.</enchant>
+              <enchant level="2" url="/skill/1145-bright-servitor/3/1002/eternal" icon="skill1145">Effect's duration +80 sec.</enchant>
+              <enchant level="3" url="/skill/1145-bright-servitor/3/1003/eternal" icon="skill1145">Effect's duration +120 sec.</enchant>
+              <enchant level="4" url="/skill/1145-bright-servitor/3/1004/eternal" icon="skill1145">Effect's duration +160 sec.</enchant>
+              <enchant level="5" url="/skill/1145-bright-servitor/3/1005/eternal" icon="skill1145">Effect's duration +200 sec.</enchant>
+              <enchant level="6" url="/skill/1145-bright-servitor/3/1006/eternal" icon="skill1145">Effect's duration +240 sec.</enchant>
+              <enchant level="7" url="/skill/1145-bright-servitor/3/1007/eternal" icon="skill1145">Effect's duration +280 sec.</enchant>
+              <enchant level="8" url="/skill/1145-bright-servitor/3/1008/eternal" icon="skill1145">Effect's duration +320 sec.</enchant>
+              <enchant level="9" url="/skill/1145-bright-servitor/3/1009/eternal" icon="skill1145">Effect's duration +360 sec.</enchant>
+              <enchant level="10" url="/skill/1145-bright-servitor/3/1010/eternal" icon="skill1145">Effect's duration +400 sec.</enchant>
+              <enchant level="11" url="/skill/1145-bright-servitor/3/1011/eternal" icon="skill1145">Effect's duration +440 sec.</enchant>
+              <enchant level="12" url="/skill/1145-bright-servitor/3/1012/eternal" icon="skill1145">Effect's duration +480 sec.</enchant>
+              <enchant level="13" url="/skill/1145-bright-servitor/3/1013/eternal" icon="skill1145">Effect's duration +520 sec.</enchant>
+              <enchant level="14" url="/skill/1145-bright-servitor/3/1014/eternal" icon="skill1145">Effect's duration +560 sec.</enchant>
+              <enchant level="15" url="/skill/1145-bright-servitor/3/1015/eternal" icon="skill1145">Effect's duration +600 sec.</enchant>
+              <enchant level="16" url="/skill/1145-bright-servitor/3/1016/eternal" icon="skill1145">Effect's duration +640 sec.</enchant>
+              <enchant level="17" url="/skill/1145-bright-servitor/3/1017/eternal" icon="skill1145">Effect's duration +680 sec.</enchant>
+              <enchant level="18" url="/skill/1145-bright-servitor/3/1018/eternal" icon="skill1145">Effect's duration +720 sec.</enchant>
+              <enchant level="19" url="/skill/1145-bright-servitor/3/1019/eternal" icon="skill1145">Effect's duration +760 sec.</enchant>
+              <enchant level="20" url="/skill/1145-bright-servitor/3/1020/eternal" icon="skill1145">Effect's duration +800 sec.</enchant>
+              <enchant level="21" url="/skill/1145-bright-servitor/3/1021/eternal" icon="skill1145">Effect's duration +840 sec.</enchant>
+              <enchant level="22" url="/skill/1145-bright-servitor/3/1022/eternal" icon="skill1145">Effect's duration +880 sec.</enchant>
+              <enchant level="23" url="/skill/1145-bright-servitor/3/1023/eternal" icon="skill1145">Effect's duration +920 sec.</enchant>
+              <enchant level="24" url="/skill/1145-bright-servitor/3/1024/eternal" icon="skill1145">Effect's duration +960 sec.</enchant>
+              <enchant level="25" url="/skill/1145-bright-servitor/3/1025/eternal" icon="skill1145">Effect's duration +1000 sec.</enchant>
+              <enchant level="26" url="/skill/1145-bright-servitor/3/1026/eternal" icon="skill1145">Effect's duration +1040 sec.</enchant>
+              <enchant level="27" url="/skill/1145-bright-servitor/3/1027/eternal" icon="skill1145">Effect's duration +1080 sec.</enchant>
+              <enchant level="28" url="/skill/1145-bright-servitor/3/1028/eternal" icon="skill1145">Effect's duration +1120 sec.</enchant>
+              <enchant level="29" url="/skill/1145-bright-servitor/3/1029/eternal" icon="skill1145">Effect's duration +1160 sec.</enchant>
+              <enchant level="30" url="/skill/1145-bright-servitor/3/1030/eternal" icon="skill1145">Effect's duration +1200 sec.</enchant>
+            </group>
+            <group type="cost">
+              <enchant level="1" url="/skill/1145-bright-servitor/3/2001/eternal" icon="skill1145">MP сost -2.</enchant>
+              <enchant level="2" url="/skill/1145-bright-servitor/3/2002/eternal" icon="skill1145">MP сost -3.</enchant>
+              <enchant level="3" url="/skill/1145-bright-servitor/3/2003/eternal" icon="skill1145">MP сost -4.</enchant>
+              <enchant level="4" url="/skill/1145-bright-servitor/3/2004/eternal" icon="skill1145">MP сost -4.</enchant>
+              <enchant level="5" url="/skill/1145-bright-servitor/3/2005/eternal" icon="skill1145">MP сost -5.</enchant>
+              <enchant level="6" url="/skill/1145-bright-servitor/3/2006/eternal" icon="skill1145">MP сost -7.</enchant>
+              <enchant level="7" url="/skill/1145-bright-servitor/3/2007/eternal" icon="skill1145">MP сost -7.</enchant>
+              <enchant level="8" url="/skill/1145-bright-servitor/3/2008/eternal" icon="skill1145">MP сost -8.</enchant>
+              <enchant level="9" url="/skill/1145-bright-servitor/3/2009/eternal" icon="skill1145">MP сost -9.</enchant>
+              <enchant level="10" url="/skill/1145-bright-servitor/3/2010/eternal" icon="skill1145">MP сost -9.</enchant>
+              <enchant level="11" url="/skill/1145-bright-servitor/3/2011/eternal" icon="skill1145">MP сost -11.</enchant>
+              <enchant level="12" url="/skill/1145-bright-servitor/3/2012/eternal" icon="skill1145">MP сost -12.</enchant>
+              <enchant level="13" url="/skill/1145-bright-servitor/3/2013/eternal" icon="skill1145">MP сost -13.</enchant>
+              <enchant level="14" url="/skill/1145-bright-servitor/3/2014/eternal" icon="skill1145">MP сost -13.</enchant>
+              <enchant level="15" url="/skill/1145-bright-servitor/3/2015/eternal" icon="skill1145">MP сost -14.</enchant>
+              <enchant level="16" url="/skill/1145-bright-servitor/3/2016/eternal" icon="skill1145">MP сost -16.</enchant>
+              <enchant level="17" url="/skill/1145-bright-servitor/3/2017/eternal" icon="skill1145">MP сost -16.</enchant>
+              <enchant level="18" url="/skill/1145-bright-servitor/3/2018/eternal" icon="skill1145">MP сost -17.</enchant>
+              <enchant level="19" url="/skill/1145-bright-servitor/3/2019/eternal" icon="skill1145">MP сost -18.</enchant>
+              <enchant level="20" url="/skill/1145-bright-servitor/3/2020/eternal" icon="skill1145">MP сost -18.</enchant>
+              <enchant level="21" url="/skill/1145-bright-servitor/3/2021/eternal" icon="skill1145">MP сost -20.</enchant>
+              <enchant level="22" url="/skill/1145-bright-servitor/3/2022/eternal" icon="skill1145">MP сost -21.</enchant>
+              <enchant level="23" url="/skill/1145-bright-servitor/3/2023/eternal" icon="skill1145">MP сost -22.</enchant>
+              <enchant level="24" url="/skill/1145-bright-servitor/3/2024/eternal" icon="skill1145">MP сost -22.</enchant>
+              <enchant level="25" url="/skill/1145-bright-servitor/3/2025/eternal" icon="skill1145">MP сost -23.</enchant>
+              <enchant level="26" url="/skill/1145-bright-servitor/3/2026/eternal" icon="skill1145">MP сost -25.</enchant>
+              <enchant level="27" url="/skill/1145-bright-servitor/3/2027/eternal" icon="skill1145">MP сost -25.</enchant>
+              <enchant level="28" url="/skill/1145-bright-servitor/3/2028/eternal" icon="skill1145">MP сost -26.</enchant>
+              <enchant level="29" url="/skill/1145-bright-servitor/3/2029/eternal" icon="skill1145">MP сost -27.</enchant>
+              <enchant level="30" url="/skill/1145-bright-servitor/3/2030/eternal" icon="skill1145">MP сost -27.</enchant>
+            </group>
+          </enchants>
+        </skill>
+      </category>
+      <category name="Weaken skills">
+        <skill id="1069" name="Sleep" start_level="1" icon="skill1069" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/1">
+          <enchants>
+            <group type="chance">
+              <enchant level="1" url="/skill/1069-sleep/42/1001/eternal" icon="skill1069">Success rate +1%.</enchant>
+              <enchant level="2" url="/skill/1069-sleep/42/1002/eternal" icon="skill1069">Success rate +1%.</enchant>
+              <enchant level="3" url="/skill/1069-sleep/42/1003/eternal" icon="skill1069">Success rate +2%.</enchant>
+              <enchant level="4" url="/skill/1069-sleep/42/1004/eternal" icon="skill1069">Success rate +2%.</enchant>
+              <enchant level="5" url="/skill/1069-sleep/42/1005/eternal" icon="skill1069">Success rate +3%.</enchant>
+              <enchant level="6" url="/skill/1069-sleep/42/1006/eternal" icon="skill1069">Success rate +4%.</enchant>
+              <enchant level="7" url="/skill/1069-sleep/42/1007/eternal" icon="skill1069">Success rate +4%.</enchant>
+              <enchant level="8" url="/skill/1069-sleep/42/1008/eternal" icon="skill1069">Success rate +5%.</enchant>
+              <enchant level="9" url="/skill/1069-sleep/42/1009/eternal" icon="skill1069">Success rate +6%.</enchant>
+              <enchant level="10" url="/skill/1069-sleep/42/1010/eternal" icon="skill1069">Success rate +6%.</enchant>
+              <enchant level="11" url="/skill/1069-sleep/42/1011/eternal" icon="skill1069">Success rate +7%.</enchant>
+              <enchant level="12" url="/skill/1069-sleep/42/1012/eternal" icon="skill1069">Success rate +8%.</enchant>
+              <enchant level="13" url="/skill/1069-sleep/42/1013/eternal" icon="skill1069">Success rate +8%.</enchant>
+              <enchant level="14" url="/skill/1069-sleep/42/1014/eternal" icon="skill1069">Success rate +9%.</enchant>
+              <enchant level="15" url="/skill/1069-sleep/42/1015/eternal" icon="skill1069">Success rate +10%.</enchant>
+              <enchant level="16" url="/skill/1069-sleep/42/1016/eternal" icon="skill1069">Success rate +10%.</enchant>
+              <enchant level="17" url="/skill/1069-sleep/42/1017/eternal" icon="skill1069">Success rate +11%.</enchant>
+              <enchant level="18" url="/skill/1069-sleep/42/1018/eternal" icon="skill1069">Success rate +12%.</enchant>
+              <enchant level="19" url="/skill/1069-sleep/42/1019/eternal" icon="skill1069">Success rate +12%.</enchant>
+              <enchant level="20" url="/skill/1069-sleep/42/1020/eternal" icon="skill1069">Success rate +13%.</enchant>
+              <enchant level="21" url="/skill/1069-sleep/42/1021/eternal" icon="skill1069">Success rate +14%.</enchant>
+              <enchant level="22" url="/skill/1069-sleep/42/1022/eternal" icon="skill1069">Success rate +14%.</enchant>
+              <enchant level="23" url="/skill/1069-sleep/42/1023/eternal" icon="skill1069">Success rate +15%.</enchant>
+              <enchant level="24" url="/skill/1069-sleep/42/1024/eternal" icon="skill1069">Success rate +16%.</enchant>
+              <enchant level="25" url="/skill/1069-sleep/42/1025/eternal" icon="skill1069">Success rate +16%.</enchant>
+              <enchant level="26" url="/skill/1069-sleep/42/1026/eternal" icon="skill1069">Success rate +17%.</enchant>
+              <enchant level="27" url="/skill/1069-sleep/42/1027/eternal" icon="skill1069">Success rate +18%.</enchant>
+              <enchant level="28" url="/skill/1069-sleep/42/1028/eternal" icon="skill1069">Success rate +18%.</enchant>
+              <enchant level="29" url="/skill/1069-sleep/42/1029/eternal" icon="skill1069">Success rate +19%.</enchant>
+              <enchant level="30" url="/skill/1069-sleep/42/1030/eternal" icon="skill1069">Success rate +20%.</enchant>
+            </group>
+            <group type="time_cost">
+              <enchant level="1" url="/skill/1069-sleep/42/2001/eternal" icon="skill1069">Effect's duration +1 sec. MP сost -2.</enchant>
+              <enchant level="2" url="/skill/1069-sleep/42/2002/eternal" icon="skill1069">Effect's duration +2 sec. MP сost -3.</enchant>
+              <enchant level="3" url="/skill/1069-sleep/42/2003/eternal" icon="skill1069">Effect's duration +3 sec. MP сost -4.</enchant>
+              <enchant level="4" url="/skill/1069-sleep/42/2004/eternal" icon="skill1069">Effect's duration +4 sec. MP сost -6.</enchant>
+              <enchant level="5" url="/skill/1069-sleep/42/2005/eternal" icon="skill1069">Effect's duration +5 sec. MP сost -7.</enchant>
+              <enchant level="6" url="/skill/1069-sleep/42/2006/eternal" icon="skill1069">Effect's duration +6 sec. MP сost -8.</enchant>
+              <enchant level="7" url="/skill/1069-sleep/42/2007/eternal" icon="skill1069">Effect's duration +7 sec. MP сost -9.</enchant>
+              <enchant level="8" url="/skill/1069-sleep/42/2008/eternal" icon="skill1069">Effect's duration +8 sec. MP сost -11.</enchant>
+              <enchant level="9" url="/skill/1069-sleep/42/2009/eternal" icon="skill1069">Effect's duration +9 sec. MP сost -12.</enchant>
+              <enchant level="10" url="/skill/1069-sleep/42/2010/eternal" icon="skill1069">Effect's duration +10 sec. MP сost -13.</enchant>
+              <enchant level="11" url="/skill/1069-sleep/42/2011/eternal" icon="skill1069">Effect's duration +11 sec. MP сost -14.</enchant>
+              <enchant level="12" url="/skill/1069-sleep/42/2012/eternal" icon="skill1069">Effect's duration +12 sec. MP сost -14.</enchant>
+              <enchant level="13" url="/skill/1069-sleep/42/2013/eternal" icon="skill1069">Effect's duration +13 sec. MP сost -16.</enchant>
+              <enchant level="14" url="/skill/1069-sleep/42/2014/eternal" icon="skill1069">Effect's duration +14 sec. MP сost -17.</enchant>
+              <enchant level="15" url="/skill/1069-sleep/42/2015/eternal" icon="skill1069">Effect's duration +15 sec. MP сost -18.</enchant>
+              <enchant level="16" url="/skill/1069-sleep/42/2016/eternal" icon="skill1069">Effect's duration +16 sec. MP сost -19.</enchant>
+              <enchant level="17" url="/skill/1069-sleep/42/2017/eternal" icon="skill1069">Effect's duration +17 sec. MP сost -21.</enchant>
+              <enchant level="18" url="/skill/1069-sleep/42/2018/eternal" icon="skill1069">Effect's duration +18 sec. MP сost -22.</enchant>
+              <enchant level="19" url="/skill/1069-sleep/42/2019/eternal" icon="skill1069">Effect's duration +19 sec. MP сost -23.</enchant>
+              <enchant level="20" url="/skill/1069-sleep/42/2020/eternal" icon="skill1069">Effect's duration +20 sec. MP сost -24.</enchant>
+              <enchant level="21" url="/skill/1069-sleep/42/2021/eternal" icon="skill1069">Effect's duration +21 sec. MP сost -26.</enchant>
+              <enchant level="22" url="/skill/1069-sleep/42/2022/eternal" icon="skill1069">Effect's duration +22 sec. MP сost -27.</enchant>
+              <enchant level="23" url="/skill/1069-sleep/42/2023/eternal" icon="skill1069">Effect's duration +23 sec. MP сost -28.</enchant>
+              <enchant level="24" url="/skill/1069-sleep/42/2024/eternal" icon="skill1069">Effect's duration +24 sec. MP сost -28.</enchant>
+              <enchant level="25" url="/skill/1069-sleep/42/2025/eternal" icon="skill1069">Effect's duration +25 sec. MP сost -29.</enchant>
+              <enchant level="26" url="/skill/1069-sleep/42/2026/eternal" icon="skill1069">Effect's duration +26 sec. MP сost -31.</enchant>
+              <enchant level="27" url="/skill/1069-sleep/42/2027/eternal" icon="skill1069">Effect's duration +27 sec. MP сost -32.</enchant>
+              <enchant level="28" url="/skill/1069-sleep/42/2028/eternal" icon="skill1069">Effect's duration +28 sec. MP сost -33.</enchant>
+              <enchant level="29" url="/skill/1069-sleep/42/2029/eternal" icon="skill1069">Effect's duration +29 sec. MP сost -34.</enchant>
+              <enchant level="30" url="/skill/1069-sleep/42/2030/eternal" icon="skill1069">Effect's duration +30 sec. MP сost -36.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1164" name="Curse Weakness" start_level="1" icon="skill1164" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1164-curse-weakness/1">
+          <enchants>
+            <group type="chance">
+              <enchant level="1" url="/skill/1164-curse-weakness/19/1001/eternal" icon="skill1164">Success rate +1%.</enchant>
+              <enchant level="2" url="/skill/1164-curse-weakness/19/1002/eternal" icon="skill1164">Success rate +1%.</enchant>
+              <enchant level="3" url="/skill/1164-curse-weakness/19/1003/eternal" icon="skill1164">Success rate +2%.</enchant>
+              <enchant level="4" url="/skill/1164-curse-weakness/19/1004/eternal" icon="skill1164">Success rate +2%.</enchant>
+              <enchant level="5" url="/skill/1164-curse-weakness/19/1005/eternal" icon="skill1164">Success rate +3%.</enchant>
+              <enchant level="6" url="/skill/1164-curse-weakness/19/1006/eternal" icon="skill1164">Success rate +4%.</enchant>
+              <enchant level="7" url="/skill/1164-curse-weakness/19/1007/eternal" icon="skill1164">Success rate +4%.</enchant>
+              <enchant level="8" url="/skill/1164-curse-weakness/19/1008/eternal" icon="skill1164">Success rate +5%.</enchant>
+              <enchant level="9" url="/skill/1164-curse-weakness/19/1009/eternal" icon="skill1164">Success rate +6%.</enchant>
+              <enchant level="10" url="/skill/1164-curse-weakness/19/1010/eternal" icon="skill1164">Success rate +6%.</enchant>
+              <enchant level="11" url="/skill/1164-curse-weakness/19/1011/eternal" icon="skill1164">Success rate +7%.</enchant>
+              <enchant level="12" url="/skill/1164-curse-weakness/19/1012/eternal" icon="skill1164">Success rate +8%.</enchant>
+              <enchant level="13" url="/skill/1164-curse-weakness/19/1013/eternal" icon="skill1164">Success rate +8%.</enchant>
+              <enchant level="14" url="/skill/1164-curse-weakness/19/1014/eternal" icon="skill1164">Success rate +9%.</enchant>
+              <enchant level="15" url="/skill/1164-curse-weakness/19/1015/eternal" icon="skill1164">Success rate +10%.</enchant>
+              <enchant level="16" url="/skill/1164-curse-weakness/19/1016/eternal" icon="skill1164">Success rate +10%.</enchant>
+              <enchant level="17" url="/skill/1164-curse-weakness/19/1017/eternal" icon="skill1164">Success rate +11%.</enchant>
+              <enchant level="18" url="/skill/1164-curse-weakness/19/1018/eternal" icon="skill1164">Success rate +12%.</enchant>
+              <enchant level="19" url="/skill/1164-curse-weakness/19/1019/eternal" icon="skill1164">Success rate +12%.</enchant>
+              <enchant level="20" url="/skill/1164-curse-weakness/19/1020/eternal" icon="skill1164">Success rate +13%.</enchant>
+              <enchant level="21" url="/skill/1164-curse-weakness/19/1021/eternal" icon="skill1164">Success rate +14%.</enchant>
+              <enchant level="22" url="/skill/1164-curse-weakness/19/1022/eternal" icon="skill1164">Success rate +14%.</enchant>
+              <enchant level="23" url="/skill/1164-curse-weakness/19/1023/eternal" icon="skill1164">Success rate +15%.</enchant>
+              <enchant level="24" url="/skill/1164-curse-weakness/19/1024/eternal" icon="skill1164">Success rate +16%.</enchant>
+              <enchant level="25" url="/skill/1164-curse-weakness/19/1025/eternal" icon="skill1164">Success rate +16%.</enchant>
+              <enchant level="26" url="/skill/1164-curse-weakness/19/1026/eternal" icon="skill1164">Success rate +17%.</enchant>
+              <enchant level="27" url="/skill/1164-curse-weakness/19/1027/eternal" icon="skill1164">Success rate +18%.</enchant>
+              <enchant level="28" url="/skill/1164-curse-weakness/19/1028/eternal" icon="skill1164">Success rate +18%.</enchant>
+              <enchant level="29" url="/skill/1164-curse-weakness/19/1029/eternal" icon="skill1164">Success rate +19%.</enchant>
+              <enchant level="30" url="/skill/1164-curse-weakness/19/1030/eternal" icon="skill1164">Success rate +20%.</enchant>
+            </group>
+            <group type="time_cost">
+              <enchant level="1" url="/skill/1164-curse-weakness/19/2001/eternal" icon="skill1164">Effect's duration +1 sec. MP сost -2.</enchant>
+              <enchant level="2" url="/skill/1164-curse-weakness/19/2002/eternal" icon="skill1164">Effect's duration +2 sec. MP сost -3.</enchant>
+              <enchant level="3" url="/skill/1164-curse-weakness/19/2003/eternal" icon="skill1164">Effect's duration +3 sec. MP сost -4.</enchant>
+              <enchant level="4" url="/skill/1164-curse-weakness/19/2004/eternal" icon="skill1164">Effect's duration +4 sec. MP сost -6.</enchant>
+              <enchant level="5" url="/skill/1164-curse-weakness/19/2005/eternal" icon="skill1164">Effect's duration +5 sec. MP сost -7.</enchant>
+              <enchant level="6" url="/skill/1164-curse-weakness/19/2006/eternal" icon="skill1164">Effect's duration +6 sec. MP сost -8.</enchant>
+              <enchant level="7" url="/skill/1164-curse-weakness/19/2007/eternal" icon="skill1164">Effect's duration +7 sec. MP сost -9.</enchant>
+              <enchant level="8" url="/skill/1164-curse-weakness/19/2008/eternal" icon="skill1164">Effect's duration +8 sec. MP сost -11.</enchant>
+              <enchant level="9" url="/skill/1164-curse-weakness/19/2009/eternal" icon="skill1164">Effect's duration +9 sec. MP сost -12.</enchant>
+              <enchant level="10" url="/skill/1164-curse-weakness/19/2010/eternal" icon="skill1164">Effect's duration +10 sec. MP сost -13.</enchant>
+              <enchant level="11" url="/skill/1164-curse-weakness/19/2011/eternal" icon="skill1164">Effect's duration +11 sec. MP сost -14.</enchant>
+              <enchant level="12" url="/skill/1164-curse-weakness/19/2012/eternal" icon="skill1164">Effect's duration +12 sec. MP сost -14.</enchant>
+              <enchant level="13" url="/skill/1164-curse-weakness/19/2013/eternal" icon="skill1164">Effect's duration +13 sec. MP сost -16.</enchant>
+              <enchant level="14" url="/skill/1164-curse-weakness/19/2014/eternal" icon="skill1164">Effect's duration +14 sec. MP сost -17.</enchant>
+              <enchant level="15" url="/skill/1164-curse-weakness/19/2015/eternal" icon="skill1164">Effect's duration +15 sec. MP сost -18.</enchant>
+              <enchant level="16" url="/skill/1164-curse-weakness/19/2016/eternal" icon="skill1164">Effect's duration +16 sec. MP сost -19.</enchant>
+              <enchant level="17" url="/skill/1164-curse-weakness/19/2017/eternal" icon="skill1164">Effect's duration +17 sec. MP сost -21.</enchant>
+              <enchant level="18" url="/skill/1164-curse-weakness/19/2018/eternal" icon="skill1164">Effect's duration +18 sec. MP сost -22.</enchant>
+              <enchant level="19" url="/skill/1164-curse-weakness/19/2019/eternal" icon="skill1164">Effect's duration +19 sec. MP сost -23.</enchant>
+              <enchant level="20" url="/skill/1164-curse-weakness/19/2020/eternal" icon="skill1164">Effect's duration +20 sec. MP сost -24.</enchant>
+              <enchant level="21" url="/skill/1164-curse-weakness/19/2021/eternal" icon="skill1164">Effect's duration +21 sec. MP сost -26.</enchant>
+              <enchant level="22" url="/skill/1164-curse-weakness/19/2022/eternal" icon="skill1164">Effect's duration +22 sec. MP сost -27.</enchant>
+              <enchant level="23" url="/skill/1164-curse-weakness/19/2023/eternal" icon="skill1164">Effect's duration +23 sec. MP сost -28.</enchant>
+              <enchant level="24" url="/skill/1164-curse-weakness/19/2024/eternal" icon="skill1164">Effect's duration +24 sec. MP сost -28.</enchant>
+              <enchant level="25" url="/skill/1164-curse-weakness/19/2025/eternal" icon="skill1164">Effect's duration +25 sec. MP сost -29.</enchant>
+              <enchant level="26" url="/skill/1164-curse-weakness/19/2026/eternal" icon="skill1164">Effect's duration +26 sec. MP сost -31.</enchant>
+              <enchant level="27" url="/skill/1164-curse-weakness/19/2027/eternal" icon="skill1164">Effect's duration +27 sec. MP сost -32.</enchant>
+              <enchant level="28" url="/skill/1164-curse-weakness/19/2028/eternal" icon="skill1164">Effect's duration +28 sec. MP сost -33.</enchant>
+              <enchant level="29" url="/skill/1164-curse-weakness/19/2029/eternal" icon="skill1164">Effect's duration +29 sec. MP сost -34.</enchant>
+              <enchant level="30" url="/skill/1164-curse-weakness/19/2030/eternal" icon="skill1164">Effect's duration +30 sec. MP сost -36.</enchant>
+            </group>
+            <group type="modify_speed">
+              <enchant level="1" url="/skill/1164-curse-weakness/19/3001/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="2" url="/skill/1164-curse-weakness/19/3002/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="3" url="/skill/1164-curse-weakness/19/3003/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="4" url="/skill/1164-curse-weakness/19/3004/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="5" url="/skill/1164-curse-weakness/19/3005/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="6" url="/skill/1164-curse-weakness/19/3006/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="7" url="/skill/1164-curse-weakness/19/3007/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="8" url="/skill/1164-curse-weakness/19/3008/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="9" url="/skill/1164-curse-weakness/19/3009/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="10" url="/skill/1164-curse-weakness/19/3010/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="11" url="/skill/1164-curse-weakness/19/3011/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="12" url="/skill/1164-curse-weakness/19/3012/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="13" url="/skill/1164-curse-weakness/19/3013/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="14" url="/skill/1164-curse-weakness/19/3014/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="15" url="/skill/1164-curse-weakness/19/3015/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="16" url="/skill/1164-curse-weakness/19/3016/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="17" url="/skill/1164-curse-weakness/19/3017/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="18" url="/skill/1164-curse-weakness/19/3018/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="19" url="/skill/1164-curse-weakness/19/3019/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="20" url="/skill/1164-curse-weakness/19/3020/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="21" url="/skill/1164-curse-weakness/19/3021/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="22" url="/skill/1164-curse-weakness/19/3022/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="23" url="/skill/1164-curse-weakness/19/3023/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="24" url="/skill/1164-curse-weakness/19/3024/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="25" url="/skill/1164-curse-weakness/19/3025/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="26" url="/skill/1164-curse-weakness/19/3026/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="27" url="/skill/1164-curse-weakness/19/3027/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="28" url="/skill/1164-curse-weakness/19/3028/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+              <enchant level="29" url="/skill/1164-curse-weakness/19/3029/eternal" icon="skill1164">Target's speed is decreased.</enchant>
+              <enchant level="30" url="/skill/1164-curse-weakness/19/3030/eternal" icon="skill1164">Decreases the target's Speed by 1%%.</enchant>
+            </group>
+            <group type="defence">
+              <enchant level="1" url="/skill/1164-curse-weakness/19/4001/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="2" url="/skill/1164-curse-weakness/19/4002/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="3" url="/skill/1164-curse-weakness/19/4003/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="4" url="/skill/1164-curse-weakness/19/4004/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="5" url="/skill/1164-curse-weakness/19/4005/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="6" url="/skill/1164-curse-weakness/19/4006/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="7" url="/skill/1164-curse-weakness/19/4007/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="8" url="/skill/1164-curse-weakness/19/4008/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="9" url="/skill/1164-curse-weakness/19/4009/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="10" url="/skill/1164-curse-weakness/19/4010/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="11" url="/skill/1164-curse-weakness/19/4011/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="12" url="/skill/1164-curse-weakness/19/4012/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="13" url="/skill/1164-curse-weakness/19/4013/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="14" url="/skill/1164-curse-weakness/19/4014/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="15" url="/skill/1164-curse-weakness/19/4015/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="16" url="/skill/1164-curse-weakness/19/4016/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="17" url="/skill/1164-curse-weakness/19/4017/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="18" url="/skill/1164-curse-weakness/19/4018/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="19" url="/skill/1164-curse-weakness/19/4019/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="20" url="/skill/1164-curse-weakness/19/4020/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="21" url="/skill/1164-curse-weakness/19/4021/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="22" url="/skill/1164-curse-weakness/19/4022/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="23" url="/skill/1164-curse-weakness/19/4023/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="24" url="/skill/1164-curse-weakness/19/4024/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="25" url="/skill/1164-curse-weakness/19/4025/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="26" url="/skill/1164-curse-weakness/19/4026/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="27" url="/skill/1164-curse-weakness/19/4027/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="28" url="/skill/1164-curse-weakness/19/4028/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+              <enchant level="29" url="/skill/1164-curse-weakness/19/4029/eternal" icon="skill1164">Target's P. Def.</enchant>
+              <enchant level="30" url="/skill/1164-curse-weakness/19/4030/eternal" icon="skill1164">Target's P. Def. -1%%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1184" name="Ice Bolt" start_level="1" icon="skill1184" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1184-ice-bolt/1">
+          <enchants/>
+        </skill>
+        <skill id="1206" name="Wind Shackle" start_level="1" icon="skill1206" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1206-wind-shackle/1">
+          <enchants>
+            <group type="chance">
+              <enchant level="1" url="/skill/1206-wind-shackle/19/1001/eternal" icon="skill1206">Success rate +1%.</enchant>
+              <enchant level="2" url="/skill/1206-wind-shackle/19/1002/eternal" icon="skill1206">Success rate +1%.</enchant>
+              <enchant level="3" url="/skill/1206-wind-shackle/19/1003/eternal" icon="skill1206">Success rate +2%.</enchant>
+              <enchant level="4" url="/skill/1206-wind-shackle/19/1004/eternal" icon="skill1206">Success rate +2%.</enchant>
+              <enchant level="5" url="/skill/1206-wind-shackle/19/1005/eternal" icon="skill1206">Success rate +3%.</enchant>
+              <enchant level="6" url="/skill/1206-wind-shackle/19/1006/eternal" icon="skill1206">Success rate +4%.</enchant>
+              <enchant level="7" url="/skill/1206-wind-shackle/19/1007/eternal" icon="skill1206">Success rate +4%.</enchant>
+              <enchant level="8" url="/skill/1206-wind-shackle/19/1008/eternal" icon="skill1206">Success rate +5%.</enchant>
+              <enchant level="9" url="/skill/1206-wind-shackle/19/1009/eternal" icon="skill1206">Success rate +6%.</enchant>
+              <enchant level="10" url="/skill/1206-wind-shackle/19/1010/eternal" icon="skill1206">Success rate +6%.</enchant>
+              <enchant level="11" url="/skill/1206-wind-shackle/19/1011/eternal" icon="skill1206">Success rate +7%.</enchant>
+              <enchant level="12" url="/skill/1206-wind-shackle/19/1012/eternal" icon="skill1206">Success rate +8%.</enchant>
+              <enchant level="13" url="/skill/1206-wind-shackle/19/1013/eternal" icon="skill1206">Success rate +8%.</enchant>
+              <enchant level="14" url="/skill/1206-wind-shackle/19/1014/eternal" icon="skill1206">Success rate +9%.</enchant>
+              <enchant level="15" url="/skill/1206-wind-shackle/19/1015/eternal" icon="skill1206">Success rate +10%.</enchant>
+              <enchant level="16" url="/skill/1206-wind-shackle/19/1016/eternal" icon="skill1206">Success rate +10%.</enchant>
+              <enchant level="17" url="/skill/1206-wind-shackle/19/1017/eternal" icon="skill1206">Success rate +11%.</enchant>
+              <enchant level="18" url="/skill/1206-wind-shackle/19/1018/eternal" icon="skill1206">Success rate +12%.</enchant>
+              <enchant level="19" url="/skill/1206-wind-shackle/19/1019/eternal" icon="skill1206">Success rate +12%.</enchant>
+              <enchant level="20" url="/skill/1206-wind-shackle/19/1020/eternal" icon="skill1206">Success rate +13%.</enchant>
+              <enchant level="21" url="/skill/1206-wind-shackle/19/1021/eternal" icon="skill1206">Success rate +14%.</enchant>
+              <enchant level="22" url="/skill/1206-wind-shackle/19/1022/eternal" icon="skill1206">Success rate +14%.</enchant>
+              <enchant level="23" url="/skill/1206-wind-shackle/19/1023/eternal" icon="skill1206">Success rate +15%.</enchant>
+              <enchant level="24" url="/skill/1206-wind-shackle/19/1024/eternal" icon="skill1206">Success rate +16%.</enchant>
+              <enchant level="25" url="/skill/1206-wind-shackle/19/1025/eternal" icon="skill1206">Success rate +16%.</enchant>
+              <enchant level="26" url="/skill/1206-wind-shackle/19/1026/eternal" icon="skill1206">Success rate +17%.</enchant>
+              <enchant level="27" url="/skill/1206-wind-shackle/19/1027/eternal" icon="skill1206">Success rate +18%.</enchant>
+              <enchant level="28" url="/skill/1206-wind-shackle/19/1028/eternal" icon="skill1206">Success rate +18%.</enchant>
+              <enchant level="29" url="/skill/1206-wind-shackle/19/1029/eternal" icon="skill1206">Success rate +19%.</enchant>
+              <enchant level="30" url="/skill/1206-wind-shackle/19/1030/eternal" icon="skill1206">Success rate +20%.</enchant>
+            </group>
+            <group type="time_cost">
+              <enchant level="1" url="/skill/1206-wind-shackle/19/2001/eternal" icon="skill1206">Effect's duration +1 sec. MP сost -2.</enchant>
+              <enchant level="2" url="/skill/1206-wind-shackle/19/2002/eternal" icon="skill1206">Effect's duration +2 sec. MP сost -3.</enchant>
+              <enchant level="3" url="/skill/1206-wind-shackle/19/2003/eternal" icon="skill1206">Effect's duration +3 sec. MP сost -4.</enchant>
+              <enchant level="4" url="/skill/1206-wind-shackle/19/2004/eternal" icon="skill1206">Effect's duration +4 sec. MP сost -6.</enchant>
+              <enchant level="5" url="/skill/1206-wind-shackle/19/2005/eternal" icon="skill1206">Effect's duration +5 sec. MP сost -7.</enchant>
+              <enchant level="6" url="/skill/1206-wind-shackle/19/2006/eternal" icon="skill1206">Effect's duration +6 sec. MP сost -8.</enchant>
+              <enchant level="7" url="/skill/1206-wind-shackle/19/2007/eternal" icon="skill1206">Effect's duration +7 sec. MP сost -9.</enchant>
+              <enchant level="8" url="/skill/1206-wind-shackle/19/2008/eternal" icon="skill1206">Effect's duration +8 sec. MP сost -11.</enchant>
+              <enchant level="9" url="/skill/1206-wind-shackle/19/2009/eternal" icon="skill1206">Effect's duration +9 sec. MP сost -12.</enchant>
+              <enchant level="10" url="/skill/1206-wind-shackle/19/2010/eternal" icon="skill1206">Effect's duration +10 sec. MP сost -13.</enchant>
+              <enchant level="11" url="/skill/1206-wind-shackle/19/2011/eternal" icon="skill1206">Effect's duration +11 sec. MP сost -14.</enchant>
+              <enchant level="12" url="/skill/1206-wind-shackle/19/2012/eternal" icon="skill1206">Effect's duration +12 sec. MP сost -14.</enchant>
+              <enchant level="13" url="/skill/1206-wind-shackle/19/2013/eternal" icon="skill1206">Effect's duration +13 sec. MP сost -16.</enchant>
+              <enchant level="14" url="/skill/1206-wind-shackle/19/2014/eternal" icon="skill1206">Effect's duration +14 sec. MP сost -17.</enchant>
+              <enchant level="15" url="/skill/1206-wind-shackle/19/2015/eternal" icon="skill1206">Effect's duration +15 sec. MP сost -18.</enchant>
+              <enchant level="16" url="/skill/1206-wind-shackle/19/2016/eternal" icon="skill1206">Effect's duration +16 sec. MP сost -19.</enchant>
+              <enchant level="17" url="/skill/1206-wind-shackle/19/2017/eternal" icon="skill1206">Effect's duration +17 sec. MP сost -21.</enchant>
+              <enchant level="18" url="/skill/1206-wind-shackle/19/2018/eternal" icon="skill1206">Effect's duration +18 sec. MP сost -22.</enchant>
+              <enchant level="19" url="/skill/1206-wind-shackle/19/2019/eternal" icon="skill1206">Effect's duration +19 sec. MP сost -23.</enchant>
+              <enchant level="20" url="/skill/1206-wind-shackle/19/2020/eternal" icon="skill1206">Effect's duration +20 sec. MP сost -24.</enchant>
+              <enchant level="21" url="/skill/1206-wind-shackle/19/2021/eternal" icon="skill1206">Effect's duration +21 sec. MP сost -26.</enchant>
+              <enchant level="22" url="/skill/1206-wind-shackle/19/2022/eternal" icon="skill1206">Effect's duration +22 sec. MP сost -27.</enchant>
+              <enchant level="23" url="/skill/1206-wind-shackle/19/2023/eternal" icon="skill1206">Effect's duration +23 sec. MP сost -28.</enchant>
+              <enchant level="24" url="/skill/1206-wind-shackle/19/2024/eternal" icon="skill1206">Effect's duration +24 sec. MP сost -28.</enchant>
+              <enchant level="25" url="/skill/1206-wind-shackle/19/2025/eternal" icon="skill1206">Effect's duration +25 sec. MP сost -29.</enchant>
+              <enchant level="26" url="/skill/1206-wind-shackle/19/2026/eternal" icon="skill1206">Effect's duration +26 sec. MP сost -31.</enchant>
+              <enchant level="27" url="/skill/1206-wind-shackle/19/2027/eternal" icon="skill1206">Effect's duration +27 sec. MP сost -32.</enchant>
+              <enchant level="28" url="/skill/1206-wind-shackle/19/2028/eternal" icon="skill1206">Effect's duration +28 sec. MP сost -33.</enchant>
+              <enchant level="29" url="/skill/1206-wind-shackle/19/2029/eternal" icon="skill1206">Effect's duration +29 sec. MP сost -34.</enchant>
+              <enchant level="30" url="/skill/1206-wind-shackle/19/2030/eternal" icon="skill1206">Effect's duration +30 sec. MP сost -36.</enchant>
+            </group>
+            <group type="wind_vulnerability">
+              <enchant level="1" url="/skill/1206-wind-shackle/19/3001/eternal" icon="skill1206">Target's Wind Atk. Attribute -2.</enchant>
+              <enchant level="2" url="/skill/1206-wind-shackle/19/3002/eternal" icon="skill1206">Target's Wind Atk. Attribute -4.</enchant>
+              <enchant level="3" url="/skill/1206-wind-shackle/19/3003/eternal" icon="skill1206">Target's Wind Atk. Attribute -5.</enchant>
+              <enchant level="4" url="/skill/1206-wind-shackle/19/3004/eternal" icon="skill1206">Target's Wind Atk. Attribute -7.</enchant>
+              <enchant level="5" url="/skill/1206-wind-shackle/19/3005/eternal" icon="skill1206">Target's Wind Atk. Attribute -9.</enchant>
+              <enchant level="6" url="/skill/1206-wind-shackle/19/3006/eternal" icon="skill1206">Target's Wind Atk. Attribute -10.</enchant>
+              <enchant level="7" url="/skill/1206-wind-shackle/19/3007/eternal" icon="skill1206">Target's Wind Atk. Attribute -12.</enchant>
+              <enchant level="8" url="/skill/1206-wind-shackle/19/3008/eternal" icon="skill1206">Target's Wind Atk. Attribute -14.</enchant>
+              <enchant level="9" url="/skill/1206-wind-shackle/19/3009/eternal" icon="skill1206">Target's Wind Atk. Attribute -15.</enchant>
+              <enchant level="10" url="/skill/1206-wind-shackle/19/3010/eternal" icon="skill1206">Target's Wind Atk. Attribute -17.</enchant>
+              <enchant level="11" url="/skill/1206-wind-shackle/19/3011/eternal" icon="skill1206">Target's Wind Atk. Attribute -18.</enchant>
+              <enchant level="12" url="/skill/1206-wind-shackle/19/3012/eternal" icon="skill1206">Target's Wind Atk. Attribute -20.</enchant>
+              <enchant level="13" url="/skill/1206-wind-shackle/19/3013/eternal" icon="skill1206">Target's Wind Atk. Attribute -22.</enchant>
+              <enchant level="14" url="/skill/1206-wind-shackle/19/3014/eternal" icon="skill1206">Target's Wind Atk. Attribute -23.</enchant>
+              <enchant level="15" url="/skill/1206-wind-shackle/19/3015/eternal" icon="skill1206">Target's Wind Atk. Attribute -25.</enchant>
+              <enchant level="16" url="/skill/1206-wind-shackle/19/3016/eternal" icon="skill1206">Target's Wind Atk. Attribute -27.</enchant>
+              <enchant level="17" url="/skill/1206-wind-shackle/19/3017/eternal" icon="skill1206">Target's Wind Atk. Attribute -28.</enchant>
+              <enchant level="18" url="/skill/1206-wind-shackle/19/3018/eternal" icon="skill1206">Target's Wind Atk. Attribute -30.</enchant>
+              <enchant level="19" url="/skill/1206-wind-shackle/19/3019/eternal" icon="skill1206">Target's Wind Atk. Attribute -32.</enchant>
+              <enchant level="20" url="/skill/1206-wind-shackle/19/3020/eternal" icon="skill1206">Target's Wind Atk. Attribute -33.</enchant>
+              <enchant level="21" url="/skill/1206-wind-shackle/19/3021/eternal" icon="skill1206">Target's Wind Atk. Attribute -35.</enchant>
+              <enchant level="22" url="/skill/1206-wind-shackle/19/3022/eternal" icon="skill1206">Target's Wind Atk. Attribute -36.</enchant>
+              <enchant level="23" url="/skill/1206-wind-shackle/19/3023/eternal" icon="skill1206">Target's Wind Atk. Attribute -38.</enchant>
+              <enchant level="24" url="/skill/1206-wind-shackle/19/3024/eternal" icon="skill1206">Target's Wind Atk. Attribute -40.</enchant>
+              <enchant level="25" url="/skill/1206-wind-shackle/19/3025/eternal" icon="skill1206">Target's Wind Atk. Attribute -41.</enchant>
+              <enchant level="26" url="/skill/1206-wind-shackle/19/3026/eternal" icon="skill1206">Target's Wind Atk. Attribute -43.</enchant>
+              <enchant level="27" url="/skill/1206-wind-shackle/19/3027/eternal" icon="skill1206">Target's Wind Atk. Attribute -45.</enchant>
+              <enchant level="28" url="/skill/1206-wind-shackle/19/3028/eternal" icon="skill1206">Target's Wind Atk. Attribute -46.</enchant>
+              <enchant level="29" url="/skill/1206-wind-shackle/19/3029/eternal" icon="skill1206">Target's Wind Atk. Attribute -48.</enchant>
+              <enchant level="30" url="/skill/1206-wind-shackle/19/3030/eternal" icon="skill1206">Target's Wind Atk. Attribute -50.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1223" name="Surrender to Earth" start_level="1" icon="skill1223" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1223-surrender-to-earth/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/1223-surrender-to-earth/15/1001/eternal" icon="skill1223">Resistance to Earth -2.</enchant>
+              <enchant level="2" url="/skill/1223-surrender-to-earth/15/1002/eternal" icon="skill1223">Resistance to Earth -4.</enchant>
+              <enchant level="3" url="/skill/1223-surrender-to-earth/15/1003/eternal" icon="skill1223">Resistance to Earth -6.</enchant>
+              <enchant level="4" url="/skill/1223-surrender-to-earth/15/1004/eternal" icon="skill1223">Resistance to Earth -8.</enchant>
+              <enchant level="5" url="/skill/1223-surrender-to-earth/15/1005/eternal" icon="skill1223">Resistance to Earth -10.</enchant>
+              <enchant level="6" url="/skill/1223-surrender-to-earth/15/1006/eternal" icon="skill1223">Resistance to Earth -12.</enchant>
+              <enchant level="7" url="/skill/1223-surrender-to-earth/15/1007/eternal" icon="skill1223">Resistance to Earth -14.</enchant>
+              <enchant level="8" url="/skill/1223-surrender-to-earth/15/1008/eternal" icon="skill1223">Resistance to Earth -16.</enchant>
+              <enchant level="9" url="/skill/1223-surrender-to-earth/15/1009/eternal" icon="skill1223">Resistance to Earth -18.</enchant>
+              <enchant level="10" url="/skill/1223-surrender-to-earth/15/1010/eternal" icon="skill1223">Resistance to Earth -20.</enchant>
+              <enchant level="11" url="/skill/1223-surrender-to-earth/15/1011/eternal" icon="skill1223">Resistance to Earth -22.</enchant>
+              <enchant level="12" url="/skill/1223-surrender-to-earth/15/1012/eternal" icon="skill1223">Resistance to Earth -24.</enchant>
+              <enchant level="13" url="/skill/1223-surrender-to-earth/15/1013/eternal" icon="skill1223">Resistance to Earth -26.</enchant>
+              <enchant level="14" url="/skill/1223-surrender-to-earth/15/1014/eternal" icon="skill1223">Resistance to Earth -28.</enchant>
+              <enchant level="15" url="/skill/1223-surrender-to-earth/15/1015/eternal" icon="skill1223">Resistance to Earth -30.</enchant>
+              <enchant level="16" url="/skill/1223-surrender-to-earth/15/1016/eternal" icon="skill1223">Resistance to Earth -32.</enchant>
+              <enchant level="17" url="/skill/1223-surrender-to-earth/15/1017/eternal" icon="skill1223">Resistance to Earth -34.</enchant>
+              <enchant level="18" url="/skill/1223-surrender-to-earth/15/1018/eternal" icon="skill1223">Resistance to Earth -36.</enchant>
+              <enchant level="19" url="/skill/1223-surrender-to-earth/15/1019/eternal" icon="skill1223">Resistance to Earth -38.</enchant>
+              <enchant level="20" url="/skill/1223-surrender-to-earth/15/1020/eternal" icon="skill1223">Resistance to Earth -40.</enchant>
+              <enchant level="21" url="/skill/1223-surrender-to-earth/15/1021/eternal" icon="skill1223">Resistance to Earth -42.</enchant>
+              <enchant level="22" url="/skill/1223-surrender-to-earth/15/1022/eternal" icon="skill1223">Resistance to Earth -44.</enchant>
+              <enchant level="23" url="/skill/1223-surrender-to-earth/15/1023/eternal" icon="skill1223">Resistance to Earth -46.</enchant>
+              <enchant level="24" url="/skill/1223-surrender-to-earth/15/1024/eternal" icon="skill1223">Resistance to Earth -48.</enchant>
+              <enchant level="25" url="/skill/1223-surrender-to-earth/15/1025/eternal" icon="skill1223">Resistance to Earth -50.</enchant>
+              <enchant level="26" url="/skill/1223-surrender-to-earth/15/1026/eternal" icon="skill1223">Resistance to Earth -52.</enchant>
+              <enchant level="27" url="/skill/1223-surrender-to-earth/15/1027/eternal" icon="skill1223">Resistance to Earth -54.</enchant>
+              <enchant level="28" url="/skill/1223-surrender-to-earth/15/1028/eternal" icon="skill1223">Resistance to Earth -56.</enchant>
+              <enchant level="29" url="/skill/1223-surrender-to-earth/15/1029/eternal" icon="skill1223">Resistance to Earth -58.</enchant>
+              <enchant level="30" url="/skill/1223-surrender-to-earth/15/1030/eternal" icon="skill1223">Resistance to Earth -60.</enchant>
+            </group>
+          </enchants>
+        </skill>
+      </category>
+      <category name="Clan/Hero/Mentoring skills">
+        <skill id="25234" name="Magic Firework" start_level="1" icon="etc_allstat_talisman_i00" icon_panel="toggle_water_panel" url="https://wikipedia1.mw2.wiki/skill/25234-magic-firework/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Item skills">
+        <skill id="1322" name="Common Craft" start_level="1" icon="skill0172" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1322-common-craft/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Toggle skills">
+        <skill id="24314" name="Block Buff" start_level="1" icon="ability_lock" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/24314-block-buff/1">
+          <enchants/>
+        </skill>
+      </category>
+    </skills>
+    <skills type="passive">
+      <category name="Equipment skills">
+        <skill id="234" name="Robe Mastery" start_level="1" icon="skill0234" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/234-robe-mastery/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/234-robe-mastery/41/1001/eternal" icon="skill0234">P. Def. +2.8.</enchant>
+              <enchant level="2" url="/skill/234-robe-mastery/41/1002/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="3" url="/skill/234-robe-mastery/41/1003/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="4" url="/skill/234-robe-mastery/41/1004/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="5" url="/skill/234-robe-mastery/41/1005/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="6" url="/skill/234-robe-mastery/41/1006/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="7" url="/skill/234-robe-mastery/41/1007/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="8" url="/skill/234-robe-mastery/41/1008/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="9" url="/skill/234-robe-mastery/41/1009/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="10" url="/skill/234-robe-mastery/41/1010/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="11" url="/skill/234-robe-mastery/41/1011/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="12" url="/skill/234-robe-mastery/41/1012/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="13" url="/skill/234-robe-mastery/41/1013/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="14" url="/skill/234-robe-mastery/41/1014/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="15" url="/skill/234-robe-mastery/41/1015/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="16" url="/skill/234-robe-mastery/41/1016/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="17" url="/skill/234-robe-mastery/41/1017/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="18" url="/skill/234-robe-mastery/41/1018/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="19" url="/skill/234-robe-mastery/41/1019/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="20" url="/skill/234-robe-mastery/41/1020/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="21" url="/skill/234-robe-mastery/41/1021/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="22" url="/skill/234-robe-mastery/41/1022/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="23" url="/skill/234-robe-mastery/41/1023/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="24" url="/skill/234-robe-mastery/41/1024/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="25" url="/skill/234-robe-mastery/41/1025/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="26" url="/skill/234-robe-mastery/41/1026/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="27" url="/skill/234-robe-mastery/41/1027/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="28" url="/skill/234-robe-mastery/41/1028/eternal" icon="skill0234">P. Def. +1.</enchant>
+              <enchant level="29" url="/skill/234-robe-mastery/41/1029/eternal" icon="skill0234">Increases P. Def.</enchant>
+              <enchant level="30" url="/skill/234-robe-mastery/41/1030/eternal" icon="skill0234">Increases P. Def.</enchant>
+            </group>
+            <group type="mana">
+              <enchant level="1" url="/skill/234-robe-mastery/41/2001/eternal" icon="skill0234">Increases MP Recovery Bonus by 21% when sitting down.</enchant>
+              <enchant level="2" url="/skill/234-robe-mastery/41/2002/eternal" icon="skill0234">Increases MP Recovery Bonus by 22% when sitting down.</enchant>
+              <enchant level="3" url="/skill/234-robe-mastery/41/2003/eternal" icon="skill0234">Increases MP Recovery Bonus by 23% when sitting down.</enchant>
+              <enchant level="4" url="/skill/234-robe-mastery/41/2004/eternal" icon="skill0234">Increases MP Recovery Bonus by 24% when sitting down.</enchant>
+              <enchant level="5" url="/skill/234-robe-mastery/41/2005/eternal" icon="skill0234">Increases MP Recovery Bonus by 25% when sitting down.</enchant>
+              <enchant level="6" url="/skill/234-robe-mastery/41/2006/eternal" icon="skill0234">Increases MP Recovery Bonus by 26% when sitting down.</enchant>
+              <enchant level="7" url="/skill/234-robe-mastery/41/2007/eternal" icon="skill0234">Increases MP Recovery Bonus by 27% when sitting down.</enchant>
+              <enchant level="8" url="/skill/234-robe-mastery/41/2008/eternal" icon="skill0234">Increases MP Recovery Bonus by 28% when sitting down.</enchant>
+              <enchant level="9" url="/skill/234-robe-mastery/41/2009/eternal" icon="skill0234">Increases MP Recovery Bonus by 29% when sitting down.</enchant>
+              <enchant level="10" url="/skill/234-robe-mastery/41/2010/eternal" icon="skill0234">Increases MP Recovery Bonus by 30% when sitting down.</enchant>
+              <enchant level="11" url="/skill/234-robe-mastery/41/2011/eternal" icon="skill0234">Increases MP Recovery Bonus by 31% when sitting down.</enchant>
+              <enchant level="12" url="/skill/234-robe-mastery/41/2012/eternal" icon="skill0234">Increases MP Recovery Bonus by 32% when sitting down.</enchant>
+              <enchant level="13" url="/skill/234-robe-mastery/41/2013/eternal" icon="skill0234">Increases MP Recovery Bonus by 33% when sitting down.</enchant>
+              <enchant level="14" url="/skill/234-robe-mastery/41/2014/eternal" icon="skill0234">Increases MP Recovery Bonus by 34% when sitting down.</enchant>
+              <enchant level="15" url="/skill/234-robe-mastery/41/2015/eternal" icon="skill0234">Increases MP Recovery Bonus by 35% when sitting down.</enchant>
+              <enchant level="16" url="/skill/234-robe-mastery/41/2016/eternal" icon="skill0234">Increases MP Recovery Bonus by 36% when sitting down.</enchant>
+              <enchant level="17" url="/skill/234-robe-mastery/41/2017/eternal" icon="skill0234">Increases MP Recovery Bonus by 37% when sitting down.</enchant>
+              <enchant level="18" url="/skill/234-robe-mastery/41/2018/eternal" icon="skill0234">Increases MP Recovery Bonus by 38% when sitting down.</enchant>
+              <enchant level="19" url="/skill/234-robe-mastery/41/2019/eternal" icon="skill0234">Increases MP Recovery Bonus by 39% when sitting down.</enchant>
+              <enchant level="20" url="/skill/234-robe-mastery/41/2020/eternal" icon="skill0234">Increases MP Recovery Bonus by 40% when sitting down.</enchant>
+              <enchant level="21" url="/skill/234-robe-mastery/41/2021/eternal" icon="skill0234">Increases MP Recovery Bonus by 41% when sitting down.</enchant>
+              <enchant level="22" url="/skill/234-robe-mastery/41/2022/eternal" icon="skill0234">Increases MP Recovery Bonus by 42% when sitting down.</enchant>
+              <enchant level="23" url="/skill/234-robe-mastery/41/2023/eternal" icon="skill0234">Increases MP Recovery Bonus by 43% when sitting down.</enchant>
+              <enchant level="24" url="/skill/234-robe-mastery/41/2024/eternal" icon="skill0234">Increases MP Recovery Bonus by 44% when sitting down.</enchant>
+              <enchant level="25" url="/skill/234-robe-mastery/41/2025/eternal" icon="skill0234">Increases MP Recovery Bonus by 45% when sitting down.</enchant>
+              <enchant level="26" url="/skill/234-robe-mastery/41/2026/eternal" icon="skill0234">Increases MP Recovery Bonus by 46% when sitting down.</enchant>
+              <enchant level="27" url="/skill/234-robe-mastery/41/2027/eternal" icon="skill0234">Increases MP Recovery Bonus by 47% when sitting down.</enchant>
+              <enchant level="28" url="/skill/234-robe-mastery/41/2028/eternal" icon="skill0234">Increases MP Recovery Bonus by 48% when sitting down.</enchant>
+              <enchant level="29" url="/skill/234-robe-mastery/41/2029/eternal" icon="skill0234">Increases MP Recovery Bonus by 49% when sitting down.</enchant>
+              <enchant level="30" url="/skill/234-robe-mastery/41/2030/eternal" icon="skill0234">Increases MP Recovery Bonus by 50% when sitting down.</enchant>
+            </group>
+            <group type="magic_defence">
+              <enchant level="1" url="/skill/234-robe-mastery/41/3001/eternal" icon="skill0234">M. Def. +1%.</enchant>
+              <enchant level="2" url="/skill/234-robe-mastery/41/3002/eternal" icon="skill0234">M. Def. +2%.</enchant>
+              <enchant level="3" url="/skill/234-robe-mastery/41/3003/eternal" icon="skill0234">M. Def. +3%.</enchant>
+              <enchant level="4" url="/skill/234-robe-mastery/41/3004/eternal" icon="skill0234">M. Def. +4%.</enchant>
+              <enchant level="5" url="/skill/234-robe-mastery/41/3005/eternal" icon="skill0234">M. Def. +5%.</enchant>
+              <enchant level="6" url="/skill/234-robe-mastery/41/3006/eternal" icon="skill0234">M. Def. +5%.</enchant>
+              <enchant level="7" url="/skill/234-robe-mastery/41/3007/eternal" icon="skill0234">M. Def. +6%.</enchant>
+              <enchant level="8" url="/skill/234-robe-mastery/41/3008/eternal" icon="skill0234">M. Def. +7%.</enchant>
+              <enchant level="9" url="/skill/234-robe-mastery/41/3009/eternal" icon="skill0234">M. Def. +8%.</enchant>
+              <enchant level="10" url="/skill/234-robe-mastery/41/3010/eternal" icon="skill0234">M. Def. +9%.</enchant>
+              <enchant level="11" url="/skill/234-robe-mastery/41/3011/eternal" icon="skill0234">M. Def. +9%.</enchant>
+              <enchant level="12" url="/skill/234-robe-mastery/41/3012/eternal" icon="skill0234">M. Def. +10%.</enchant>
+              <enchant level="13" url="/skill/234-robe-mastery/41/3013/eternal" icon="skill0234">M. Def. +11%.</enchant>
+              <enchant level="14" url="/skill/234-robe-mastery/41/3014/eternal" icon="skill0234">M. Def. +12%.</enchant>
+              <enchant level="15" url="/skill/234-robe-mastery/41/3015/eternal" icon="skill0234">M. Def. +13%.</enchant>
+              <enchant level="16" url="/skill/234-robe-mastery/41/3016/eternal" icon="skill0234">M. Def. +13%.</enchant>
+              <enchant level="17" url="/skill/234-robe-mastery/41/3017/eternal" icon="skill0234">M. Def. +14%.</enchant>
+              <enchant level="18" url="/skill/234-robe-mastery/41/3018/eternal" icon="skill0234">M. Def. +15%.</enchant>
+              <enchant level="19" url="/skill/234-robe-mastery/41/3019/eternal" icon="skill0234">M. Def. +16%.</enchant>
+              <enchant level="20" url="/skill/234-robe-mastery/41/3020/eternal" icon="skill0234">M. Def. +17%.</enchant>
+              <enchant level="21" url="/skill/234-robe-mastery/41/3021/eternal" icon="skill0234">M. Def. +17%.</enchant>
+              <enchant level="22" url="/skill/234-robe-mastery/41/3022/eternal" icon="skill0234">M. Def. +18%.</enchant>
+              <enchant level="23" url="/skill/234-robe-mastery/41/3023/eternal" icon="skill0234">M. Def. +19%.</enchant>
+              <enchant level="24" url="/skill/234-robe-mastery/41/3024/eternal" icon="skill0234">M. Def. +20%.</enchant>
+              <enchant level="25" url="/skill/234-robe-mastery/41/3025/eternal" icon="skill0234">M. Def. +21%.</enchant>
+              <enchant level="26" url="/skill/234-robe-mastery/41/3026/eternal" icon="skill0234">M. Def. +21%.</enchant>
+              <enchant level="27" url="/skill/234-robe-mastery/41/3027/eternal" icon="skill0234">M. Def. +22%.</enchant>
+              <enchant level="28" url="/skill/234-robe-mastery/41/3028/eternal" icon="skill0234">M. Def. +23%.</enchant>
+              <enchant level="29" url="/skill/234-robe-mastery/41/3029/eternal" icon="skill0234">M. Def. +24%.</enchant>
+              <enchant level="30" url="/skill/234-robe-mastery/41/3030/eternal" icon="skill0234">M. Def. +25%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="239" name="Expertise D" start_level="1" icon="skill0239" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/239-expertise-d/1">
+          <enchants/>
+        </skill>
+        <skill id="244" name="Armor Mastery" start_level="1" icon="skill0244" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/244-armor-mastery/1">
+          <enchants/>
+        </skill>
+        <skill id="249" name="Weapon Mastery" start_level="1" icon="skill0249" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/249-weapon-mastery/1">
+          <enchants/>
+        </skill>
+        <skill id="1320" name="Create Common Item" start_level="1" icon="skill0172" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1320-create-common-item/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Ability skills">
+        <skill id="118" name="Magician's Movement" start_level="1" icon="skill0118" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/118-magicians-movement/1">
+          <enchants/>
+        </skill>
+        <skill id="146" name="Anti Magic" start_level="1" icon="skill0146" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/146-anti-magic/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/146-anti-magic/45/1001/eternal" icon="skill0146">M. Def. +2, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="2" url="/skill/146-anti-magic/45/1002/eternal" icon="skill0146">M. Def. +6, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="3" url="/skill/146-anti-magic/45/1003/eternal" icon="skill0146">M. Def. +7, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="4" url="/skill/146-anti-magic/45/1004/eternal" icon="skill0146">M. Def. +7, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="5" url="/skill/146-anti-magic/45/1005/eternal" icon="skill0146">M. Def. +8, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="6" url="/skill/146-anti-magic/45/1006/eternal" icon="skill0146">M. Def. +9, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="7" url="/skill/146-anti-magic/45/1007/eternal" icon="skill0146">M. Def. +9, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="8" url="/skill/146-anti-magic/45/1008/eternal" icon="skill0146">M. Def. +10, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="9" url="/skill/146-anti-magic/45/1009/eternal" icon="skill0146">M. Def. +11, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="10" url="/skill/146-anti-magic/45/1010/eternal" icon="skill0146">M. Def. +11, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="11" url="/skill/146-anti-magic/45/1011/eternal" icon="skill0146">M. Def. +12, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="12" url="/skill/146-anti-magic/45/1012/eternal" icon="skill0146">M. Def. +13, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="13" url="/skill/146-anti-magic/45/1013/eternal" icon="skill0146">M. Def. +13, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="14" url="/skill/146-anti-magic/45/1014/eternal" icon="skill0146">M. Def. +14, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="15" url="/skill/146-anti-magic/45/1015/eternal" icon="skill0146">M. Def. +15, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="16" url="/skill/146-anti-magic/45/1016/eternal" icon="skill0146">M. Def. +15, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="17" url="/skill/146-anti-magic/45/1017/eternal" icon="skill0146">M. Def. +16, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="18" url="/skill/146-anti-magic/45/1018/eternal" icon="skill0146">M. Def. +17, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="19" url="/skill/146-anti-magic/45/1019/eternal" icon="skill0146">M. Def. +17, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="20" url="/skill/146-anti-magic/45/1020/eternal" icon="skill0146">M. Def. +18, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="21" url="/skill/146-anti-magic/45/1021/eternal" icon="skill0146">M. Def. +19, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="22" url="/skill/146-anti-magic/45/1022/eternal" icon="skill0146">M. Def. +19, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="23" url="/skill/146-anti-magic/45/1023/eternal" icon="skill0146">M. Def. +20, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="24" url="/skill/146-anti-magic/45/1024/eternal" icon="skill0146">M. Def. +21, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="25" url="/skill/146-anti-magic/45/1025/eternal" icon="skill0146">M. Def. +21, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="26" url="/skill/146-anti-magic/45/1026/eternal" icon="skill0146">M. Def. +22, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="27" url="/skill/146-anti-magic/45/1027/eternal" icon="skill0146">M. Def. +23, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="28" url="/skill/146-anti-magic/45/1028/eternal" icon="skill0146">M. Def. +23, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="29" url="/skill/146-anti-magic/45/1029/eternal" icon="skill0146">M. Def. +24, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="30" url="/skill/146-anti-magic/45/1030/eternal" icon="skill0146">M. Def. +25, Resistance to Magic Damage +5%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="163" name="Spellcraft" start_level="1" icon="skill0163" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/163-spellcraft/1">
+          <enchants/>
+        </skill>
+        <skill id="164" name="Quick Recycle" start_level="1" icon="skill0164" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/164-quick-recycle/1">
+          <enchants/>
+        </skill>
+        <skill id="194" name="Lucky" start_level="1" icon="skill0194" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/194-lucky/1">
+          <enchants/>
+        </skill>
+        <skill id="212" name="Fast HP Recovery" start_level="1" icon="skill0212" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/212-fast-hp-recovery/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/212-fast-hp-recovery/8/1001/eternal" icon="skill0212">Additionally HP Recovery Bonus +0.1.</enchant>
+              <enchant level="2" url="/skill/212-fast-hp-recovery/8/1002/eternal" icon="skill0212">Additionally HP Recovery Bonus +0.2.</enchant>
+              <enchant level="3" url="/skill/212-fast-hp-recovery/8/1003/eternal" icon="skill0212">Additionally HP Recovery Bonus +0.3.</enchant>
+              <enchant level="4" url="/skill/212-fast-hp-recovery/8/1004/eternal" icon="skill0212">Additionally HP Recovery Bonus +0.4.</enchant>
+              <enchant level="5" url="/skill/212-fast-hp-recovery/8/1005/eternal" icon="skill0212">Additionally HP Recovery Bonus +0.5.</enchant>
+              <enchant level="6" url="/skill/212-fast-hp-recovery/8/1006/eternal" icon="skill0212">Additionally HP Recovery Bonus +0.6.</enchant>
+              <enchant level="7" url="/skill/212-fast-hp-recovery/8/1007/eternal" icon="skill0212">Additionally HP Recovery Bonus +0.7.</enchant>
+              <enchant level="8" url="/skill/212-fast-hp-recovery/8/1008/eternal" icon="skill0212">Additionally HP Recovery Bonus +0.8.</enchant>
+              <enchant level="9" url="/skill/212-fast-hp-recovery/8/1009/eternal" icon="skill0212">Additionally HP Recovery Bonus +0.9.</enchant>
+              <enchant level="10" url="/skill/212-fast-hp-recovery/8/1010/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.</enchant>
+              <enchant level="11" url="/skill/212-fast-hp-recovery/8/1011/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.1.</enchant>
+              <enchant level="12" url="/skill/212-fast-hp-recovery/8/1012/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.2.</enchant>
+              <enchant level="13" url="/skill/212-fast-hp-recovery/8/1013/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.3.</enchant>
+              <enchant level="14" url="/skill/212-fast-hp-recovery/8/1014/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.4.</enchant>
+              <enchant level="15" url="/skill/212-fast-hp-recovery/8/1015/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.5.</enchant>
+              <enchant level="16" url="/skill/212-fast-hp-recovery/8/1016/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.6.</enchant>
+              <enchant level="17" url="/skill/212-fast-hp-recovery/8/1017/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.7.</enchant>
+              <enchant level="18" url="/skill/212-fast-hp-recovery/8/1018/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.8.</enchant>
+              <enchant level="19" url="/skill/212-fast-hp-recovery/8/1019/eternal" icon="skill0212">Additionally HP Recovery Bonus +1.9.</enchant>
+              <enchant level="20" url="/skill/212-fast-hp-recovery/8/1020/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.</enchant>
+              <enchant level="21" url="/skill/212-fast-hp-recovery/8/1021/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.1.</enchant>
+              <enchant level="22" url="/skill/212-fast-hp-recovery/8/1022/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.2.</enchant>
+              <enchant level="23" url="/skill/212-fast-hp-recovery/8/1023/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.3.</enchant>
+              <enchant level="24" url="/skill/212-fast-hp-recovery/8/1024/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.4.</enchant>
+              <enchant level="25" url="/skill/212-fast-hp-recovery/8/1025/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.5.</enchant>
+              <enchant level="26" url="/skill/212-fast-hp-recovery/8/1026/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.6.</enchant>
+              <enchant level="27" url="/skill/212-fast-hp-recovery/8/1027/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.7.</enchant>
+              <enchant level="28" url="/skill/212-fast-hp-recovery/8/1028/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.8.</enchant>
+              <enchant level="29" url="/skill/212-fast-hp-recovery/8/1029/eternal" icon="skill0212">Additionally HP Recovery Bonus +2.9.</enchant>
+              <enchant level="30" url="/skill/212-fast-hp-recovery/8/1030/eternal" icon="skill0212">Additionally HP Recovery Bonus +3.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="213" name="Boost Mana" start_level="1" icon="skill0213" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/213-boost-mana/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/213-boost-mana/8/1001/eternal" icon="skill0213">Additionally Max MP +10.</enchant>
+              <enchant level="2" url="/skill/213-boost-mana/8/1002/eternal" icon="skill0213">Additionally Max MP +20.</enchant>
+              <enchant level="3" url="/skill/213-boost-mana/8/1003/eternal" icon="skill0213">Additionally Max MP +30.</enchant>
+              <enchant level="4" url="/skill/213-boost-mana/8/1004/eternal" icon="skill0213">Additionally Max MP +40.</enchant>
+              <enchant level="5" url="/skill/213-boost-mana/8/1005/eternal" icon="skill0213">Additionally Max MP +50.</enchant>
+              <enchant level="6" url="/skill/213-boost-mana/8/1006/eternal" icon="skill0213">Additionally Max MP +60.</enchant>
+              <enchant level="7" url="/skill/213-boost-mana/8/1007/eternal" icon="skill0213">Additionally Max MP +70.</enchant>
+              <enchant level="8" url="/skill/213-boost-mana/8/1008/eternal" icon="skill0213">Additionally Max MP +80.</enchant>
+              <enchant level="9" url="/skill/213-boost-mana/8/1009/eternal" icon="skill0213">Additionally Max MP +90.</enchant>
+              <enchant level="10" url="/skill/213-boost-mana/8/1010/eternal" icon="skill0213">Additionally Max MP +100.</enchant>
+              <enchant level="11" url="/skill/213-boost-mana/8/1011/eternal" icon="skill0213">Additionally Max MP +110.</enchant>
+              <enchant level="12" url="/skill/213-boost-mana/8/1012/eternal" icon="skill0213">Additionally Max MP +120.</enchant>
+              <enchant level="13" url="/skill/213-boost-mana/8/1013/eternal" icon="skill0213">Additionally Max MP +130.</enchant>
+              <enchant level="14" url="/skill/213-boost-mana/8/1014/eternal" icon="skill0213">Additionally Max MP +140.</enchant>
+              <enchant level="15" url="/skill/213-boost-mana/8/1015/eternal" icon="skill0213">Additionally Max MP +150.</enchant>
+              <enchant level="16" url="/skill/213-boost-mana/8/1016/eternal" icon="skill0213">Additionally Max MP +160.</enchant>
+              <enchant level="17" url="/skill/213-boost-mana/8/1017/eternal" icon="skill0213">Additionally Max MP +170.</enchant>
+              <enchant level="18" url="/skill/213-boost-mana/8/1018/eternal" icon="skill0213">Additionally Max MP +180.</enchant>
+              <enchant level="19" url="/skill/213-boost-mana/8/1019/eternal" icon="skill0213">Additionally Max MP +190.</enchant>
+              <enchant level="20" url="/skill/213-boost-mana/8/1020/eternal" icon="skill0213">Additionally Max MP +200.</enchant>
+              <enchant level="21" url="/skill/213-boost-mana/8/1021/eternal" icon="skill0213">Additionally Max MP +210.</enchant>
+              <enchant level="22" url="/skill/213-boost-mana/8/1022/eternal" icon="skill0213">Additionally Max MP +220.</enchant>
+              <enchant level="23" url="/skill/213-boost-mana/8/1023/eternal" icon="skill0213">Additionally Max MP +230.</enchant>
+              <enchant level="24" url="/skill/213-boost-mana/8/1024/eternal" icon="skill0213">Additionally Max MP +240.</enchant>
+              <enchant level="25" url="/skill/213-boost-mana/8/1025/eternal" icon="skill0213">Additionally Max MP +250.</enchant>
+              <enchant level="26" url="/skill/213-boost-mana/8/1026/eternal" icon="skill0213">Additionally Max MP +260.</enchant>
+              <enchant level="27" url="/skill/213-boost-mana/8/1027/eternal" icon="skill0213">Additionally Max MP +270.</enchant>
+              <enchant level="28" url="/skill/213-boost-mana/8/1028/eternal" icon="skill0213">Additionally Max MP +280.</enchant>
+              <enchant level="29" url="/skill/213-boost-mana/8/1029/eternal" icon="skill0213">Additionally Max MP +290.</enchant>
+              <enchant level="30" url="/skill/213-boost-mana/8/1030/eternal" icon="skill0213">Additionally Max MP +300.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="214" name="Mana Recovery" start_level="1" icon="skill0214" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/214-mana-recovery/1">
+          <enchants/>
+        </skill>
+        <skill id="228" name="Fast Spell Casting" start_level="1" icon="skill0228" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/228-fast-spell-casting/1">
+          <enchants>
+            <group type="cast_spd">
+              <enchant level="1" url="/skill/228-fast-spell-casting/3/1001/eternal" icon="skill0228">Cast. Spd. +0.1%.</enchant>
+              <enchant level="2" url="/skill/228-fast-spell-casting/3/1002/eternal" icon="skill0228">Cast. Spd. +0.2%.</enchant>
+              <enchant level="3" url="/skill/228-fast-spell-casting/3/1003/eternal" icon="skill0228">Cast. Spd. +0.3%.</enchant>
+              <enchant level="4" url="/skill/228-fast-spell-casting/3/1004/eternal" icon="skill0228">Cast. Spd. +0.4%.</enchant>
+              <enchant level="5" url="/skill/228-fast-spell-casting/3/1005/eternal" icon="skill0228">Cast. Spd. +0.5%.</enchant>
+              <enchant level="6" url="/skill/228-fast-spell-casting/3/1006/eternal" icon="skill0228">Cast. Spd. +0.6%.</enchant>
+              <enchant level="7" url="/skill/228-fast-spell-casting/3/1007/eternal" icon="skill0228">Cast. Spd. +0.7%.</enchant>
+              <enchant level="8" url="/skill/228-fast-spell-casting/3/1008/eternal" icon="skill0228">Cast. Spd. +0.8%.</enchant>
+              <enchant level="9" url="/skill/228-fast-spell-casting/3/1009/eternal" icon="skill0228">Cast. Spd. +0.9%.</enchant>
+              <enchant level="10" url="/skill/228-fast-spell-casting/3/1010/eternal" icon="skill0228">Cast. Spd. +1%.</enchant>
+              <enchant level="11" url="/skill/228-fast-spell-casting/3/1011/eternal" icon="skill0228">Cast. Spd. +1.1%.</enchant>
+              <enchant level="12" url="/skill/228-fast-spell-casting/3/1012/eternal" icon="skill0228">Cast. Spd. +1.2%.</enchant>
+              <enchant level="13" url="/skill/228-fast-spell-casting/3/1013/eternal" icon="skill0228">Cast. Spd. +1.3%.</enchant>
+              <enchant level="14" url="/skill/228-fast-spell-casting/3/1014/eternal" icon="skill0228">Cast. Spd. +1.4%.</enchant>
+              <enchant level="15" url="/skill/228-fast-spell-casting/3/1015/eternal" icon="skill0228">Cast. Spd. +1.5%.</enchant>
+              <enchant level="16" url="/skill/228-fast-spell-casting/3/1016/eternal" icon="skill0228">Cast. Spd. +1.6%.</enchant>
+              <enchant level="17" url="/skill/228-fast-spell-casting/3/1017/eternal" icon="skill0228">Cast. Spd. +1.7%.</enchant>
+              <enchant level="18" url="/skill/228-fast-spell-casting/3/1018/eternal" icon="skill0228">Cast. Spd. +1.8%.</enchant>
+              <enchant level="19" url="/skill/228-fast-spell-casting/3/1019/eternal" icon="skill0228">Cast. Spd. +1.9%.</enchant>
+              <enchant level="20" url="/skill/228-fast-spell-casting/3/1020/eternal" icon="skill0228">Cast. Spd. +2%.</enchant>
+              <enchant level="21" url="/skill/228-fast-spell-casting/3/1021/eternal" icon="skill0228">Cast. Spd. +2.1%.</enchant>
+              <enchant level="22" url="/skill/228-fast-spell-casting/3/1022/eternal" icon="skill0228">Cast. Spd. +2.2%.</enchant>
+              <enchant level="23" url="/skill/228-fast-spell-casting/3/1023/eternal" icon="skill0228">Cast. Spd. +2.3%.</enchant>
+              <enchant level="24" url="/skill/228-fast-spell-casting/3/1024/eternal" icon="skill0228">Cast. Spd. +2.4%.</enchant>
+              <enchant level="25" url="/skill/228-fast-spell-casting/3/1025/eternal" icon="skill0228">Cast. Spd. +2.5%.</enchant>
+              <enchant level="26" url="/skill/228-fast-spell-casting/3/1026/eternal" icon="skill0228">Cast. Spd. +2.6%.</enchant>
+              <enchant level="27" url="/skill/228-fast-spell-casting/3/1027/eternal" icon="skill0228">Cast. Spd. +2.7%.</enchant>
+              <enchant level="28" url="/skill/228-fast-spell-casting/3/1028/eternal" icon="skill0228">Cast. Spd. +2.8%.</enchant>
+              <enchant level="29" url="/skill/228-fast-spell-casting/3/1029/eternal" icon="skill0228">Cast. Spd. +2.9%.</enchant>
+              <enchant level="30" url="/skill/228-fast-spell-casting/3/1030/eternal" icon="skill0228">Cast. Spd. +3%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="229" name="Fast Mana Recovery" start_level="1" icon="skill0229" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/229-fast-mana-recovery/1">
+          <enchants>
+            <group type="mp_recovery">
+              <enchant level="1" url="/skill/229-fast-mana-recovery/7/1001/eternal" icon="skill0229">Increases MP Recovery Bonus by 0.15.</enchant>
+              <enchant level="2" url="/skill/229-fast-mana-recovery/7/1002/eternal" icon="skill0229">Increases MP Recovery Bonus by 0.30.</enchant>
+              <enchant level="3" url="/skill/229-fast-mana-recovery/7/1003/eternal" icon="skill0229">Increases MP Recovery Bonus by 0.45.</enchant>
+              <enchant level="4" url="/skill/229-fast-mana-recovery/7/1004/eternal" icon="skill0229">Increases MP Recovery Bonus by 0.60.</enchant>
+              <enchant level="5" url="/skill/229-fast-mana-recovery/7/1005/eternal" icon="skill0229">Increases MP Recovery Bonus by 0.75.</enchant>
+              <enchant level="6" url="/skill/229-fast-mana-recovery/7/1006/eternal" icon="skill0229">Increases MP Recovery Bonus by 0.90.</enchant>
+              <enchant level="7" url="/skill/229-fast-mana-recovery/7/1007/eternal" icon="skill0229">Increases MP Recovery Bonus by 1.05.</enchant>
+              <enchant level="8" url="/skill/229-fast-mana-recovery/7/1008/eternal" icon="skill0229">Increases MP Recovery Bonus by 1.20.</enchant>
+              <enchant level="9" url="/skill/229-fast-mana-recovery/7/1009/eternal" icon="skill0229">Increases MP Recovery Bonus by 1.35.</enchant>
+              <enchant level="10" url="/skill/229-fast-mana-recovery/7/1010/eternal" icon="skill0229">Increases MP Recovery Bonus by 1.50.</enchant>
+              <enchant level="11" url="/skill/229-fast-mana-recovery/7/1011/eternal" icon="skill0229">Increases MP Recovery Bonus by 1.65.</enchant>
+              <enchant level="12" url="/skill/229-fast-mana-recovery/7/1012/eternal" icon="skill0229">Increases MP Recovery Bonus by 1.80.</enchant>
+              <enchant level="13" url="/skill/229-fast-mana-recovery/7/1013/eternal" icon="skill0229">Increases MP Recovery Bonus by 1.95.</enchant>
+              <enchant level="14" url="/skill/229-fast-mana-recovery/7/1014/eternal" icon="skill0229">Increases MP Recovery Bonus by 2.10.</enchant>
+              <enchant level="15" url="/skill/229-fast-mana-recovery/7/1015/eternal" icon="skill0229">Increases MP Recovery Bonus by 2.25.</enchant>
+              <enchant level="16" url="/skill/229-fast-mana-recovery/7/1016/eternal" icon="skill0229">Increases MP Recovery Bonus by 2.40.</enchant>
+              <enchant level="17" url="/skill/229-fast-mana-recovery/7/1017/eternal" icon="skill0229">Increases MP Recovery Bonus by 2.55.</enchant>
+              <enchant level="18" url="/skill/229-fast-mana-recovery/7/1018/eternal" icon="skill0229">Increases MP Recovery Bonus by 2.70.</enchant>
+              <enchant level="19" url="/skill/229-fast-mana-recovery/7/1019/eternal" icon="skill0229">Increases MP Recovery Bonus by 2.85.</enchant>
+              <enchant level="20" url="/skill/229-fast-mana-recovery/7/1020/eternal" icon="skill0229">Increases MP Recovery Bonus by 3.00.</enchant>
+              <enchant level="21" url="/skill/229-fast-mana-recovery/7/1021/eternal" icon="skill0229">Increases MP Recovery Bonus by 3.15.</enchant>
+              <enchant level="22" url="/skill/229-fast-mana-recovery/7/1022/eternal" icon="skill0229">Increases MP Recovery Bonus by 3.30.</enchant>
+              <enchant level="23" url="/skill/229-fast-mana-recovery/7/1023/eternal" icon="skill0229">Increases MP Recovery Bonus by 3.45.</enchant>
+              <enchant level="24" url="/skill/229-fast-mana-recovery/7/1024/eternal" icon="skill0229">Increases MP Recovery Bonus by 3.60.</enchant>
+              <enchant level="25" url="/skill/229-fast-mana-recovery/7/1025/eternal" icon="skill0229">Increases MP Recovery Bonus by 3.75.</enchant>
+              <enchant level="26" url="/skill/229-fast-mana-recovery/7/1026/eternal" icon="skill0229">Increases MP Recovery Bonus by 3.90.</enchant>
+              <enchant level="27" url="/skill/229-fast-mana-recovery/7/1027/eternal" icon="skill0229">Increases MP Recovery Bonus by 4.05.</enchant>
+              <enchant level="28" url="/skill/229-fast-mana-recovery/7/1028/eternal" icon="skill0229">Increases MP Recovery Bonus by 4.20.</enchant>
+              <enchant level="29" url="/skill/229-fast-mana-recovery/7/1029/eternal" icon="skill0229">Increases MP Recovery Bonus by 4.35.</enchant>
+              <enchant level="30" url="/skill/229-fast-mana-recovery/7/1030/eternal" icon="skill0229">Increases MP Recovery Bonus by 4.60.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="285" name="Higher Mana Gain" start_level="1" icon="skill0285" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/285-higher-mana-gain/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/285-higher-mana-gain/27/1001/eternal" icon="skill0285">MP Recovery Bonus +1.</enchant>
+              <enchant level="2" url="/skill/285-higher-mana-gain/27/1002/eternal" icon="skill0285">MP Recovery Bonus +1.</enchant>
+              <enchant level="3" url="/skill/285-higher-mana-gain/27/1003/eternal" icon="skill0285">MP Recovery Bonus +2.</enchant>
+              <enchant level="4" url="/skill/285-higher-mana-gain/27/1004/eternal" icon="skill0285">MP Recovery Bonus +2.</enchant>
+              <enchant level="5" url="/skill/285-higher-mana-gain/27/1005/eternal" icon="skill0285">MP Recovery Bonus +3.</enchant>
+              <enchant level="6" url="/skill/285-higher-mana-gain/27/1006/eternal" icon="skill0285">MP Recovery Bonus +3.</enchant>
+              <enchant level="7" url="/skill/285-higher-mana-gain/27/1007/eternal" icon="skill0285">MP Recovery Bonus +4.</enchant>
+              <enchant level="8" url="/skill/285-higher-mana-gain/27/1008/eternal" icon="skill0285">MP Recovery Bonus +4.</enchant>
+              <enchant level="9" url="/skill/285-higher-mana-gain/27/1009/eternal" icon="skill0285">MP Recovery Bonus +5.</enchant>
+              <enchant level="10" url="/skill/285-higher-mana-gain/27/1010/eternal" icon="skill0285">MP Recovery Bonus +5.</enchant>
+              <enchant level="11" url="/skill/285-higher-mana-gain/27/1011/eternal" icon="skill0285">MP Recovery Bonus +6.</enchant>
+              <enchant level="12" url="/skill/285-higher-mana-gain/27/1012/eternal" icon="skill0285">MP Recovery Bonus +6.</enchant>
+              <enchant level="13" url="/skill/285-higher-mana-gain/27/1013/eternal" icon="skill0285">MP Recovery Bonus +7.</enchant>
+              <enchant level="14" url="/skill/285-higher-mana-gain/27/1014/eternal" icon="skill0285">MP Recovery Bonus +7.</enchant>
+              <enchant level="15" url="/skill/285-higher-mana-gain/27/1015/eternal" icon="skill0285">MP Recovery Bonus +8.</enchant>
+              <enchant level="16" url="/skill/285-higher-mana-gain/27/1016/eternal" icon="skill0285">MP Recovery Bonus +8.</enchant>
+              <enchant level="17" url="/skill/285-higher-mana-gain/27/1017/eternal" icon="skill0285">MP Recovery Bonus +8.</enchant>
+              <enchant level="18" url="/skill/285-higher-mana-gain/27/1018/eternal" icon="skill0285">MP Recovery Bonus +9.</enchant>
+              <enchant level="19" url="/skill/285-higher-mana-gain/27/1019/eternal" icon="skill0285">MP Recovery Bonus +9.</enchant>
+              <enchant level="20" url="/skill/285-higher-mana-gain/27/1020/eternal" icon="skill0285">MP Recovery Bonus +9.</enchant>
+              <enchant level="21" url="/skill/285-higher-mana-gain/27/1021/eternal" icon="skill0285">MP Recovery Bonus +10.</enchant>
+              <enchant level="22" url="/skill/285-higher-mana-gain/27/1022/eternal" icon="skill0285">MP Recovery Bonus +10.</enchant>
+              <enchant level="23" url="/skill/285-higher-mana-gain/27/1023/eternal" icon="skill0285">MP Recovery Bonus +10.</enchant>
+              <enchant level="24" url="/skill/285-higher-mana-gain/27/1024/eternal" icon="skill0285">MP Recovery Bonus +11.</enchant>
+              <enchant level="25" url="/skill/285-higher-mana-gain/27/1025/eternal" icon="skill0285">MP Recovery Bonus +11.</enchant>
+              <enchant level="26" url="/skill/285-higher-mana-gain/27/1026/eternal" icon="skill0285">MP Recovery Bonus +12.</enchant>
+              <enchant level="27" url="/skill/285-higher-mana-gain/27/1027/eternal" icon="skill0285">MP Recovery Bonus +12.</enchant>
+              <enchant level="28" url="/skill/285-higher-mana-gain/27/1028/eternal" icon="skill0285">MP Recovery Bonus +13.</enchant>
+              <enchant level="29" url="/skill/285-higher-mana-gain/27/1029/eternal" icon="skill0285">MP Recovery Bonus +13.</enchant>
+              <enchant level="30" url="/skill/285-higher-mana-gain/27/1030/eternal" icon="skill0285">MP Recovery Bonus +14.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="24326" name="PvE Clarity" start_level="1" icon="skill14212" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/24326-pve-clarity/1">
+          <enchants/>
+        </skill>
+      </category>
+    </skills>
+  </skills_summary>
+  <skills>
+    <level number="20">
+      <skill id="25234" name="Magic Firework" level="1" icon_name="etc_allstat_talisman_i00" url="https://wikipedia1.mw2.wiki/skill/25234-magic-firework/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/etc_allstat_talisman_i00.png" note="Automatic learning"/>
+      <skill id="1227" name="Summon Mirage the Unicorn" level="1" icon_name="skill1227" url="https://wikipedia1.mw2.wiki/skill/1227-summon-mirage-the-unicorn/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1227.png" note="Automatic learning"/>
+      <skill id="1226" name="Summon Boxer the Unicorn" level="1" icon_name="skill1226" url="https://wikipedia1.mw2.wiki/skill/1226-summon-boxer-the-unicorn/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1226.png" note="Automatic learning"/>
+      <skill id="1127" name="Servitor Heal" level="1" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="234" name="Robe Mastery" level="1" icon_name="skill0234" url="https://wikipedia1.mw2.wiki/skill/234-robe-mastery/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0234.png" note="Automatic learning"/>
+      <skill id="1184" name="Ice Bolt" level="5" icon_name="skill1184" url="https://wikipedia1.mw2.wiki/skill/1184-ice-bolt/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1184.png" note="Automatic learning"/>
+      <skill id="285" name="Higher Mana Gain" level="1" icon_name="skill0285" url="https://wikipedia1.mw2.wiki/skill/285-higher-mana-gain/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0285.png" note="Automatic learning"/>
+      <skill id="1181" name="Flame Strike" level="1" icon_name="skill1181" url="https://wikipedia1.mw2.wiki/skill/1181-flame-strike/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1181.png" note="Automatic learning"/>
+      <skill id="164" name="Quick Recycle" level="1" icon_name="skill0164" url="https://wikipedia1.mw2.wiki/skill/164-quick-recycle/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0164.png" note="Automatic learning"/>
+      <skill id="1274" name="Energy Bolt" level="1" icon_name="skill1274" url="https://wikipedia1.mw2.wiki/skill/1274-energy-bolt/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1274.png" note="Automatic learning"/>
+      <skill id="1164" name="Curse Weakness" level="2" icon_name="skill1164" url="https://wikipedia1.mw2.wiki/skill/1164-curse-weakness/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1164.png" note="Automatic learning"/>
+      <skill id="1078" name="Concentration" level="1" icon_name="skill1078" url="https://wikipedia1.mw2.wiki/skill/1078-concentration/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1078.png" note="Automatic learning"/>
+      <skill id="1206" name="Wind Shackle" level="2" icon_name="skill1206" url="https://wikipedia1.mw2.wiki/skill/1206-wind-shackle/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1206.png" note="Automatic learning"/>
+      <skill id="213" name="Boost Mana" level="1" icon_name="skill0213" url="https://wikipedia1.mw2.wiki/skill/213-boost-mana/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0213.png" note="Automatic learning"/>
+      <skill id="1172" name="Aura Burn" level="1" icon_name="skill1172" url="https://wikipedia1.mw2.wiki/skill/1172-aura-burn/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1172.png" note="Automatic learning"/>
+      <skill id="1175" name="Aqua Swirl" level="1" icon_name="skill1175" url="https://wikipedia1.mw2.wiki/skill/1175-aqua-swirl/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1175.png" note="Automatic learning"/>
+      <skill id="146" name="Anti Magic" level="5" icon_name="skill0146" url="https://wikipedia1.mw2.wiki/skill/146-anti-magic/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0146.png" note="Automatic learning"/>
+      <skill id="249" name="Weapon Mastery" level="3" icon_name="skill0249" url="https://wikipedia1.mw2.wiki/skill/249-weapon-mastery/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0249.png" note="Automatic learning"/>
+    </level>
+    <level number="21">
+      <skill id="1127" name="Servitor Heal" level="2" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+    </level>
+    <level number="22">
+      <skill id="146" name="Anti Magic" level="6" icon_name="skill0146" url="https://wikipedia1.mw2.wiki/skill/146-anti-magic/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0146.png" note="Automatic learning"/>
+      <skill id="1175" name="Aqua Swirl" level="2" icon_name="skill1175" url="https://wikipedia1.mw2.wiki/skill/1175-aqua-swirl/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1175.png" note="Automatic learning"/>
+      <skill id="1172" name="Aura Burn" level="2" icon_name="skill1172" url="https://wikipedia1.mw2.wiki/skill/1172-aura-burn/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1172.png" note="Automatic learning"/>
+      <skill id="285" name="Higher Mana Gain" level="2" icon_name="skill0285" url="https://wikipedia1.mw2.wiki/skill/285-higher-mana-gain/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0285.png" note="Automatic learning"/>
+      <skill id="234" name="Robe Mastery" level="2" icon_name="skill0234" url="https://wikipedia1.mw2.wiki/skill/234-robe-mastery/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0234.png" note="Automatic learning"/>
+    </level>
+    <level number="23">
+      <skill id="1184" name="Ice Bolt" level="6" icon_name="skill1184" url="https://wikipedia1.mw2.wiki/skill/1184-ice-bolt/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1184.png" note="Automatic learning"/>
+      <skill id="1127" name="Servitor Heal" level="3" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+    </level>
+    <level number="25">
+      <skill id="146" name="Anti Magic" level="7" icon_name="skill0146" url="https://wikipedia1.mw2.wiki/skill/146-anti-magic/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0146.png" note="Automatic learning"/>
+      <skill id="1069" name="Sleep" level="1" icon_name="skill1069" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1069.png" note="Automatic learning"/>
+      <skill id="1126" name="Servitor Recharge" level="1" icon_name="skill1126" url="https://wikipedia1.mw2.wiki/skill/1126-servitor-recharge/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1126.png" note="Automatic learning"/>
+      <skill id="229" name="Fast Mana Recovery" level="1" icon_name="skill0229" url="https://wikipedia1.mw2.wiki/skill/229-fast-mana-recovery/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0229.png" note="Automatic learning"/>
+      <skill id="228" name="Fast Spell Casting" level="1" icon_name="skill0228" url="https://wikipedia1.mw2.wiki/skill/228-fast-spell-casting/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0228.png" note="Automatic learning"/>
+      <skill id="249" name="Weapon Mastery" level="4" icon_name="skill0249" url="https://wikipedia1.mw2.wiki/skill/249-weapon-mastery/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0249.png" note="Automatic learning"/>
+      <skill id="1227" name="Summon Mirage the Unicorn" level="2" icon_name="skill1227" url="https://wikipedia1.mw2.wiki/skill/1227-summon-mirage-the-unicorn/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1227.png" note="Automatic learning"/>
+      <skill id="1226" name="Summon Boxer the Unicorn" level="2" icon_name="skill1226" url="https://wikipedia1.mw2.wiki/skill/1226-summon-boxer-the-unicorn/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1226.png" note="Automatic learning"/>
+      <skill id="1127" name="Servitor Heal" level="4" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="234" name="Robe Mastery" level="3" icon_name="skill0234" url="https://wikipedia1.mw2.wiki/skill/234-robe-mastery/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0234.png" note="Automatic learning"/>
+      <skill id="285" name="Higher Mana Gain" level="3" icon_name="skill0285" url="https://wikipedia1.mw2.wiki/skill/285-higher-mana-gain/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0285.png" note="Automatic learning"/>
+      <skill id="1181" name="Flame Strike" level="2" icon_name="skill1181" url="https://wikipedia1.mw2.wiki/skill/1181-flame-strike/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1181.png" note="Automatic learning"/>
+      <skill id="1274" name="Energy Bolt" level="2" icon_name="skill1274" url="https://wikipedia1.mw2.wiki/skill/1274-energy-bolt/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1274.png" note="Automatic learning"/>
+      <skill id="1164" name="Curse Weakness" level="3" icon_name="skill1164" url="https://wikipedia1.mw2.wiki/skill/1164-curse-weakness/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1164.png" note="Automatic learning"/>
+      <skill id="1206" name="Wind Shackle" level="3" icon_name="skill1206" url="https://wikipedia1.mw2.wiki/skill/1206-wind-shackle/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1206.png" note="Automatic learning"/>
+      <skill id="1172" name="Aura Burn" level="3" icon_name="skill1172" url="https://wikipedia1.mw2.wiki/skill/1172-aura-burn/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1172.png" note="Automatic learning"/>
+      <skill id="1175" name="Aqua Swirl" level="3" icon_name="skill1175" url="https://wikipedia1.mw2.wiki/skill/1175-aqua-swirl/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1175.png" note="Automatic learning"/>
+      <skill id="1264" name="Solar Spark" level="1" icon_name="skill1264" url="https://wikipedia1.mw2.wiki/skill/1264-solar-spark/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1264.png" note="Automatic learning"/>
+    </level>
+    <level number="26">
+      <skill id="1127" name="Servitor Heal" level="5" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="1069" name="Sleep" level="2" icon_name="skill1069" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1069.png" note="Automatic learning"/>
+    </level>
+    <level number="27">
+      <skill id="146" name="Anti Magic" level="8" icon_name="skill0146" url="https://wikipedia1.mw2.wiki/skill/146-anti-magic/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0146.png" note="Automatic learning"/>
+      <skill id="1175" name="Aqua Swirl" level="4" icon_name="skill1175" url="https://wikipedia1.mw2.wiki/skill/1175-aqua-swirl/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1175.png" note="Automatic learning"/>
+      <skill id="1172" name="Aura Burn" level="4" icon_name="skill1172" url="https://wikipedia1.mw2.wiki/skill/1172-aura-burn/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1172.png" note="Automatic learning"/>
+      <skill id="285" name="Higher Mana Gain" level="4" icon_name="skill0285" url="https://wikipedia1.mw2.wiki/skill/285-higher-mana-gain/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0285.png" note="Automatic learning"/>
+      <skill id="234" name="Robe Mastery" level="4" icon_name="skill0234" url="https://wikipedia1.mw2.wiki/skill/234-robe-mastery/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0234.png" note="Automatic learning"/>
+      <skill id="249" name="Weapon Mastery" level="5" icon_name="skill0249" url="https://wikipedia1.mw2.wiki/skill/249-weapon-mastery/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0249.png" note="Automatic learning"/>
+      <skill id="1126" name="Servitor Recharge" level="2" icon_name="skill1126" url="https://wikipedia1.mw2.wiki/skill/1126-servitor-recharge/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1126.png" note="Automatic learning"/>
+    </level>
+    <level number="28">
+      <skill id="1127" name="Servitor Heal" level="6" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="1069" name="Sleep" level="3" icon_name="skill1069" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1069.png" note="Automatic learning"/>
+    </level>
+    <level number="30">
+      <skill id="146" name="Anti Magic" level="9" icon_name="skill0146" url="https://wikipedia1.mw2.wiki/skill/146-anti-magic/9/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0146.png" note="Automatic learning"/>
+      <skill id="1069" name="Sleep" level="4" icon_name="skill1069" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1069.png" note="Automatic learning"/>
+      <skill id="1126" name="Servitor Recharge" level="3" icon_name="skill1126" url="https://wikipedia1.mw2.wiki/skill/1126-servitor-recharge/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1126.png" note="Automatic learning"/>
+      <skill id="249" name="Weapon Mastery" level="6" icon_name="skill0249" url="https://wikipedia1.mw2.wiki/skill/249-weapon-mastery/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0249.png" note="Automatic learning"/>
+      <skill id="1227" name="Summon Mirage the Unicorn" level="3" icon_name="skill1227" url="https://wikipedia1.mw2.wiki/skill/1227-summon-mirage-the-unicorn/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1227.png" note="Automatic learning"/>
+      <skill id="1226" name="Summon Boxer the Unicorn" level="3" icon_name="skill1226" url="https://wikipedia1.mw2.wiki/skill/1226-summon-boxer-the-unicorn/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1226.png" note="Automatic learning"/>
+      <skill id="1127" name="Servitor Heal" level="7" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="234" name="Robe Mastery" level="5" icon_name="skill0234" url="https://wikipedia1.mw2.wiki/skill/234-robe-mastery/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0234.png" note="Automatic learning"/>
+      <skill id="285" name="Higher Mana Gain" level="5" icon_name="skill0285" url="https://wikipedia1.mw2.wiki/skill/285-higher-mana-gain/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0285.png" note="Automatic learning"/>
+      <skill id="1181" name="Flame Strike" level="3" icon_name="skill1181" url="https://wikipedia1.mw2.wiki/skill/1181-flame-strike/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1181.png" note="Automatic learning"/>
+      <skill id="164" name="Quick Recycle" level="2" icon_name="skill0164" url="https://wikipedia1.mw2.wiki/skill/164-quick-recycle/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0164.png" note="Automatic learning"/>
+      <skill id="1274" name="Energy Bolt" level="3" icon_name="skill1274" url="https://wikipedia1.mw2.wiki/skill/1274-energy-bolt/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1274.png" note="Automatic learning"/>
+      <skill id="1164" name="Curse Weakness" level="4" icon_name="skill1164" url="https://wikipedia1.mw2.wiki/skill/1164-curse-weakness/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1164.png" note="Automatic learning"/>
+      <skill id="1078" name="Concentration" level="2" icon_name="skill1078" url="https://wikipedia1.mw2.wiki/skill/1078-concentration/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1078.png" note="Automatic learning"/>
+      <skill id="1206" name="Wind Shackle" level="4" icon_name="skill1206" url="https://wikipedia1.mw2.wiki/skill/1206-wind-shackle/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1206.png" note="Automatic learning"/>
+      <skill id="213" name="Boost Mana" level="2" icon_name="skill0213" url="https://wikipedia1.mw2.wiki/skill/213-boost-mana/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0213.png" note="Automatic learning"/>
+      <skill id="1172" name="Aura Burn" level="5" icon_name="skill1172" url="https://wikipedia1.mw2.wiki/skill/1172-aura-burn/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1172.png" note="Automatic learning"/>
+      <skill id="1175" name="Aqua Swirl" level="5" icon_name="skill1175" url="https://wikipedia1.mw2.wiki/skill/1175-aqua-swirl/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1175.png" note="Automatic learning"/>
+      <skill id="1264" name="Solar Spark" level="2" icon_name="skill1264" url="https://wikipedia1.mw2.wiki/skill/1264-solar-spark/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1264.png" note="Automatic learning"/>
+    </level>
+    <level number="31">
+      <skill id="1127" name="Servitor Heal" level="8" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="1069" name="Sleep" level="5" icon_name="skill1069" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1069.png" note="Automatic learning"/>
+    </level>
+    <level number="32">
+      <skill id="146" name="Anti Magic" level="10" icon_name="skill0146" url="https://wikipedia1.mw2.wiki/skill/146-anti-magic/10/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0146.png" note="Automatic learning"/>
+      <skill id="1175" name="Aqua Swirl" level="6" icon_name="skill1175" url="https://wikipedia1.mw2.wiki/skill/1175-aqua-swirl/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1175.png" note="Automatic learning"/>
+      <skill id="1172" name="Aura Burn" level="6" icon_name="skill1172" url="https://wikipedia1.mw2.wiki/skill/1172-aura-burn/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1172.png" note="Automatic learning"/>
+      <skill id="285" name="Higher Mana Gain" level="6" icon_name="skill0285" url="https://wikipedia1.mw2.wiki/skill/285-higher-mana-gain/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0285.png" note="Automatic learning"/>
+      <skill id="234" name="Robe Mastery" level="6" icon_name="skill0234" url="https://wikipedia1.mw2.wiki/skill/234-robe-mastery/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0234.png" note="Automatic learning"/>
+      <skill id="249" name="Weapon Mastery" level="7" icon_name="skill0249" url="https://wikipedia1.mw2.wiki/skill/249-weapon-mastery/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0249.png" note="Automatic learning"/>
+      <skill id="1126" name="Servitor Recharge" level="4" icon_name="skill1126" url="https://wikipedia1.mw2.wiki/skill/1126-servitor-recharge/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1126.png" note="Automatic learning"/>
+    </level>
+    <level number="33">
+      <skill id="1127" name="Servitor Heal" level="9" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/9/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="1069" name="Sleep" level="6" icon_name="skill1069" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1069.png" note="Automatic learning"/>
+    </level>
+    <level number="35">
+      <skill id="146" name="Anti Magic" level="11" icon_name="skill0146" url="https://wikipedia1.mw2.wiki/skill/146-anti-magic/11/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0146.png" note="Automatic learning"/>
+      <skill id="212" name="Fast HP Recovery" level="1" icon_name="skill0212" url="https://wikipedia1.mw2.wiki/skill/212-fast-hp-recovery/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0212.png" note="Automatic learning"/>
+      <skill id="1145" name="Bright Servitor" level="1" icon_name="skill1145" url="https://wikipedia1.mw2.wiki/skill/1145-bright-servitor/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1145.png" note="Automatic learning"/>
+      <skill id="1264" name="Solar Spark" level="3" icon_name="skill1264" url="https://wikipedia1.mw2.wiki/skill/1264-solar-spark/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1264.png" note="Automatic learning"/>
+      <skill id="1069" name="Sleep" level="7" icon_name="skill1069" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1069.png" note="Automatic learning"/>
+      <skill id="1126" name="Servitor Recharge" level="5" icon_name="skill1126" url="https://wikipedia1.mw2.wiki/skill/1126-servitor-recharge/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1126.png" note="Automatic learning"/>
+      <skill id="229" name="Fast Mana Recovery" level="2" icon_name="skill0229" url="https://wikipedia1.mw2.wiki/skill/229-fast-mana-recovery/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0229.png" note="Automatic learning"/>
+      <skill id="249" name="Weapon Mastery" level="8" icon_name="skill0249" url="https://wikipedia1.mw2.wiki/skill/249-weapon-mastery/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0249.png" note="Automatic learning"/>
+      <skill id="1227" name="Summon Mirage the Unicorn" level="4" icon_name="skill1227" url="https://wikipedia1.mw2.wiki/skill/1227-summon-mirage-the-unicorn/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1227.png" note="Automatic learning"/>
+      <skill id="1226" name="Summon Boxer the Unicorn" level="4" icon_name="skill1226" url="https://wikipedia1.mw2.wiki/skill/1226-summon-boxer-the-unicorn/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1226.png" note="Automatic learning"/>
+      <skill id="1127" name="Servitor Heal" level="10" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/10/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="234" name="Robe Mastery" level="7" icon_name="skill0234" url="https://wikipedia1.mw2.wiki/skill/234-robe-mastery/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0234.png" note="Automatic learning"/>
+      <skill id="285" name="Higher Mana Gain" level="7" icon_name="skill0285" url="https://wikipedia1.mw2.wiki/skill/285-higher-mana-gain/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0285.png" note="Automatic learning"/>
+      <skill id="1274" name="Energy Bolt" level="4" icon_name="skill1274" url="https://wikipedia1.mw2.wiki/skill/1274-energy-bolt/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1274.png" note="Automatic learning"/>
+      <skill id="1164" name="Curse Weakness" level="5" icon_name="skill1164" url="https://wikipedia1.mw2.wiki/skill/1164-curse-weakness/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1164.png" note="Automatic learning"/>
+      <skill id="1206" name="Wind Shackle" level="5" icon_name="skill1206" url="https://wikipedia1.mw2.wiki/skill/1206-wind-shackle/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1206.png" note="Automatic learning"/>
+      <skill id="1172" name="Aura Burn" level="7" icon_name="skill1172" url="https://wikipedia1.mw2.wiki/skill/1172-aura-burn/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1172.png" note="Automatic learning"/>
+      <skill id="1175" name="Aqua Swirl" level="7" icon_name="skill1175" url="https://wikipedia1.mw2.wiki/skill/1175-aqua-swirl/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1175.png" note="Automatic learning"/>
+      <skill id="1223" name="Surrender to Earth" level="1" icon_name="skill1223" url="https://wikipedia1.mw2.wiki/skill/1223-surrender-to-earth/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1223.png" note="Automatic learning"/>
+    </level>
+    <level number="36">
+      <skill id="1127" name="Servitor Heal" level="11" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/11/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="1069" name="Sleep" level="8" icon_name="skill1069" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1069.png" note="Automatic learning"/>
+    </level>
+    <level number="37">
+      <skill id="146" name="Anti Magic" level="12" icon_name="skill0146" url="https://wikipedia1.mw2.wiki/skill/146-anti-magic/12/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0146.png" note="Automatic learning"/>
+      <skill id="1175" name="Aqua Swirl" level="8" icon_name="skill1175" url="https://wikipedia1.mw2.wiki/skill/1175-aqua-swirl/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1175.png" note="Automatic learning"/>
+      <skill id="1172" name="Aura Burn" level="8" icon_name="skill1172" url="https://wikipedia1.mw2.wiki/skill/1172-aura-burn/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1172.png" note="Automatic learning"/>
+      <skill id="285" name="Higher Mana Gain" level="8" icon_name="skill0285" url="https://wikipedia1.mw2.wiki/skill/285-higher-mana-gain/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0285.png" note="Automatic learning"/>
+      <skill id="234" name="Robe Mastery" level="8" icon_name="skill0234" url="https://wikipedia1.mw2.wiki/skill/234-robe-mastery/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0234.png" note="Automatic learning"/>
+      <skill id="249" name="Weapon Mastery" level="9" icon_name="skill0249" url="https://wikipedia1.mw2.wiki/skill/249-weapon-mastery/9/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0249.png" note="Automatic learning"/>
+      <skill id="1126" name="Servitor Recharge" level="6" icon_name="skill1126" url="https://wikipedia1.mw2.wiki/skill/1126-servitor-recharge/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1126.png" note="Automatic learning"/>
+    </level>
+    <level number="38">
+      <skill id="1127" name="Servitor Heal" level="12" icon_name="skill1127" url="https://wikipedia1.mw2.wiki/skill/1127-servitor-heal/12/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1127.png" note="Automatic learning"/>
+      <skill id="1069" name="Sleep" level="9" icon_name="skill1069" url="https://wikipedia1.mw2.wiki/skill/1069-sleep/9/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1069.png" note="Automatic learning"/>
+    </level>
+  </skills>
+</class>

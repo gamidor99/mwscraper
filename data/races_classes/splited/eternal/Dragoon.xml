@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class race="Kamael" subtype="Kamael Soldier" name="Dragoon" child_of="none" parent_of="Berserker">
+  <skills_summary>
+    <skills type="active">
+      <category name="Physical skills">
+        <skill id="468" name="Fallen Attack" start_level="1" icon="skill0468" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/468-fallen-attack/1">
+          <enchants/>
+        </skill>
+        <skill id="476" name="Dark Strike" start_level="1" icon="skill0476" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/1">
+          <enchants/>
+        </skill>
+        <skill id="478" name="Double Thrust" start_level="1" icon="skill0478" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/1">
+          <enchants/>
+        </skill>
+        <skill id="484" name="Rush" start_level="1" icon="skill0484" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/484-rush/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Magic skills">
+        <skill id="1431" name="Fallen Arrow" start_level="1" icon="skill1431" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1431-fallen-arrow/1">
+          <enchants/>
+        </skill>
+        <skill id="1433" name="Abyssal Blaze" start_level="1" icon="skill1433" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/1">
+          <enchants/>
+        </skill>
+        <skill id="1434" name="Dark Explosion" start_level="1" icon="skill1434" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1434-dark-explosion/1">
+          <enchants/>
+        </skill>
+        <skill id="1473" name="Change Weapon" start_level="1" icon="skill1473" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1473-change-weapon/1">
+          <enchants/>
+        </skill>
+        <skill id="1475" name="Erase Mark" start_level="1" icon="skill1475" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1475-erase-mark/1">
+          <enchants/>
+        </skill>
+        <skill id="25394" name="For Olympiad" start_level="1" icon="macrownd_icon05" icon_panel="pannel_wisdom" url="https://wikipedia1.mw2.wiki/skill/25394-for-olympiad/1">
+          <enchants/>
+        </skill>
+        <skill id="27222" name="For Olympiad" start_level="1" icon="macrownd_icon05" icon_panel="pannel_intrepid" url="https://wikipedia1.mw2.wiki/skill/27222-for-olympiad/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Reinforcement skills">
+        <skill id="482" name="Furious Soul" start_level="1" icon="skill0482" icon_panel="autoskill_panel_01" url="https://wikipedia1.mw2.wiki/skill/482-furious-soul/1">
+          <enchants>
+            <group type="power_decrease_penalty">
+              <enchant level="1" url="/skill/482-furious-soul/2/1001/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +1%, P. Def. penalty -1%.</enchant>
+              <enchant level="2" url="/skill/482-furious-soul/2/1002/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +1%, P. Def. penalty -1%.</enchant>
+              <enchant level="3" url="/skill/482-furious-soul/2/1003/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +1%, P. Def. penalty -1%.</enchant>
+              <enchant level="4" url="/skill/482-furious-soul/2/1004/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +1%, P. Def. penalty -1%.</enchant>
+              <enchant level="5" url="/skill/482-furious-soul/2/1005/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +1%, P. Def. penalty -1%.</enchant>
+              <enchant level="6" url="/skill/482-furious-soul/2/1006/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +1%, P. Def. penalty -1%.</enchant>
+              <enchant level="7" url="/skill/482-furious-soul/2/1007/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +1%, P. Def. penalty -1%.</enchant>
+              <enchant level="8" url="/skill/482-furious-soul/2/1008/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +2%, P. Def. penalty -2%.</enchant>
+              <enchant level="9" url="/skill/482-furious-soul/2/1009/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +2%, P. Def. penalty -2%.</enchant>
+              <enchant level="10" url="/skill/482-furious-soul/2/1010/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +2%, P. Def. penalty -2%.</enchant>
+              <enchant level="11" url="/skill/482-furious-soul/2/1011/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +2%, P. Def. penalty -2%.</enchant>
+              <enchant level="12" url="/skill/482-furious-soul/2/1012/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +2%, P. Def. penalty -2%.</enchant>
+              <enchant level="13" url="/skill/482-furious-soul/2/1013/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +2%, P. Def. penalty -2%.</enchant>
+              <enchant level="14" url="/skill/482-furious-soul/2/1014/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +2%, P. Def. penalty -2%.</enchant>
+              <enchant level="15" url="/skill/482-furious-soul/2/1015/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +3%, P. Def. penalty -3%.</enchant>
+              <enchant level="16" url="/skill/482-furious-soul/2/1016/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +3%, P. Def. penalty -3%.</enchant>
+              <enchant level="17" url="/skill/482-furious-soul/2/1017/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +3%, P. Def. penalty -3%.</enchant>
+              <enchant level="18" url="/skill/482-furious-soul/2/1018/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +3%, P. Def. penalty -3%.</enchant>
+              <enchant level="19" url="/skill/482-furious-soul/2/1019/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +3%, P. Def. penalty -3%.</enchant>
+              <enchant level="20" url="/skill/482-furious-soul/2/1020/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +3%, P. Def. penalty -3%.</enchant>
+              <enchant level="21" url="/skill/482-furious-soul/2/1021/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +3%, P. Def. penalty -3%.</enchant>
+              <enchant level="22" url="/skill/482-furious-soul/2/1022/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +3%, P. Def. penalty -3%.</enchant>
+              <enchant level="23" url="/skill/482-furious-soul/2/1023/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +4%, P. Def. penalty -4%.</enchant>
+              <enchant level="24" url="/skill/482-furious-soul/2/1024/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +4%, P. Def. penalty -4%.</enchant>
+              <enchant level="25" url="/skill/482-furious-soul/2/1025/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +4%, P. Def. penalty -4%.</enchant>
+              <enchant level="26" url="/skill/482-furious-soul/2/1026/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +4%, P. Def. penalty -4%.</enchant>
+              <enchant level="27" url="/skill/482-furious-soul/2/1027/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +4%, P. Def. penalty -4%.</enchant>
+              <enchant level="28" url="/skill/482-furious-soul/2/1028/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +4%, P. Def. penalty -4%.</enchant>
+              <enchant level="29" url="/skill/482-furious-soul/2/1029/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +4%, P. Def. penalty -4%.</enchant>
+              <enchant level="30" url="/skill/482-furious-soul/2/1030/eternal" icon="skill0482">P. Crit. Rate/ P. Crit. Damage +5%, P. Def. penalty -5%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="483" name="Sword Shield" start_level="1" icon="skill0483" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/483-sword-shield/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/483-sword-shield/2/1001/eternal" icon="skill0483">P. Def. +40.</enchant>
+              <enchant level="2" url="/skill/483-sword-shield/2/1002/eternal" icon="skill0483">P. Def. +80.</enchant>
+              <enchant level="3" url="/skill/483-sword-shield/2/1003/eternal" icon="skill0483">P. Def. +120.</enchant>
+              <enchant level="4" url="/skill/483-sword-shield/2/1004/eternal" icon="skill0483">P. Def. +160.</enchant>
+              <enchant level="5" url="/skill/483-sword-shield/2/1005/eternal" icon="skill0483">P. Def. +200.</enchant>
+              <enchant level="6" url="/skill/483-sword-shield/2/1006/eternal" icon="skill0483">P. Def. +240.</enchant>
+              <enchant level="7" url="/skill/483-sword-shield/2/1007/eternal" icon="skill0483">P. Def. +280.</enchant>
+              <enchant level="8" url="/skill/483-sword-shield/2/1008/eternal" icon="skill0483">P. Def. +320.</enchant>
+              <enchant level="9" url="/skill/483-sword-shield/2/1009/eternal" icon="skill0483">P. Def. +360.</enchant>
+              <enchant level="10" url="/skill/483-sword-shield/2/1010/eternal" icon="skill0483">P. Def. +400.</enchant>
+              <enchant level="11" url="/skill/483-sword-shield/2/1011/eternal" icon="skill0483">P. Def. +440.</enchant>
+              <enchant level="12" url="/skill/483-sword-shield/2/1012/eternal" icon="skill0483">P. Def. +480.</enchant>
+              <enchant level="13" url="/skill/483-sword-shield/2/1013/eternal" icon="skill0483">P. Def. +520.</enchant>
+              <enchant level="14" url="/skill/483-sword-shield/2/1014/eternal" icon="skill0483">P. Def. +560.</enchant>
+              <enchant level="15" url="/skill/483-sword-shield/2/1015/eternal" icon="skill0483">P. Def. +600.</enchant>
+              <enchant level="16" url="/skill/483-sword-shield/2/1016/eternal" icon="skill0483">P. Def. +640.</enchant>
+              <enchant level="17" url="/skill/483-sword-shield/2/1017/eternal" icon="skill0483">P. Def. +680.</enchant>
+              <enchant level="18" url="/skill/483-sword-shield/2/1018/eternal" icon="skill0483">P. Def. +720.</enchant>
+              <enchant level="19" url="/skill/483-sword-shield/2/1019/eternal" icon="skill0483">P. Def. +760.</enchant>
+              <enchant level="20" url="/skill/483-sword-shield/2/1020/eternal" icon="skill0483">P. Def. +800.</enchant>
+              <enchant level="21" url="/skill/483-sword-shield/2/1021/eternal" icon="skill0483">P. Def. +840.</enchant>
+              <enchant level="22" url="/skill/483-sword-shield/2/1022/eternal" icon="skill0483">P. Def. +880.</enchant>
+              <enchant level="23" url="/skill/483-sword-shield/2/1023/eternal" icon="skill0483">P. Def. +920.</enchant>
+              <enchant level="24" url="/skill/483-sword-shield/2/1024/eternal" icon="skill0483">P. Def. +960.</enchant>
+              <enchant level="25" url="/skill/483-sword-shield/2/1025/eternal" icon="skill0483">P. Def. +1000.</enchant>
+              <enchant level="26" url="/skill/483-sword-shield/2/1026/eternal" icon="skill0483">P. Def. +1040.</enchant>
+              <enchant level="27" url="/skill/483-sword-shield/2/1027/eternal" icon="skill0483">P. Def. +1080.</enchant>
+              <enchant level="28" url="/skill/483-sword-shield/2/1028/eternal" icon="skill0483">P. Def. +1120.</enchant>
+              <enchant level="29" url="/skill/483-sword-shield/2/1029/eternal" icon="skill0483">P. Def. +1160.</enchant>
+              <enchant level="30" url="/skill/483-sword-shield/2/1030/eternal" icon="skill0483">P. Def. +1200.</enchant>
+            </group>
+            <group type="penalty">
+              <enchant level="1" url="/skill/483-sword-shield/2/2001/eternal" icon="skill0483">Penalty Speed -1%.</enchant>
+              <enchant level="2" url="/skill/483-sword-shield/2/2002/eternal" icon="skill0483">Penalty Speed -2%.</enchant>
+              <enchant level="3" url="/skill/483-sword-shield/2/2003/eternal" icon="skill0483">Penalty Speed -3%.</enchant>
+              <enchant level="4" url="/skill/483-sword-shield/2/2004/eternal" icon="skill0483">Penalty Speed -4%.</enchant>
+              <enchant level="5" url="/skill/483-sword-shield/2/2005/eternal" icon="skill0483">Penalty Speed -5%.</enchant>
+              <enchant level="6" url="/skill/483-sword-shield/2/2006/eternal" icon="skill0483">Penalty Speed -6%.</enchant>
+              <enchant level="7" url="/skill/483-sword-shield/2/2007/eternal" icon="skill0483">Penalty Speed -7%.</enchant>
+              <enchant level="8" url="/skill/483-sword-shield/2/2008/eternal" icon="skill0483">Penalty Speed -8%.</enchant>
+              <enchant level="9" url="/skill/483-sword-shield/2/2009/eternal" icon="skill0483">Penalty Speed -9%.</enchant>
+              <enchant level="10" url="/skill/483-sword-shield/2/2010/eternal" icon="skill0483">Penalty Speed -10%.</enchant>
+              <enchant level="11" url="/skill/483-sword-shield/2/2011/eternal" icon="skill0483">Penalty Speed -11%.</enchant>
+              <enchant level="12" url="/skill/483-sword-shield/2/2012/eternal" icon="skill0483">Penalty Speed -12%.</enchant>
+              <enchant level="13" url="/skill/483-sword-shield/2/2013/eternal" icon="skill0483">Penalty Speed -13%.</enchant>
+              <enchant level="14" url="/skill/483-sword-shield/2/2014/eternal" icon="skill0483">Penalty Speed -14%.</enchant>
+              <enchant level="15" url="/skill/483-sword-shield/2/2015/eternal" icon="skill0483">Penalty Speed -15%.</enchant>
+              <enchant level="16" url="/skill/483-sword-shield/2/2016/eternal" icon="skill0483">Penalty Speed -16%.</enchant>
+              <enchant level="17" url="/skill/483-sword-shield/2/2017/eternal" icon="skill0483">Penalty Speed -17%.</enchant>
+              <enchant level="18" url="/skill/483-sword-shield/2/2018/eternal" icon="skill0483">Penalty Speed -18%.</enchant>
+              <enchant level="19" url="/skill/483-sword-shield/2/2019/eternal" icon="skill0483">Penalty Speed -19%.</enchant>
+              <enchant level="20" url="/skill/483-sword-shield/2/2020/eternal" icon="skill0483">Penalty Speed -20%.</enchant>
+              <enchant level="21" url="/skill/483-sword-shield/2/2021/eternal" icon="skill0483">Penalty Speed -21%.</enchant>
+              <enchant level="22" url="/skill/483-sword-shield/2/2022/eternal" icon="skill0483">Penalty Speed -22%.</enchant>
+              <enchant level="23" url="/skill/483-sword-shield/2/2023/eternal" icon="skill0483">Penalty Speed -23%.</enchant>
+              <enchant level="24" url="/skill/483-sword-shield/2/2024/eternal" icon="skill0483">Penalty Speed -24%.</enchant>
+              <enchant level="25" url="/skill/483-sword-shield/2/2025/eternal" icon="skill0483">Penalty Speed -25%.</enchant>
+              <enchant level="26" url="/skill/483-sword-shield/2/2026/eternal" icon="skill0483">Penalty Speed -26%.</enchant>
+              <enchant level="27" url="/skill/483-sword-shield/2/2027/eternal" icon="skill0483">Penalty Speed -27%.</enchant>
+              <enchant level="28" url="/skill/483-sword-shield/2/2028/eternal" icon="skill0483">Penalty Speed -28%.</enchant>
+              <enchant level="29" url="/skill/483-sword-shield/2/2029/eternal" icon="skill0483">Penalty Speed -29%.</enchant>
+              <enchant level="30" url="/skill/483-sword-shield/2/2030/eternal" icon="skill0483">Penalty Speed -30%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="499" name="Courage" start_level="1" icon="skill0499" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/499-courage/1">
+          <enchants/>
+        </skill>
+        <skill id="1432" name="Increase Power" start_level="1" icon="skill1432" icon_panel="autoskill_panel_01" url="https://wikipedia1.mw2.wiki/skill/1432-increase-power/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Weaken skills">
+        <skill id="485" name="Disarm" start_level="1" icon="skill0485" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/485-disarm/1">
+          <enchants>
+            <group type="chance">
+              <enchant level="1" url="/skill/485-disarm/7/1001/eternal" icon="skill0485">Success rate +1%.</enchant>
+              <enchant level="2" url="/skill/485-disarm/7/1002/eternal" icon="skill0485">Success rate +1%.</enchant>
+              <enchant level="3" url="/skill/485-disarm/7/1003/eternal" icon="skill0485">Success rate +2%.</enchant>
+              <enchant level="4" url="/skill/485-disarm/7/1004/eternal" icon="skill0485">Success rate +2%.</enchant>
+              <enchant level="5" url="/skill/485-disarm/7/1005/eternal" icon="skill0485">Success rate +3%.</enchant>
+              <enchant level="6" url="/skill/485-disarm/7/1006/eternal" icon="skill0485">Success rate +4%.</enchant>
+              <enchant level="7" url="/skill/485-disarm/7/1007/eternal" icon="skill0485">Success rate +4%.</enchant>
+              <enchant level="8" url="/skill/485-disarm/7/1008/eternal" icon="skill0485">Success rate +5%.</enchant>
+              <enchant level="9" url="/skill/485-disarm/7/1009/eternal" icon="skill0485">Success rate +6%.</enchant>
+              <enchant level="10" url="/skill/485-disarm/7/1010/eternal" icon="skill0485">Success rate +6%.</enchant>
+              <enchant level="11" url="/skill/485-disarm/7/1011/eternal" icon="skill0485">Success rate +7%.</enchant>
+              <enchant level="12" url="/skill/485-disarm/7/1012/eternal" icon="skill0485">Success rate +8%.</enchant>
+              <enchant level="13" url="/skill/485-disarm/7/1013/eternal" icon="skill0485">Success rate +8%.</enchant>
+              <enchant level="14" url="/skill/485-disarm/7/1014/eternal" icon="skill0485">Success rate +9%.</enchant>
+              <enchant level="15" url="/skill/485-disarm/7/1015/eternal" icon="skill0485">Success rate +10%.</enchant>
+              <enchant level="16" url="/skill/485-disarm/7/1016/eternal" icon="skill0485">Success rate +10%.</enchant>
+              <enchant level="17" url="/skill/485-disarm/7/1017/eternal" icon="skill0485">Success rate +11%.</enchant>
+              <enchant level="18" url="/skill/485-disarm/7/1018/eternal" icon="skill0485">Success rate +12%.</enchant>
+              <enchant level="19" url="/skill/485-disarm/7/1019/eternal" icon="skill0485">Success rate +12%.</enchant>
+              <enchant level="20" url="/skill/485-disarm/7/1020/eternal" icon="skill0485">Success rate +13%.</enchant>
+              <enchant level="21" url="/skill/485-disarm/7/1021/eternal" icon="skill0485">Success rate +14%.</enchant>
+              <enchant level="22" url="/skill/485-disarm/7/1022/eternal" icon="skill0485">Success rate +14%.</enchant>
+              <enchant level="23" url="/skill/485-disarm/7/1023/eternal" icon="skill0485">Success rate +15%.</enchant>
+              <enchant level="24" url="/skill/485-disarm/7/1024/eternal" icon="skill0485">Success rate +16%.</enchant>
+              <enchant level="25" url="/skill/485-disarm/7/1025/eternal" icon="skill0485">Success rate +16%.</enchant>
+              <enchant level="26" url="/skill/485-disarm/7/1026/eternal" icon="skill0485">Success rate +17%.</enchant>
+              <enchant level="27" url="/skill/485-disarm/7/1027/eternal" icon="skill0485">Success rate +18%.</enchant>
+              <enchant level="28" url="/skill/485-disarm/7/1028/eternal" icon="skill0485">Success rate +18%.</enchant>
+              <enchant level="29" url="/skill/485-disarm/7/1029/eternal" icon="skill0485">Success rate +19%.</enchant>
+              <enchant level="30" url="/skill/485-disarm/7/1030/eternal" icon="skill0485">Success rate +20%.</enchant>
+            </group>
+            <group type="time">
+              <enchant level="1" url="/skill/485-disarm/7/2001/eternal" icon="skill0485">Effect's duration +1 sec.</enchant>
+              <enchant level="2" url="/skill/485-disarm/7/2002/eternal" icon="skill0485">Effect's duration +1 sec.</enchant>
+              <enchant level="3" url="/skill/485-disarm/7/2003/eternal" icon="skill0485">Effect's duration +1 sec.</enchant>
+              <enchant level="4" url="/skill/485-disarm/7/2004/eternal" icon="skill0485">Effect's duration +2 sec.</enchant>
+              <enchant level="5" url="/skill/485-disarm/7/2005/eternal" icon="skill0485">Effect's duration +2 sec.</enchant>
+              <enchant level="6" url="/skill/485-disarm/7/2006/eternal" icon="skill0485">Effect's duration +2 sec.</enchant>
+              <enchant level="7" url="/skill/485-disarm/7/2007/eternal" icon="skill0485">Effect's duration +2 sec.</enchant>
+              <enchant level="8" url="/skill/485-disarm/7/2008/eternal" icon="skill0485">Effect's duration +3 sec.</enchant>
+              <enchant level="9" url="/skill/485-disarm/7/2009/eternal" icon="skill0485">Effect's duration +3 sec.</enchant>
+              <enchant level="10" url="/skill/485-disarm/7/2010/eternal" icon="skill0485">Effect's duration +3 sec.</enchant>
+              <enchant level="11" url="/skill/485-disarm/7/2011/eternal" icon="skill0485">Effect's duration +4 sec.</enchant>
+              <enchant level="12" url="/skill/485-disarm/7/2012/eternal" icon="skill0485">Effect's duration +4 sec.</enchant>
+              <enchant level="13" url="/skill/485-disarm/7/2013/eternal" icon="skill0485">Effect's duration +4 sec.</enchant>
+              <enchant level="14" url="/skill/485-disarm/7/2014/eternal" icon="skill0485">Effect's duration +4 sec.</enchant>
+              <enchant level="15" url="/skill/485-disarm/7/2015/eternal" icon="skill0485">Effect's duration +5 sec.</enchant>
+              <enchant level="16" url="/skill/485-disarm/7/2016/eternal" icon="skill0485">Effect's duration +5 sec.</enchant>
+              <enchant level="17" url="/skill/485-disarm/7/2017/eternal" icon="skill0485">Effect's duration +5 sec.</enchant>
+              <enchant level="18" url="/skill/485-disarm/7/2018/eternal" icon="skill0485">Effect's duration +6 sec.</enchant>
+              <enchant level="19" url="/skill/485-disarm/7/2019/eternal" icon="skill0485">Effect's duration +6 sec.</enchant>
+              <enchant level="20" url="/skill/485-disarm/7/2020/eternal" icon="skill0485">Effect's duration +6 sec.</enchant>
+              <enchant level="21" url="/skill/485-disarm/7/2021/eternal" icon="skill0485">Effect's duration +7 sec.</enchant>
+              <enchant level="22" url="/skill/485-disarm/7/2022/eternal" icon="skill0485">Effect's duration +7 sec.</enchant>
+              <enchant level="23" url="/skill/485-disarm/7/2023/eternal" icon="skill0485">Effect's duration +7 sec.</enchant>
+              <enchant level="24" url="/skill/485-disarm/7/2024/eternal" icon="skill0485">Effect's duration +8 sec.</enchant>
+              <enchant level="25" url="/skill/485-disarm/7/2025/eternal" icon="skill0485">Effect's duration +8 sec.</enchant>
+              <enchant level="26" url="/skill/485-disarm/7/2026/eternal" icon="skill0485">Effect's duration +8 sec.</enchant>
+              <enchant level="27" url="/skill/485-disarm/7/2027/eternal" icon="skill0485">Effect's duration +9 sec.</enchant>
+              <enchant level="28" url="/skill/485-disarm/7/2028/eternal" icon="skill0485">Effect's duration +9 sec.</enchant>
+              <enchant level="29" url="/skill/485-disarm/7/2029/eternal" icon="skill0485">Effect's duration +9 sec.</enchant>
+              <enchant level="30" url="/skill/485-disarm/7/2030/eternal" icon="skill0485">Effect's duration +10 sec.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1435" name="Death Mark" start_level="1" icon="skill1435" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1435-death-mark/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/1435-death-mark/10/1001/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="2" url="/skill/1435-death-mark/10/1002/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="3" url="/skill/1435-death-mark/10/1003/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="4" url="/skill/1435-death-mark/10/1004/eternal" icon="skill1435">Increases HP consumption by 1.</enchant>
+              <enchant level="5" url="/skill/1435-death-mark/10/1005/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="6" url="/skill/1435-death-mark/10/1006/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="7" url="/skill/1435-death-mark/10/1007/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="8" url="/skill/1435-death-mark/10/1008/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="9" url="/skill/1435-death-mark/10/1009/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="10" url="/skill/1435-death-mark/10/1010/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="11" url="/skill/1435-death-mark/10/1011/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="12" url="/skill/1435-death-mark/10/1012/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="13" url="/skill/1435-death-mark/10/1013/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="14" url="/skill/1435-death-mark/10/1014/eternal" icon="skill1435">Increases HP consumption by 1.</enchant>
+              <enchant level="15" url="/skill/1435-death-mark/10/1015/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="16" url="/skill/1435-death-mark/10/1016/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="17" url="/skill/1435-death-mark/10/1017/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="18" url="/skill/1435-death-mark/10/1018/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="19" url="/skill/1435-death-mark/10/1019/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="20" url="/skill/1435-death-mark/10/1020/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="21" url="/skill/1435-death-mark/10/1021/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="22" url="/skill/1435-death-mark/10/1022/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="23" url="/skill/1435-death-mark/10/1023/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="24" url="/skill/1435-death-mark/10/1024/eternal" icon="skill1435">Increases HP consumption by 1.</enchant>
+              <enchant level="25" url="/skill/1435-death-mark/10/1025/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="26" url="/skill/1435-death-mark/10/1026/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="27" url="/skill/1435-death-mark/10/1027/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="28" url="/skill/1435-death-mark/10/1028/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="29" url="/skill/1435-death-mark/10/1029/eternal" icon="skill1435">Increases HP consumption.</enchant>
+              <enchant level="30" url="/skill/1435-death-mark/10/1030/eternal" icon="skill1435">Increases HP consumption.</enchant>
+            </group>
+            <group type="chance">
+              <enchant level="1" url="/skill/1435-death-mark/10/2001/eternal" icon="skill1435">Success rate +1%.</enchant>
+              <enchant level="2" url="/skill/1435-death-mark/10/2002/eternal" icon="skill1435">Success rate +1%.</enchant>
+              <enchant level="3" url="/skill/1435-death-mark/10/2003/eternal" icon="skill1435">Success rate +2%.</enchant>
+              <enchant level="4" url="/skill/1435-death-mark/10/2004/eternal" icon="skill1435">Success rate +3%.</enchant>
+              <enchant level="5" url="/skill/1435-death-mark/10/2005/eternal" icon="skill1435">Success rate +4%.</enchant>
+              <enchant level="6" url="/skill/1435-death-mark/10/2006/eternal" icon="skill1435">Success rate +4%.</enchant>
+              <enchant level="7" url="/skill/1435-death-mark/10/2007/eternal" icon="skill1435">Success rate +4%.</enchant>
+              <enchant level="8" url="/skill/1435-death-mark/10/2008/eternal" icon="skill1435">Success rate +5%.</enchant>
+              <enchant level="9" url="/skill/1435-death-mark/10/2009/eternal" icon="skill1435">Success rate +6%.</enchant>
+              <enchant level="10" url="/skill/1435-death-mark/10/2010/eternal" icon="skill1435">Success rate +6%.</enchant>
+              <enchant level="11" url="/skill/1435-death-mark/10/2011/eternal" icon="skill1435">Success rate +7%.</enchant>
+              <enchant level="12" url="/skill/1435-death-mark/10/2012/eternal" icon="skill1435">Success rate +8%.</enchant>
+              <enchant level="13" url="/skill/1435-death-mark/10/2013/eternal" icon="skill1435">Success rate +8%.</enchant>
+              <enchant level="14" url="/skill/1435-death-mark/10/2014/eternal" icon="skill1435">Success rate +9%.</enchant>
+              <enchant level="15" url="/skill/1435-death-mark/10/2015/eternal" icon="skill1435">Success rate +10%.</enchant>
+              <enchant level="16" url="/skill/1435-death-mark/10/2016/eternal" icon="skill1435">Success rate +10%.</enchant>
+              <enchant level="17" url="/skill/1435-death-mark/10/2017/eternal" icon="skill1435">Success rate +11%.</enchant>
+              <enchant level="18" url="/skill/1435-death-mark/10/2018/eternal" icon="skill1435">Success rate +12%.</enchant>
+              <enchant level="19" url="/skill/1435-death-mark/10/2019/eternal" icon="skill1435">Success rate +12%.</enchant>
+              <enchant level="20" url="/skill/1435-death-mark/10/2020/eternal" icon="skill1435">Success rate +13%.</enchant>
+              <enchant level="21" url="/skill/1435-death-mark/10/2021/eternal" icon="skill1435">Success rate +14%.</enchant>
+              <enchant level="22" url="/skill/1435-death-mark/10/2022/eternal" icon="skill1435">Success rate +14%.</enchant>
+              <enchant level="23" url="/skill/1435-death-mark/10/2023/eternal" icon="skill1435">Success rate +14%.</enchant>
+              <enchant level="24" url="/skill/1435-death-mark/10/2024/eternal" icon="skill1435">Success rate +14%.</enchant>
+              <enchant level="25" url="/skill/1435-death-mark/10/2025/eternal" icon="skill1435">Success rate +14%.</enchant>
+              <enchant level="26" url="/skill/1435-death-mark/10/2026/eternal" icon="skill1435">Success rate +14%.</enchant>
+              <enchant level="27" url="/skill/1435-death-mark/10/2027/eternal" icon="skill1435">Success rate +14%.</enchant>
+              <enchant level="28" url="/skill/1435-death-mark/10/2028/eternal" icon="skill1435">Success rate +14%.</enchant>
+              <enchant level="29" url="/skill/1435-death-mark/10/2029/eternal" icon="skill1435">Success rate +14%.</enchant>
+              <enchant level="30" url="/skill/1435-death-mark/10/2030/eternal" icon="skill1435">Success rate +15%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1445" name="Surrender to Dark" start_level="1" icon="skill1445" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1445-surrender-to-dark/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/1445-surrender-to-dark/18/1001/eternal" icon="skill1445">Resistance to Dark -2.</enchant>
+              <enchant level="2" url="/skill/1445-surrender-to-dark/18/1002/eternal" icon="skill1445">Resistance to Dark -4.</enchant>
+              <enchant level="3" url="/skill/1445-surrender-to-dark/18/1003/eternal" icon="skill1445">Resistance to Dark -6.</enchant>
+              <enchant level="4" url="/skill/1445-surrender-to-dark/18/1004/eternal" icon="skill1445">Resistance to Dark -8.</enchant>
+              <enchant level="5" url="/skill/1445-surrender-to-dark/18/1005/eternal" icon="skill1445">Resistance to Dark -10.</enchant>
+              <enchant level="6" url="/skill/1445-surrender-to-dark/18/1006/eternal" icon="skill1445">Resistance to Dark -12.</enchant>
+              <enchant level="7" url="/skill/1445-surrender-to-dark/18/1007/eternal" icon="skill1445">Resistance to Dark -14.</enchant>
+              <enchant level="8" url="/skill/1445-surrender-to-dark/18/1008/eternal" icon="skill1445">Resistance to Dark -16.</enchant>
+              <enchant level="9" url="/skill/1445-surrender-to-dark/18/1009/eternal" icon="skill1445">Resistance to Dark -18.</enchant>
+              <enchant level="10" url="/skill/1445-surrender-to-dark/18/1010/eternal" icon="skill1445">Resistance to Dark -20.</enchant>
+              <enchant level="11" url="/skill/1445-surrender-to-dark/18/1011/eternal" icon="skill1445">Resistance to Dark -22.</enchant>
+              <enchant level="12" url="/skill/1445-surrender-to-dark/18/1012/eternal" icon="skill1445">Resistance to Dark -24.</enchant>
+              <enchant level="13" url="/skill/1445-surrender-to-dark/18/1013/eternal" icon="skill1445">Resistance to Dark -26.</enchant>
+              <enchant level="14" url="/skill/1445-surrender-to-dark/18/1014/eternal" icon="skill1445">Resistance to Dark -28.</enchant>
+              <enchant level="15" url="/skill/1445-surrender-to-dark/18/1015/eternal" icon="skill1445">Resistance to Dark -30.</enchant>
+              <enchant level="16" url="/skill/1445-surrender-to-dark/18/1016/eternal" icon="skill1445">Resistance to Dark -32.</enchant>
+              <enchant level="17" url="/skill/1445-surrender-to-dark/18/1017/eternal" icon="skill1445">Resistance to Dark -34.</enchant>
+              <enchant level="18" url="/skill/1445-surrender-to-dark/18/1018/eternal" icon="skill1445">Resistance to Dark -36.</enchant>
+              <enchant level="19" url="/skill/1445-surrender-to-dark/18/1019/eternal" icon="skill1445">Resistance to Dark -38.</enchant>
+              <enchant level="20" url="/skill/1445-surrender-to-dark/18/1020/eternal" icon="skill1445">Resistance to Dark -40.</enchant>
+              <enchant level="21" url="/skill/1445-surrender-to-dark/18/1021/eternal" icon="skill1445">Resistance to Dark -42.</enchant>
+              <enchant level="22" url="/skill/1445-surrender-to-dark/18/1022/eternal" icon="skill1445">Resistance to Dark -44.</enchant>
+              <enchant level="23" url="/skill/1445-surrender-to-dark/18/1023/eternal" icon="skill1445">Resistance to Dark -46.</enchant>
+              <enchant level="24" url="/skill/1445-surrender-to-dark/18/1024/eternal" icon="skill1445">Resistance to Dark -48.</enchant>
+              <enchant level="25" url="/skill/1445-surrender-to-dark/18/1025/eternal" icon="skill1445">Resistance to Dark -50.</enchant>
+              <enchant level="26" url="/skill/1445-surrender-to-dark/18/1026/eternal" icon="skill1445">Resistance to Dark -52.</enchant>
+              <enchant level="27" url="/skill/1445-surrender-to-dark/18/1027/eternal" icon="skill1445">Resistance to Dark -54.</enchant>
+              <enchant level="28" url="/skill/1445-surrender-to-dark/18/1028/eternal" icon="skill1445">Resistance to Dark -56.</enchant>
+              <enchant level="29" url="/skill/1445-surrender-to-dark/18/1029/eternal" icon="skill1445">Resistance to Dark -58.</enchant>
+              <enchant level="30" url="/skill/1445-surrender-to-dark/18/1030/eternal" icon="skill1445">Resistance to Dark -60.</enchant>
+            </group>
+          </enchants>
+        </skill>
+      </category>
+      <category name="Item skills">
+        <skill id="1322" name="Common Craft" start_level="1" icon="skill0172" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1322-common-craft/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Toggle skills">
+        <skill id="475" name="Strike Back" start_level="1" icon="skill0475" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/475-strike-back/1">
+          <enchants/>
+        </skill>
+        <skill id="479" name="Hard March" start_level="1" icon="skill0479" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/479-hard-march/1">
+          <enchants/>
+        </skill>
+        <skill id="480" name="Dark Blade" start_level="1" icon="skill0480" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/480-dark-blade/1">
+          <enchants/>
+        </skill>
+        <skill id="481" name="Dark Armor" start_level="1" icon="skill0481" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/481-dark-armor/1">
+          <enchants/>
+        </skill>
+        <skill id="24314" name="Block Buff" start_level="1" icon="ability_lock" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/24314-block-buff/1">
+          <enchants/>
+        </skill>
+      </category>
+    </skills>
+    <skills type="passive">
+      <category name="Equipment skills">
+        <skill id="239" name="Expertise D" start_level="1" icon="skill0239" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/239-expertise-d/1">
+          <enchants/>
+        </skill>
+        <skill id="463" name="Weapon Mastery" start_level="1" icon="skill0141" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/463-weapon-mastery/1">
+          <enchants/>
+        </skill>
+        <skill id="464" name="Armor Mastery" start_level="1" icon="skill0142" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/464-armor-mastery/1">
+          <enchants/>
+        </skill>
+        <skill id="465" name="Light Armor Mastery" start_level="1" icon="skill0465" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/465-light-armor-mastery/50/1001/eternal" icon="skill0465">Addiditionally P. Def. +3.4.</enchant>
+              <enchant level="2" url="/skill/465-light-armor-mastery/50/1002/eternal" icon="skill0465">Addiditionally P. Def. +3.4.</enchant>
+              <enchant level="3" url="/skill/465-light-armor-mastery/50/1003/eternal" icon="skill0465">Addiditionally P. Def. +4.4.</enchant>
+              <enchant level="4" url="/skill/465-light-armor-mastery/50/1004/eternal" icon="skill0465">Addiditionally P. Def. +4.4.</enchant>
+              <enchant level="5" url="/skill/465-light-armor-mastery/50/1005/eternal" icon="skill0465">Addiditionally P. Def. +5.4.</enchant>
+              <enchant level="6" url="/skill/465-light-armor-mastery/50/1006/eternal" icon="skill0465">Addiditionally P. Def. +6.4.</enchant>
+              <enchant level="7" url="/skill/465-light-armor-mastery/50/1007/eternal" icon="skill0465">Addiditionally P. Def. +6.4.</enchant>
+              <enchant level="8" url="/skill/465-light-armor-mastery/50/1008/eternal" icon="skill0465">Addiditionally P. Def. +7.4.</enchant>
+              <enchant level="9" url="/skill/465-light-armor-mastery/50/1009/eternal" icon="skill0465">Addiditionally P. Def. +7.4.</enchant>
+              <enchant level="10" url="/skill/465-light-armor-mastery/50/1010/eternal" icon="skill0465">Addiditionally P. Def. +8.4.</enchant>
+              <enchant level="11" url="/skill/465-light-armor-mastery/50/1011/eternal" icon="skill0465">Addiditionally P. Def. +8.4.</enchant>
+              <enchant level="12" url="/skill/465-light-armor-mastery/50/1012/eternal" icon="skill0465">Addiditionally P. Def. +9.4.</enchant>
+              <enchant level="13" url="/skill/465-light-armor-mastery/50/1013/eternal" icon="skill0465">Addiditionally P. Def. +9.4.</enchant>
+              <enchant level="14" url="/skill/465-light-armor-mastery/50/1014/eternal" icon="skill0465">Addiditionally P. Def. +10.4.</enchant>
+              <enchant level="15" url="/skill/465-light-armor-mastery/50/1015/eternal" icon="skill0465">Addiditionally P. Def. +10.4.</enchant>
+              <enchant level="16" url="/skill/465-light-armor-mastery/50/1016/eternal" icon="skill0465">Addiditionally P. Def. +11.4.</enchant>
+              <enchant level="17" url="/skill/465-light-armor-mastery/50/1017/eternal" icon="skill0465">Addiditionally P. Def. +12.4.</enchant>
+              <enchant level="18" url="/skill/465-light-armor-mastery/50/1018/eternal" icon="skill0465">Addiditionally P. Def. +12.4.</enchant>
+              <enchant level="19" url="/skill/465-light-armor-mastery/50/1019/eternal" icon="skill0465">Addiditionally P. Def. +13.4.</enchant>
+              <enchant level="20" url="/skill/465-light-armor-mastery/50/1020/eternal" icon="skill0465">Addiditionally P. Def. +13.4.</enchant>
+              <enchant level="21" url="/skill/465-light-armor-mastery/50/1021/eternal" icon="skill0465">Addiditionally P. Def. +14.4.</enchant>
+              <enchant level="22" url="/skill/465-light-armor-mastery/50/1022/eternal" icon="skill0465">Addiditionally P. Def. +14.4.</enchant>
+              <enchant level="23" url="/skill/465-light-armor-mastery/50/1023/eternal" icon="skill0465">Addiditionally P. Def. +15.4.</enchant>
+              <enchant level="24" url="/skill/465-light-armor-mastery/50/1024/eternal" icon="skill0465">Addiditionally P. Def. +15.4.</enchant>
+              <enchant level="25" url="/skill/465-light-armor-mastery/50/1025/eternal" icon="skill0465">Addiditionally P. Def. +16.4.</enchant>
+              <enchant level="26" url="/skill/465-light-armor-mastery/50/1026/eternal" icon="skill0465">Addiditionally P. Def. +16.4.</enchant>
+              <enchant level="27" url="/skill/465-light-armor-mastery/50/1027/eternal" icon="skill0465">Addiditionally P. Def. +17.4.</enchant>
+              <enchant level="28" url="/skill/465-light-armor-mastery/50/1028/eternal" icon="skill0465">Addiditionally P. Def. +18.4.</enchant>
+              <enchant level="29" url="/skill/465-light-armor-mastery/50/1029/eternal" icon="skill0465">Addiditionally P. Def. +18.4.</enchant>
+              <enchant level="30" url="/skill/465-light-armor-mastery/50/1030/eternal" icon="skill0465">Addiditionally P. Def. +19.4.</enchant>
+            </group>
+            <group type="evasion">
+              <enchant level="1" url="/skill/465-light-armor-mastery/50/2001/eternal" icon="skill0465">Increases Evasion by 1. P./ M. Skill Avoid Chance +1%%.</enchant>
+              <enchant level="2" url="/skill/465-light-armor-mastery/50/2002/eternal" icon="skill0465">Increases Evasion by 1. P./ M. Skill Avoid Chance +1%%.</enchant>
+              <enchant level="3" url="/skill/465-light-armor-mastery/50/2003/eternal" icon="skill0465">Increases Evasion by 1. P./ M. Skill Avoid Chance +1%%.</enchant>
+              <enchant level="4" url="/skill/465-light-armor-mastery/50/2004/eternal" icon="skill0465">Increases Evasion by 1. P./ M. Skill Avoid Chance +1%%.</enchant>
+              <enchant level="5" url="/skill/465-light-armor-mastery/50/2005/eternal" icon="skill0465">Increases Evasion by 1. P./ M. Skill Avoid Chance +1%%.</enchant>
+              <enchant level="6" url="/skill/465-light-armor-mastery/50/2006/eternal" icon="skill0465">Increases Evasion by 1. P./ M. Skill Avoid Chance +1%%.</enchant>
+              <enchant level="7" url="/skill/465-light-armor-mastery/50/2007/eternal" icon="skill0465">Increases Evasion by 1. P./ M. Skill Avoid Chance +1%%.</enchant>
+              <enchant level="8" url="/skill/465-light-armor-mastery/50/2008/eternal" icon="skill0465">Increases Evasion by 2. P./ M. Skill Avoid Chance +2%%.</enchant>
+              <enchant level="9" url="/skill/465-light-armor-mastery/50/2009/eternal" icon="skill0465">Increases Evasion by 2. P./ M. Skill Avoid Chance +2%%.</enchant>
+              <enchant level="10" url="/skill/465-light-armor-mastery/50/2010/eternal" icon="skill0465">Increases Evasion by 2. P./ M. Skill Avoid Chance +2%%.</enchant>
+              <enchant level="11" url="/skill/465-light-armor-mastery/50/2011/eternal" icon="skill0465">Increases Evasion by 2. P./ M. Skill Avoid Chance +2%%.</enchant>
+              <enchant level="12" url="/skill/465-light-armor-mastery/50/2012/eternal" icon="skill0465">Increases Evasion by 2. P./ M. Skill Avoid Chance +2%%.</enchant>
+              <enchant level="13" url="/skill/465-light-armor-mastery/50/2013/eternal" icon="skill0465">Increases Evasion by 2. P./ M. Skill Avoid Chance +2%%.</enchant>
+              <enchant level="14" url="/skill/465-light-armor-mastery/50/2014/eternal" icon="skill0465">Increases Evasion by 2. P./ M. Skill Avoid Chance +2%%.</enchant>
+              <enchant level="15" url="/skill/465-light-armor-mastery/50/2015/eternal" icon="skill0465">Increases Evasion by 3. P./ M. Skill Avoid Chance +3%%.</enchant>
+              <enchant level="16" url="/skill/465-light-armor-mastery/50/2016/eternal" icon="skill0465">Increases Evasion by 3. P./ M. Skill Avoid Chance +3%%.</enchant>
+              <enchant level="17" url="/skill/465-light-armor-mastery/50/2017/eternal" icon="skill0465">Increases Evasion by 3. P./ M. Skill Avoid Chance +3%%.</enchant>
+              <enchant level="18" url="/skill/465-light-armor-mastery/50/2018/eternal" icon="skill0465">Increases Evasion by 3. P./ M. Skill Avoid Chance +3%%.</enchant>
+              <enchant level="19" url="/skill/465-light-armor-mastery/50/2019/eternal" icon="skill0465">Increases Evasion by 3. P./ M. Skill Avoid Chance +3%%.</enchant>
+              <enchant level="20" url="/skill/465-light-armor-mastery/50/2020/eternal" icon="skill0465">Increases Evasion by 3. P./ M. Skill Avoid Chance +3%%.</enchant>
+              <enchant level="21" url="/skill/465-light-armor-mastery/50/2021/eternal" icon="skill0465">Increases Evasion by 3. P./ M. Skill Avoid Chance +4%%.</enchant>
+              <enchant level="22" url="/skill/465-light-armor-mastery/50/2022/eternal" icon="skill0465">Increases Evasion by 3. P./ M. Skill Avoid Chance +4%%.</enchant>
+              <enchant level="23" url="/skill/465-light-armor-mastery/50/2023/eternal" icon="skill0465">Increases Evasion by 4. P./ M. Skill Avoid Chance +4%%.</enchant>
+              <enchant level="24" url="/skill/465-light-armor-mastery/50/2024/eternal" icon="skill0465">Increases Evasion by 4. P./ M. Skill Avoid Chance +4%%.</enchant>
+              <enchant level="25" url="/skill/465-light-armor-mastery/50/2025/eternal" icon="skill0465">Increases Evasion by 4. P./ M. Skill Avoid Chance +4%%.</enchant>
+              <enchant level="26" url="/skill/465-light-armor-mastery/50/2026/eternal" icon="skill0465">Increases Evasion by 4. P./ M. Skill Avoid Chance +4%%.</enchant>
+              <enchant level="27" url="/skill/465-light-armor-mastery/50/2027/eternal" icon="skill0465">Increases Evasion by 4. P./ M. Skill Avoid Chance +4%%.</enchant>
+              <enchant level="28" url="/skill/465-light-armor-mastery/50/2028/eternal" icon="skill0465">Increases Evasion by 4. P./ M. Skill Avoid Chance +4%%.</enchant>
+              <enchant level="29" url="/skill/465-light-armor-mastery/50/2029/eternal" icon="skill0465">Increases Evasion by 4. P./ M. Skill Avoid Chance +4%%.</enchant>
+              <enchant level="30" url="/skill/465-light-armor-mastery/50/2030/eternal" icon="skill0465">Increases Evasion by 5. P./ M. Skill Avoid Chance +5%%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="472" name="Ancient Sword Mastery" start_level="1" icon="skill0472" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/472-ancient-sword-mastery/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/472-ancient-sword-mastery/45/1001/eternal" icon="skill0472">P. Atk. +9.</enchant>
+              <enchant level="2" url="/skill/472-ancient-sword-mastery/45/1002/eternal" icon="skill0472">P. Atk. +10.</enchant>
+              <enchant level="3" url="/skill/472-ancient-sword-mastery/45/1003/eternal" icon="skill0472">P. Atk. +11.</enchant>
+              <enchant level="4" url="/skill/472-ancient-sword-mastery/45/1004/eternal" icon="skill0472">P. Atk. +12.</enchant>
+              <enchant level="5" url="/skill/472-ancient-sword-mastery/45/1005/eternal" icon="skill0472">P. Atk. +13.</enchant>
+              <enchant level="6" url="/skill/472-ancient-sword-mastery/45/1006/eternal" icon="skill0472">P. Atk. +14.</enchant>
+              <enchant level="7" url="/skill/472-ancient-sword-mastery/45/1007/eternal" icon="skill0472">P. Atk. +15.</enchant>
+              <enchant level="8" url="/skill/472-ancient-sword-mastery/45/1008/eternal" icon="skill0472">P. Atk. +16.</enchant>
+              <enchant level="9" url="/skill/472-ancient-sword-mastery/45/1009/eternal" icon="skill0472">P. Atk. +17.</enchant>
+              <enchant level="10" url="/skill/472-ancient-sword-mastery/45/1010/eternal" icon="skill0472">P. Atk. +18.</enchant>
+              <enchant level="11" url="/skill/472-ancient-sword-mastery/45/1011/eternal" icon="skill0472">P. Atk. +19.</enchant>
+              <enchant level="12" url="/skill/472-ancient-sword-mastery/45/1012/eternal" icon="skill0472">P. Atk. +20.</enchant>
+              <enchant level="13" url="/skill/472-ancient-sword-mastery/45/1013/eternal" icon="skill0472">P. Atk. +21.</enchant>
+              <enchant level="14" url="/skill/472-ancient-sword-mastery/45/1014/eternal" icon="skill0472">P. Atk. +22.</enchant>
+              <enchant level="15" url="/skill/472-ancient-sword-mastery/45/1015/eternal" icon="skill0472">P. Atk. +23.</enchant>
+              <enchant level="16" url="/skill/472-ancient-sword-mastery/45/1016/eternal" icon="skill0472">P. Atk. +24.</enchant>
+              <enchant level="17" url="/skill/472-ancient-sword-mastery/45/1017/eternal" icon="skill0472">P. Atk. +25.</enchant>
+              <enchant level="18" url="/skill/472-ancient-sword-mastery/45/1018/eternal" icon="skill0472">P. Atk. +26.</enchant>
+              <enchant level="19" url="/skill/472-ancient-sword-mastery/45/1019/eternal" icon="skill0472">P. Atk. +27.</enchant>
+              <enchant level="20" url="/skill/472-ancient-sword-mastery/45/1020/eternal" icon="skill0472">P. Atk. +28.</enchant>
+              <enchant level="21" url="/skill/472-ancient-sword-mastery/45/1021/eternal" icon="skill0472">P. Atk. +29.</enchant>
+              <enchant level="22" url="/skill/472-ancient-sword-mastery/45/1022/eternal" icon="skill0472">P. Atk. +30.</enchant>
+              <enchant level="23" url="/skill/472-ancient-sword-mastery/45/1023/eternal" icon="skill0472">P. Atk. +31.</enchant>
+              <enchant level="24" url="/skill/472-ancient-sword-mastery/45/1024/eternal" icon="skill0472">P. Atk. +32.</enchant>
+              <enchant level="25" url="/skill/472-ancient-sword-mastery/45/1025/eternal" icon="skill0472">P. Atk. +33.</enchant>
+              <enchant level="26" url="/skill/472-ancient-sword-mastery/45/1026/eternal" icon="skill0472">P. Atk. +34.</enchant>
+              <enchant level="27" url="/skill/472-ancient-sword-mastery/45/1027/eternal" icon="skill0472">P. Atk. +35.</enchant>
+              <enchant level="28" url="/skill/472-ancient-sword-mastery/45/1028/eternal" icon="skill0472">P. Atk. +37.</enchant>
+              <enchant level="29" url="/skill/472-ancient-sword-mastery/45/1029/eternal" icon="skill0472">P. Atk. +38.</enchant>
+              <enchant level="30" url="/skill/472-ancient-sword-mastery/45/1030/eternal" icon="skill0472">P. Atk. +39.</enchant>
+            </group>
+            <group type="swiftness">
+              <enchant level="1" url="/skill/472-ancient-sword-mastery/45/2001/eternal" icon="skill0472">Atk. Spd. +1.1%%.</enchant>
+              <enchant level="2" url="/skill/472-ancient-sword-mastery/45/2002/eternal" icon="skill0472">Atk. Spd. +1.2%%.</enchant>
+              <enchant level="3" url="/skill/472-ancient-sword-mastery/45/2003/eternal" icon="skill0472">Atk. Spd. +1.4%%.</enchant>
+              <enchant level="4" url="/skill/472-ancient-sword-mastery/45/2004/eternal" icon="skill0472">Atk. Spd. +1.5%%.</enchant>
+              <enchant level="5" url="/skill/472-ancient-sword-mastery/45/2005/eternal" icon="skill0472">Atk. Spd. +1.6%%.</enchant>
+              <enchant level="6" url="/skill/472-ancient-sword-mastery/45/2006/eternal" icon="skill0472">Atk. Spd. +1.8%%.</enchant>
+              <enchant level="7" url="/skill/472-ancient-sword-mastery/45/2007/eternal" icon="skill0472">Atk. Spd. +1.9%%.</enchant>
+              <enchant level="8" url="/skill/472-ancient-sword-mastery/45/2008/eternal" icon="skill0472">Atk. Spd. +2%%.</enchant>
+              <enchant level="9" url="/skill/472-ancient-sword-mastery/45/2009/eternal" icon="skill0472">Atk. Spd. +2.2%%.</enchant>
+              <enchant level="10" url="/skill/472-ancient-sword-mastery/45/2010/eternal" icon="skill0472">Atk. Spd. +2.3%%.</enchant>
+              <enchant level="11" url="/skill/472-ancient-sword-mastery/45/2011/eternal" icon="skill0472">Atk. Spd. +2.4%%.</enchant>
+              <enchant level="12" url="/skill/472-ancient-sword-mastery/45/2012/eternal" icon="skill0472">Atk. Spd. +2.6%%.</enchant>
+              <enchant level="13" url="/skill/472-ancient-sword-mastery/45/2013/eternal" icon="skill0472">Atk. Spd. +2.7%%.</enchant>
+              <enchant level="14" url="/skill/472-ancient-sword-mastery/45/2014/eternal" icon="skill0472">Atk. Spd. +2.8%%.</enchant>
+              <enchant level="15" url="/skill/472-ancient-sword-mastery/45/2015/eternal" icon="skill0472">Atk. Spd. +3%%.</enchant>
+              <enchant level="16" url="/skill/472-ancient-sword-mastery/45/2016/eternal" icon="skill0472">Atk. Spd. +3.1%%.</enchant>
+              <enchant level="17" url="/skill/472-ancient-sword-mastery/45/2017/eternal" icon="skill0472">Atk. Spd. +3.2%%.</enchant>
+              <enchant level="18" url="/skill/472-ancient-sword-mastery/45/2018/eternal" icon="skill0472">Atk. Spd. +3.4%%.</enchant>
+              <enchant level="19" url="/skill/472-ancient-sword-mastery/45/2019/eternal" icon="skill0472">Atk. Spd. +3.5%%.</enchant>
+              <enchant level="20" url="/skill/472-ancient-sword-mastery/45/2020/eternal" icon="skill0472">Atk. Spd. +3.6%%.</enchant>
+              <enchant level="21" url="/skill/472-ancient-sword-mastery/45/2021/eternal" icon="skill0472">Atk. Spd. +3.8%%.</enchant>
+              <enchant level="22" url="/skill/472-ancient-sword-mastery/45/2022/eternal" icon="skill0472">Atk. Spd. +3.9%%.</enchant>
+              <enchant level="23" url="/skill/472-ancient-sword-mastery/45/2023/eternal" icon="skill0472">Atk. Spd. +4%%.</enchant>
+              <enchant level="24" url="/skill/472-ancient-sword-mastery/45/2024/eternal" icon="skill0472">Atk. Spd. +4.2%%.</enchant>
+              <enchant level="25" url="/skill/472-ancient-sword-mastery/45/2025/eternal" icon="skill0472">Atk. Spd. +4.3%%.</enchant>
+              <enchant level="26" url="/skill/472-ancient-sword-mastery/45/2026/eternal" icon="skill0472">Atk. Spd. +4.4%%.</enchant>
+              <enchant level="27" url="/skill/472-ancient-sword-mastery/45/2027/eternal" icon="skill0472">Atk. Spd. +4.6%%.</enchant>
+              <enchant level="28" url="/skill/472-ancient-sword-mastery/45/2028/eternal" icon="skill0472">Atk. Spd. +4.7%%.</enchant>
+              <enchant level="29" url="/skill/472-ancient-sword-mastery/45/2029/eternal" icon="skill0472">Atk. Spd. +4.8%%.</enchant>
+              <enchant level="30" url="/skill/472-ancient-sword-mastery/45/2030/eternal" icon="skill0472">Atk. Spd. +5%%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="474" name="Rapier Mastery" start_level="1" icon="skill0474" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/474-rapier-mastery/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/474-rapier-mastery/45/1001/eternal" icon="skill0474">P. Atk. +7.</enchant>
+              <enchant level="2" url="/skill/474-rapier-mastery/45/1002/eternal" icon="skill0474">P. Atk. +8.</enchant>
+              <enchant level="3" url="/skill/474-rapier-mastery/45/1003/eternal" icon="skill0474">P. Atk. +9.</enchant>
+              <enchant level="4" url="/skill/474-rapier-mastery/45/1004/eternal" icon="skill0474">P. Atk. +11.</enchant>
+              <enchant level="5" url="/skill/474-rapier-mastery/45/1005/eternal" icon="skill0474">P. Atk. +12.</enchant>
+              <enchant level="6" url="/skill/474-rapier-mastery/45/1006/eternal" icon="skill0474">P. Atk. +14.</enchant>
+              <enchant level="7" url="/skill/474-rapier-mastery/45/1007/eternal" icon="skill0474">P. Atk. +15.</enchant>
+              <enchant level="8" url="/skill/474-rapier-mastery/45/1008/eternal" icon="skill0474">P. Atk. +16.</enchant>
+              <enchant level="9" url="/skill/474-rapier-mastery/45/1009/eternal" icon="skill0474">P. Atk. +18.</enchant>
+              <enchant level="10" url="/skill/474-rapier-mastery/45/1010/eternal" icon="skill0474">P. Atk. +19.</enchant>
+              <enchant level="11" url="/skill/474-rapier-mastery/45/1011/eternal" icon="skill0474">P. Atk. +20.</enchant>
+              <enchant level="12" url="/skill/474-rapier-mastery/45/1012/eternal" icon="skill0474">P. Atk. +22.</enchant>
+              <enchant level="13" url="/skill/474-rapier-mastery/45/1013/eternal" icon="skill0474">P. Atk. +23.</enchant>
+              <enchant level="14" url="/skill/474-rapier-mastery/45/1014/eternal" icon="skill0474">P. Atk. +25.</enchant>
+              <enchant level="15" url="/skill/474-rapier-mastery/45/1015/eternal" icon="skill0474">P. Atk. +26.</enchant>
+              <enchant level="16" url="/skill/474-rapier-mastery/45/1016/eternal" icon="skill0474">P. Atk. +27.</enchant>
+              <enchant level="17" url="/skill/474-rapier-mastery/45/1017/eternal" icon="skill0474">P. Atk. +29.</enchant>
+              <enchant level="18" url="/skill/474-rapier-mastery/45/1018/eternal" icon="skill0474">P. Atk. +30.</enchant>
+              <enchant level="19" url="/skill/474-rapier-mastery/45/1019/eternal" icon="skill0474">P. Atk. +32.</enchant>
+              <enchant level="20" url="/skill/474-rapier-mastery/45/1020/eternal" icon="skill0474">P. Atk. +33.</enchant>
+              <enchant level="21" url="/skill/474-rapier-mastery/45/1021/eternal" icon="skill0474">P. Atk. +34.</enchant>
+              <enchant level="22" url="/skill/474-rapier-mastery/45/1022/eternal" icon="skill0474">P. Atk. +36.</enchant>
+              <enchant level="23" url="/skill/474-rapier-mastery/45/1023/eternal" icon="skill0474">P. Atk. +37.</enchant>
+              <enchant level="24" url="/skill/474-rapier-mastery/45/1024/eternal" icon="skill0474">P. Atk. +38.</enchant>
+              <enchant level="25" url="/skill/474-rapier-mastery/45/1025/eternal" icon="skill0474">P. Atk. +40.</enchant>
+              <enchant level="26" url="/skill/474-rapier-mastery/45/1026/eternal" icon="skill0474">P. Atk. +41.</enchant>
+              <enchant level="27" url="/skill/474-rapier-mastery/45/1027/eternal" icon="skill0474">P. Atk. +43.</enchant>
+              <enchant level="28" url="/skill/474-rapier-mastery/45/1028/eternal" icon="skill0474">P. Atk. +44.</enchant>
+              <enchant level="29" url="/skill/474-rapier-mastery/45/1029/eternal" icon="skill0474">P. Atk. +45.</enchant>
+              <enchant level="30" url="/skill/474-rapier-mastery/45/1030/eternal" icon="skill0474">P. Atk. +47.</enchant>
+            </group>
+            <group type="swiftness">
+              <enchant level="1" url="/skill/474-rapier-mastery/45/2001/eternal" icon="skill0474">Atk. Spd. +1.1%%.</enchant>
+              <enchant level="2" url="/skill/474-rapier-mastery/45/2002/eternal" icon="skill0474">Atk. Spd. +1.2%%.</enchant>
+              <enchant level="3" url="/skill/474-rapier-mastery/45/2003/eternal" icon="skill0474">Atk. Spd. +1.4%%.</enchant>
+              <enchant level="4" url="/skill/474-rapier-mastery/45/2004/eternal" icon="skill0474">Atk. Spd. +1.5%%.</enchant>
+              <enchant level="5" url="/skill/474-rapier-mastery/45/2005/eternal" icon="skill0474">Atk. Spd. +1.6%%.</enchant>
+              <enchant level="6" url="/skill/474-rapier-mastery/45/2006/eternal" icon="skill0474">Atk. Spd. +1.8%%.</enchant>
+              <enchant level="7" url="/skill/474-rapier-mastery/45/2007/eternal" icon="skill0474">Atk. Spd. +1.9%%.</enchant>
+              <enchant level="8" url="/skill/474-rapier-mastery/45/2008/eternal" icon="skill0474">Atk. Spd. +2%%.</enchant>
+              <enchant level="9" url="/skill/474-rapier-mastery/45/2009/eternal" icon="skill0474">Atk. Spd. +2.2%%.</enchant>
+              <enchant level="10" url="/skill/474-rapier-mastery/45/2010/eternal" icon="skill0474">Atk. Spd. +2.3%%.</enchant>
+              <enchant level="11" url="/skill/474-rapier-mastery/45/2011/eternal" icon="skill0474">Atk. Spd. +2.4%%.</enchant>
+              <enchant level="12" url="/skill/474-rapier-mastery/45/2012/eternal" icon="skill0474">Atk. Spd. +2.6%%.</enchant>
+              <enchant level="13" url="/skill/474-rapier-mastery/45/2013/eternal" icon="skill0474">Atk. Spd. +2.7%%.</enchant>
+              <enchant level="14" url="/skill/474-rapier-mastery/45/2014/eternal" icon="skill0474">Atk. Spd. +2.8%%.</enchant>
+              <enchant level="15" url="/skill/474-rapier-mastery/45/2015/eternal" icon="skill0474">Atk. Spd. +3%%.</enchant>
+              <enchant level="16" url="/skill/474-rapier-mastery/45/2016/eternal" icon="skill0474">Atk. Spd. +3.1%%.</enchant>
+              <enchant level="17" url="/skill/474-rapier-mastery/45/2017/eternal" icon="skill0474">Atk. Spd. +3.2%%.</enchant>
+              <enchant level="18" url="/skill/474-rapier-mastery/45/2018/eternal" icon="skill0474">Atk. Spd. +3.4%%.</enchant>
+              <enchant level="19" url="/skill/474-rapier-mastery/45/2019/eternal" icon="skill0474">Atk. Spd. +3.5%%.</enchant>
+              <enchant level="20" url="/skill/474-rapier-mastery/45/2020/eternal" icon="skill0474">Atk. Spd. +3.6%%.</enchant>
+              <enchant level="21" url="/skill/474-rapier-mastery/45/2021/eternal" icon="skill0474">Atk. Spd. +3.8%%.</enchant>
+              <enchant level="22" url="/skill/474-rapier-mastery/45/2022/eternal" icon="skill0474">Atk. Spd. +3.9%%.</enchant>
+              <enchant level="23" url="/skill/474-rapier-mastery/45/2023/eternal" icon="skill0474">Atk. Spd. +4%%.</enchant>
+              <enchant level="24" url="/skill/474-rapier-mastery/45/2024/eternal" icon="skill0474">Atk. Spd. +4.2%%.</enchant>
+              <enchant level="25" url="/skill/474-rapier-mastery/45/2025/eternal" icon="skill0474">Atk. Spd. +4.3%%.</enchant>
+              <enchant level="26" url="/skill/474-rapier-mastery/45/2026/eternal" icon="skill0474">Atk. Spd. +4.4%%.</enchant>
+              <enchant level="27" url="/skill/474-rapier-mastery/45/2027/eternal" icon="skill0474">Atk. Spd. +4.6%%.</enchant>
+              <enchant level="28" url="/skill/474-rapier-mastery/45/2028/eternal" icon="skill0474">Atk. Spd. +4.7%%.</enchant>
+              <enchant level="29" url="/skill/474-rapier-mastery/45/2029/eternal" icon="skill0474">Atk. Spd. +4.8%%.</enchant>
+              <enchant level="30" url="/skill/474-rapier-mastery/45/2030/eternal" icon="skill0474">Atk. Spd. +5%%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="1320" name="Create Common Item" start_level="1" icon="skill0172" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/1320-create-common-item/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Ability skills">
+        <skill id="194" name="Lucky" start_level="1" icon="skill0194" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/194-lucky/1">
+          <enchants/>
+        </skill>
+        <skill id="466" name="Magic Immunity" start_level="1" icon="skill0466" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/1">
+          <enchants>
+            <group type="power">
+              <enchant level="1" url="/skill/466-magic-immunity/55/1001/eternal" icon="skill0466">M. Def. +2, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="2" url="/skill/466-magic-immunity/55/1002/eternal" icon="skill0466">M. Def. +3, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="3" url="/skill/466-magic-immunity/55/1003/eternal" icon="skill0466">M. Def. +4, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="4" url="/skill/466-magic-immunity/55/1004/eternal" icon="skill0466">M. Def. +6, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="5" url="/skill/466-magic-immunity/55/1005/eternal" icon="skill0466">M. Def. +7, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="6" url="/skill/466-magic-immunity/55/1006/eternal" icon="skill0466">M. Def. +8, Resistance to Magic Damage +1%.</enchant>
+              <enchant level="7" url="/skill/466-magic-immunity/55/1007/eternal" icon="skill0466">M. Def. +10, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="8" url="/skill/466-magic-immunity/55/1008/eternal" icon="skill0466">M. Def. +11, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="9" url="/skill/466-magic-immunity/55/1009/eternal" icon="skill0466">M. Def. +12, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="10" url="/skill/466-magic-immunity/55/1010/eternal" icon="skill0466">M. Def. +14, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="11" url="/skill/466-magic-immunity/55/1011/eternal" icon="skill0466">M. Def. +15, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="12" url="/skill/466-magic-immunity/55/1012/eternal" icon="skill0466">M. Def. +16, Resistance to Magic Damage +2%.</enchant>
+              <enchant level="13" url="/skill/466-magic-immunity/55/1013/eternal" icon="skill0466">M. Def. +18, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="14" url="/skill/466-magic-immunity/55/1014/eternal" icon="skill0466">M. Def. +19, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="15" url="/skill/466-magic-immunity/55/1015/eternal" icon="skill0466">M. Def. +20, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="16" url="/skill/466-magic-immunity/55/1016/eternal" icon="skill0466">M. Def. +22, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="17" url="/skill/466-magic-immunity/55/1017/eternal" icon="skill0466">M. Def. +23, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="18" url="/skill/466-magic-immunity/55/1018/eternal" icon="skill0466">M. Def. +24, Resistance to Magic Damage +3%.</enchant>
+              <enchant level="19" url="/skill/466-magic-immunity/55/1019/eternal" icon="skill0466">M. Def. +26, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="20" url="/skill/466-magic-immunity/55/1020/eternal" icon="skill0466">M. Def. +27, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="21" url="/skill/466-magic-immunity/55/1021/eternal" icon="skill0466">M. Def. +28, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="22" url="/skill/466-magic-immunity/55/1022/eternal" icon="skill0466">M. Def. +30, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="23" url="/skill/466-magic-immunity/55/1023/eternal" icon="skill0466">M. Def. +31, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="24" url="/skill/466-magic-immunity/55/1024/eternal" icon="skill0466">M. Def. +32, Resistance to Magic Damage +4%.</enchant>
+              <enchant level="25" url="/skill/466-magic-immunity/55/1025/eternal" icon="skill0466">M. Def. +34, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="26" url="/skill/466-magic-immunity/55/1026/eternal" icon="skill0466">M. Def. +35, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="27" url="/skill/466-magic-immunity/55/1027/eternal" icon="skill0466">M. Def. +36, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="28" url="/skill/466-magic-immunity/55/1028/eternal" icon="skill0466">M. Def. +38, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="29" url="/skill/466-magic-immunity/55/1029/eternal" icon="skill0466">M. Def. +39, Resistance to Magic Damage +5%.</enchant>
+              <enchant level="30" url="/skill/466-magic-immunity/55/1030/eternal" icon="skill0466">M. Def. +40, Resistance to Magic Damage +5%.</enchant>
+            </group>
+          </enchants>
+        </skill>
+        <skill id="27984" name="Knock" start_level="1" icon="skill0493" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/27984-knock/1">
+          <enchants/>
+        </skill>
+      </category>
+      <category name="Occupation skills">
+        <skill id="462" name="Guilted Body" start_level="1" icon="skill0462" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/462-guilted-body/1">
+          <enchants/>
+        </skill>
+        <skill id="467" name="Soul Mastery" start_level="1" icon="skill0467" icon_panel="" url="https://wikipedia1.mw2.wiki/skill/467-soul-mastery/1">
+          <enchants/>
+        </skill>
+      </category>
+    </skills>
+  </skills_summary>
+  <skills>
+    <level number="20">
+      <skill id="1473" name="Change Weapon" level="1" icon_name="skill1473" url="https://wikipedia1.mw2.wiki/skill/1473-change-weapon/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1473.png" note="Automatic learning"/>
+      <skill id="474" name="Rapier Mastery" level="1" icon_name="skill0474" url="https://wikipedia1.mw2.wiki/skill/474-rapier-mastery/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0474.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="6" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="1" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="1" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="1" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="472" name="Ancient Sword Mastery" level="1" icon_name="skill0472" url="https://wikipedia1.mw2.wiki/skill/472-ancient-sword-mastery/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0472.png" note="Automatic learning"/>
+      <skill id="1433" name="Abyssal Blaze" level="1" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="475" name="Strike Back" level="1" icon_name="skill0475" url="https://wikipedia1.mw2.wiki/skill/475-strike-back/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0475.png" note="Automatic learning"/>
+      <skill id="467" name="Soul Mastery" level="4" icon_name="skill0467" url="https://wikipedia1.mw2.wiki/skill/467-soul-mastery/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0467.png" note="Automatic learning"/>
+    </level>
+    <level number="21">
+      <skill id="476" name="Dark Strike" level="2" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="2" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+    </level>
+    <level number="22">
+      <skill id="1433" name="Abyssal Blaze" level="2" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="3" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="3" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="2" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="7" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+    </level>
+    <level number="24">
+      <skill id="1433" name="Abyssal Blaze" level="3" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="1434" name="Dark Explosion" level="1" icon_name="skill1434" url="https://wikipedia1.mw2.wiki/skill/1434-dark-explosion/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1434.png" note="Automatic learning"/>
+      <skill id="482" name="Furious Soul" level="1" icon_name="skill0482" url="https://wikipedia1.mw2.wiki/skill/482-furious-soul/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0482.png" note="Automatic learning"/>
+      <skill id="1475" name="Erase Mark" level="1" icon_name="skill1475" url="https://wikipedia1.mw2.wiki/skill/1475-erase-mark/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1475.png" note="Automatic learning"/>
+      <skill id="467" name="Soul Mastery" level="5" icon_name="skill0467" url="https://wikipedia1.mw2.wiki/skill/467-soul-mastery/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0467.png" note="Automatic learning"/>
+      <skill id="474" name="Rapier Mastery" level="2" icon_name="skill0474" url="https://wikipedia1.mw2.wiki/skill/474-rapier-mastery/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0474.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="8" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="3" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="4" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="4" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="472" name="Ancient Sword Mastery" level="2" icon_name="skill0472" url="https://wikipedia1.mw2.wiki/skill/472-ancient-sword-mastery/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0472.png" note="Automatic learning"/>
+      <skill id="1435" name="Death Mark" level="1" icon_name="skill1435" url="https://wikipedia1.mw2.wiki/skill/1435-death-mark/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1435.png" note="Automatic learning"/>
+    </level>
+    <level number="25">
+      <skill id="476" name="Dark Strike" level="5" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="5" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+    </level>
+    <level number="26">
+      <skill id="1433" name="Abyssal Blaze" level="4" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="6" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="6" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="4" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="9" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/9/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+    </level>
+    <level number="28">
+      <skill id="1433" name="Abyssal Blaze" level="5" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="1432" name="Increase Power" level="2" icon_name="skill1432" url="https://wikipedia1.mw2.wiki/skill/1432-increase-power/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1432.png" note="Automatic learning"/>
+      <skill id="479" name="Hard March" level="1" icon_name="skill0479" url="https://wikipedia1.mw2.wiki/skill/479-hard-march/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0479.png" note="Automatic learning"/>
+      <skill id="1434" name="Dark Explosion" level="2" icon_name="skill1434" url="https://wikipedia1.mw2.wiki/skill/1434-dark-explosion/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1434.png" note="Automatic learning"/>
+      <skill id="467" name="Soul Mastery" level="6" icon_name="skill0467" url="https://wikipedia1.mw2.wiki/skill/467-soul-mastery/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0467.png" note="Automatic learning"/>
+      <skill id="474" name="Rapier Mastery" level="3" icon_name="skill0474" url="https://wikipedia1.mw2.wiki/skill/474-rapier-mastery/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0474.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="10" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/10/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="5" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="7" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="7" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="472" name="Ancient Sword Mastery" level="3" icon_name="skill0472" url="https://wikipedia1.mw2.wiki/skill/472-ancient-sword-mastery/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0472.png" note="Automatic learning"/>
+      <skill id="1445" name="Surrender to Dark" level="1" icon_name="skill1445" url="https://wikipedia1.mw2.wiki/skill/1445-surrender-to-dark/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1445.png" note="Automatic learning"/>
+    </level>
+    <level number="29">
+      <skill id="476" name="Dark Strike" level="8" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="8" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="6" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="11" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/11/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+    </level>
+    <level number="30">
+      <skill id="1433" name="Abyssal Blaze" level="6" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="472" name="Ancient Sword Mastery" level="4" icon_name="skill0472" url="https://wikipedia1.mw2.wiki/skill/472-ancient-sword-mastery/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0472.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="9" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/9/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="9" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/9/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="7" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="12" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/12/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+      <skill id="474" name="Rapier Mastery" level="4" icon_name="skill0474" url="https://wikipedia1.mw2.wiki/skill/474-rapier-mastery/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0474.png" note="Automatic learning"/>
+    </level>
+    <level number="32">
+      <skill id="1433" name="Abyssal Blaze" level="7" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="481" name="Dark Armor" level="1" icon_name="skill0481" url="https://wikipedia1.mw2.wiki/skill/481-dark-armor/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0481.png" note="Automatic learning"/>
+      <skill id="1445" name="Surrender to Dark" level="2" icon_name="skill1445" url="https://wikipedia1.mw2.wiki/skill/1445-surrender-to-dark/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1445.png" note="Automatic learning"/>
+      <skill id="1435" name="Death Mark" level="2" icon_name="skill1435" url="https://wikipedia1.mw2.wiki/skill/1435-death-mark/2/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1435.png" note="Automatic learning"/>
+      <skill id="1434" name="Dark Explosion" level="3" icon_name="skill1434" url="https://wikipedia1.mw2.wiki/skill/1434-dark-explosion/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1434.png" note="Automatic learning"/>
+      <skill id="467" name="Soul Mastery" level="7" icon_name="skill0467" url="https://wikipedia1.mw2.wiki/skill/467-soul-mastery/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0467.png" note="Automatic learning"/>
+      <skill id="474" name="Rapier Mastery" level="5" icon_name="skill0474" url="https://wikipedia1.mw2.wiki/skill/474-rapier-mastery/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0474.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="13" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/13/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="8" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="10" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/10/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="10" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/10/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="472" name="Ancient Sword Mastery" level="5" icon_name="skill0472" url="https://wikipedia1.mw2.wiki/skill/472-ancient-sword-mastery/5/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0472.png" note="Automatic learning"/>
+      <skill id="484" name="Rush" level="1" icon_name="skill0484" url="https://wikipedia1.mw2.wiki/skill/484-rush/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0484.png" note="Automatic learning"/>
+    </level>
+    <level number="33">
+      <skill id="476" name="Dark Strike" level="11" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/11/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="11" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/11/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="9" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/9/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="14" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/14/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+    </level>
+    <level number="34">
+      <skill id="1433" name="Abyssal Blaze" level="8" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="472" name="Ancient Sword Mastery" level="6" icon_name="skill0472" url="https://wikipedia1.mw2.wiki/skill/472-ancient-sword-mastery/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0472.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="12" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/12/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="12" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/12/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="10" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/10/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="15" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/15/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+      <skill id="474" name="Rapier Mastery" level="6" icon_name="skill0474" url="https://wikipedia1.mw2.wiki/skill/474-rapier-mastery/6/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0474.png" note="Automatic learning"/>
+    </level>
+    <level number="36">
+      <skill id="1433" name="Abyssal Blaze" level="9" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/9/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="485" name="Disarm" level="1" icon_name="skill0485" url="https://wikipedia1.mw2.wiki/skill/485-disarm/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0485.png" note="Automatic learning"/>
+      <skill id="480" name="Dark Blade" level="1" icon_name="skill0480" url="https://wikipedia1.mw2.wiki/skill/480-dark-blade/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0480.png" note="Automatic learning"/>
+      <skill id="499" name="Courage" level="1" icon_name="skill0499" url="https://wikipedia1.mw2.wiki/skill/499-courage/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0499.png" note="Automatic learning"/>
+      <skill id="1445" name="Surrender to Dark" level="3" icon_name="skill1445" url="https://wikipedia1.mw2.wiki/skill/1445-surrender-to-dark/3/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1445.png" note="Automatic learning"/>
+      <skill id="1434" name="Dark Explosion" level="4" icon_name="skill1434" url="https://wikipedia1.mw2.wiki/skill/1434-dark-explosion/4/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1434.png" note="Automatic learning"/>
+      <skill id="467" name="Soul Mastery" level="8" icon_name="skill0467" url="https://wikipedia1.mw2.wiki/skill/467-soul-mastery/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0467.png" note="Automatic learning"/>
+      <skill id="474" name="Rapier Mastery" level="7" icon_name="skill0474" url="https://wikipedia1.mw2.wiki/skill/474-rapier-mastery/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0474.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="16" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/16/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="11" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/11/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="13" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/13/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="13" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/13/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="472" name="Ancient Sword Mastery" level="7" icon_name="skill0472" url="https://wikipedia1.mw2.wiki/skill/472-ancient-sword-mastery/7/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0472.png" note="Automatic learning"/>
+      <skill id="483" name="Sword Shield" level="1" icon_name="skill0483" url="https://wikipedia1.mw2.wiki/skill/483-sword-shield/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0483.png" note="Automatic learning"/>
+    </level>
+    <level number="37">
+      <skill id="476" name="Dark Strike" level="14" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/14/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="14" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/14/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="12" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/12/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="17" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/17/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+    </level>
+    <level number="38">
+      <skill id="1433" name="Abyssal Blaze" level="10" icon_name="skill1433" url="https://wikipedia1.mw2.wiki/skill/1433-abyssal-blaze/10/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill1433.png" note="Automatic learning"/>
+      <skill id="472" name="Ancient Sword Mastery" level="8" icon_name="skill0472" url="https://wikipedia1.mw2.wiki/skill/472-ancient-sword-mastery/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0472.png" note="Automatic learning"/>
+      <skill id="476" name="Dark Strike" level="15" icon_name="skill0476" url="https://wikipedia1.mw2.wiki/skill/476-dark-strike/15/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0476.png" note="Automatic learning"/>
+      <skill id="478" name="Double Thrust" level="15" icon_name="skill0478" url="https://wikipedia1.mw2.wiki/skill/478-double-thrust/15/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0478.png" note="Automatic learning"/>
+      <skill id="465" name="Light Armor Mastery" level="13" icon_name="skill0465" url="https://wikipedia1.mw2.wiki/skill/465-light-armor-mastery/13/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0465.png" note="Automatic learning"/>
+      <skill id="466" name="Magic Immunity" level="18" icon_name="skill0466" url="https://wikipedia1.mw2.wiki/skill/466-magic-immunity/18/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0466.png" note="Automatic learning"/>
+      <skill id="474" name="Rapier Mastery" level="8" icon_name="skill0474" url="https://wikipedia1.mw2.wiki/skill/474-rapier-mastery/8/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0474.png" note="Automatic learning"/>
+    </level>
+    <level number="40">
+      <skill id="27984" name="Knock" level="1" icon_name="skill0493" url="https://wikipedia1.mw2.wiki/skill/27984-knock/1/eternal" icon="https://wikipedia1.mw2.wiki/icon64/skill0493.png" note="Automatic learning"/>
+    </level>
+  </skills>
+</class>
